@@ -1,58 +1,44 @@
 import pandas as pd
 
-# Đọc file (giả sử tên file là movies.csv)
-df = pd.read_csv("movies.csv")
-
 # =========================
-# 1. Lấy danh sách genre (các cột từ 'action' trở đi)
+# 1. Đọc dữ liệu
 # =========================
 
-# Các cột không phải genre
-non_genre_cols = ['movie_id', 'title', 'release']
-
-# Lấy danh sách genre
-genre_cols = [col for col in df.columns if col not in non_genre_cols]
-
-print("Genres:", genre_cols)
+rating_df = pd.read_csv("ratings.csv")
+movies_df = pd.read_csv("movies.csv")
 
 # =========================
-# 2. Tạo bảng GENRE
+# 2. Join để map ID
 # =========================
 
-genre_df = pd.DataFrame({
-    'genre_id': range(1, len(genre_cols) + 1),
-    'genre_name': genre_cols
-})
-
-print(genre_df.head())
-
-# =========================
-# 3. Tạo bảng MOVIE_GENRE
-# =========================
-
-movie_genre_list = []
-
-for _, row in df.iterrows():
-    movie_id = row['movie_id']
-
-    for genre in genre_cols:
-        if row[genre] == 1:
-            genre_id = genre_df.loc[genre_df['genre_name'] == genre, 'genre_id'].values[0]
-
-            movie_genre_list.append({
-                'movie_id': movie_id,
-                'genre_id': genre_id
-            })
-
-movie_genre_df = pd.DataFrame(movie_genre_list)
-
-print(movie_genre_df.head())
+merged_df = pd.merge(
+    rating_df,
+    movies_df[['movie_id_ml', 'movie_id']],  # chỉ lấy cột cần
+    on='movie_id_ml',
+    how='inner'  # chỉ giữ record match
+)
 
 # =========================
-# 4. Export ra file
+# 3. Drop cột cũ (movie_id_ml)
 # =========================
 
-genre_df.to_csv("genre.csv", index=False)
-movie_genre_df.to_csv("movie_genre.csv", index=False)
+normalized_df = merged_df.drop(columns=['movie_id_ml'])
 
-print("✅ Created genre.csv and movie_genre.csv successfully!")
+# =========================
+# 4. Sắp xếp lại cột (optional)
+# =========================
+
+normalized_df = normalized_df[[
+    'user_id',
+    'movie_id',   # ID chuẩn
+    'rating',
+    'rating_timestamp'
+]]
+
+# =========================
+# 5. Export
+# =========================
+
+normalized_df.to_csv("rating_normalized.csv", index=False)
+
+print("✅ Created rating_normalized.csv successfully!")
