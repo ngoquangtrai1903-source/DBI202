@@ -1,408 +1,408 @@
-movie_id_ml,movie_id,title,release,url
-3,5,Four Rooms,1995,http://us.imdb.com/M/title-exact?Four%20Rooms%20(1995)
-69,13,Forrest Gump,1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
-250,18,The Fifth Element,1997,http://us.imdb.com/M/title-exact?Fifth%20Element%2C%20The%20%281997%29
-180,28,Apocalypse Now,1979,http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979)
-203,33,Unforgiven,1992,http://us.imdb.com/M/title-exact?Unforgiven%20(1992)
-135,62,2001: A Space Odyssey,1968,http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)
-291,66,Absolute Power,1997,http://us.imdb.com/M/title-exact?Absolute%20Power%20(1997)
-175,68,Brazil,1985,http://us.imdb.com/M/title-exact?Brazil%20(1985)
-235,75,Mars Attacks!,1996,http://us.imdb.com/M/title-exact?Mars%20Attacks!%20(1996)
-955,76,Before Sunrise,1995,http://us.imdb.com/M/title-exact?Before%20Sunrise%20(1995)
-89,78,Blade Runner,1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
-174,85,Raiders Of The Lost Ark,1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
-210,89,Indiana Jones And The Last Crusade,1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
-204,105,Back To The Future,1985,http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985)
-739,114,Pretty Woman,1990,http://us.imdb.com/M/title-exact?Pretty%20Woman%20(1990)
-202,137,Groundhog Day,1993,http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)
-206,149,Akira,1988,http://us.imdb.com/M/title-exact?Akira%20(1988)
-449,152,Star Trek: The Motion Picture,1979,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Motion%20Picture%20(1979)
-230,168,Star Trek Iv: The Voyage Home,1986,http://us.imdb.com/M/title-exact?Star%20Trek%20IV:%20The%20Voyage%20Home%20(1986)
-450,172,Star Trek V: The Final Frontier,1989,http://us.imdb.com/M/title-exact?Star%20Trek%20V:%20The%20Final%20Frontier%20(1989)
-141,173,"20,000 Leagues Under The Sea",1954,"http://us.imdb.com/M/title-exact?20,000%20Leagues%20Under%20the%20Sea%20(1954)"
-227,174,Star Trek Vi: The Undiscovered Country,1991,http://us.imdb.com/M/title-exact?Star%20Trek%20VI:%20The%20Undiscovered%20Country%20(1991)
-346,184,Jackie Brown,1997,http://us.imdb.com/M/title-exact?imdb-title-119396
-380,193,Star Trek: Generations,1994,http://us.imdb.com/M/title-exact?Star%20Trek:%20Generations%20(1994)
-222,199,Star Trek: First Contact,1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
-196,207,Dead Poets Society,1989,http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989)
-195,218,The Terminator,1984,"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)"
-607,223,Rebecca,1940,http://us.imdb.com/M/title-exact?Rebecca%20(1940)
-655,235,Stand By Me,1986,http://us.imdb.com/M/title-exact?Stand%20by%20Me%20(1986)
-482,239,Some Like It Hot,1959,http://us.imdb.com/M/title-exact?Some%20Like%20It%20Hot%20(1959)
-187,240,The Godfather: Part Ii,1974,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)"
-402,251,Ghost,1990,http://us.imdb.com/M/title-exact?Ghost%20(1990)
-499,261,Cat On A Hot Tin Roof,1958,http://us.imdb.com/M/title-exact?Cat%20on%20a%20Hot%20Tin%20Roof%20(1958)
-403,268,Batman,1989,http://us.imdb.com/M/title-exact?Batman%20(1989)
-64,278,The Shawshank Redemption,1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
-191,279,Amadeus,1984,http://us.imdb.com/M/title-exact?Amadeus%20(1984)
-96,280,Terminator 2: Judgment Day,1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
-481,284,The Apartment,1960,"http://us.imdb.com/M/title-exact?Apartment,%20The%20(1960)"
-661,288,High Noon,1952,http://us.imdb.com/M/title-exact?High%20Noon%20(1952)
-483,289,Casablanca,1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
-388,306,Beverly Hills Cop Iii,1994,http://us.imdb.com/M/title-exact?Beverly%20Hills%20Cop%20III%20(1994)
-649,311,Once Upon A Time In America,1984,http://us.imdb.com/M/title-exact?Once%20Upon%20a%20Time%20in%20America%20(1984)
-92,319,True Romance,1993,http://us.imdb.com/M/title-exact?True%20Romance%20(1993)
-82,329,Jurassic Park,1993,http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993)
-252,330,The Lost World: Jurassic Park,1997,http://us.imdb.com/M/title-exact?Lost%20World%3A%20Jurassic%20Park%2C%20The%20%281997%29
-183,348,Alien,1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
-231,364,Batman Returns,1992,http://us.imdb.com/M/title-exact?Batman%20Returns%20(1992)
-219,377,A Nightmare On Elm Street,1984,"http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)"
-178,389,12 Angry Men,1957,http://us.imdb.com/M/title-exact?12%20Angry%20Men%20(1957)
-99,408,Snow White And The Seven Dwarfs,1937,http://us.imdb.com/M/title-exact?Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937)
-286,409,The English Patient,1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
-29,414,Batman Forever,1995,http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995)
-254,415,Batman & Robin,1997,http://us.imdb.com/M/title-exact?Batman+%26+Robin+(1997)
-318,424,Schindler'S List,1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
-419,433,Mary Poppins,1964,http://us.imdb.com/M/title-exact?Mary%20Poppins%20(1964)
-276,451,Leaving Las Vegas,1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
-537,468,My Own Private Idaho,1991,http://us.imdb.com/M/title-exact?My+Own+Private+Idaho+(1991)
-156,500,Reservoir Dogs,1992,http://us.imdb.com/M/title-exact?Reservoir%20Dogs%20(1992)
-357,510,One Flew Over The Cuckoo'S Nest,1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
-47,522,Ed Wood,1994,http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994)
-693,524,Casino,1995,http://us.imdb.com/M/title-exact?Casino%20(1995)
-185,539,Psycho,1960,http://us.imdb.com/M/title-exact?Psycho%20(1960)
-1010,549,Basquiat,1996,http://us.imdb.com/M/title-exact?Basquiat%20(1996)
-144,562,Die Hard,1988,http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)
-271,563,Starship Troopers,1997,http://us.imdb.com/M/title-exact?Starship+Troopers+(1997)
-28,568,Apollo 13,1995,http://us.imdb.com/M/title-exact?Apollo%2013%20(1995)
-589,576,The Wild Bunch,1969,"http://us.imdb.com/M/title-exact?Wild%20Bunch,%20The%20(1969)"
-715,577,To Die For,1995,http://us.imdb.com/M/title-exact?To%20Die%20For%20(1995)
-234,578,Jaws,1975,http://us.imdb.com/M/title-exact?Jaws%20(1975)
-452,579,Jaws 2,1978,http://us.imdb.com/M/title-exact?Jaws%202%20(1978)
-97,581,Dances With Wolves,1990,http://us.imdb.com/M/title-exact?Dances%20with%20Wolves%20(1990)
-427,595,To Kill A Mockingbird,1962,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)
-313,597,Titanic,1997,http://us.imdb.com/M/title-exact?imdb-title-120338
-423,601,E.T. The Extra-Terrestrial,1982,http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29
-257,607,Men In Black,1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
-914,617,Wild Things,1998,http://us.imdb.com/Title?Wild+Things+(1998)
-451,621,Grease,1978,http://us.imdb.com/M/title-exact?Grease%20(1978)
-475,627,Trainspotting,1996,http://us.imdb.com/Title?Trainspotting+(1996)
-559,628,Interview With The Vampire,1994,http://us.imdb.com/M/title-exact?Interview%20with%20the%20Vampire%20(1994)
-216,639,When Harry Met Sally...,1989,http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989)
-435,642,Butch Cassidy And The Sundance Kid,1969,http://us.imdb.com/M/title-exact?Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)
-118,664,Twister,1996,http://us.imdb.com/M/title-exact?Twister%20(1996)
-56,680,Pulp Fiction,1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
-258,686,Contact,1997,http://us.imdb.com/Title?Contact+(1997/I)
-9,687,Dead Man Walking,1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
-200,694,The Shining,1980,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"
-507,702,A Streetcar Named Desire,1951,"http://us.imdb.com/M/title-exact?Streetcar%20Named%20Desire,%20A%20(1951)"
-514,703,Annie Hall,1977,http://us.imdb.com/M/title-exact?Annie%20Hall%20(1977)
-2,710,Goldeneye,1995,http://us.imdb.com/M/title-exact?GoldenEye%20(1995)
-70,712,Four Weddings And A Funeral,1994,http://us.imdb.com/M/title-exact?Four%20Weddings%20and%20a%20Funeral%20(1994)
-582,713,The Piano,1993,"http://us.imdb.com/M/title-exact?Piano,%20The%20(1993)"
-751,714,Tomorrow Never Dies,1997,http://us.imdb.com/M/title-exact?imdb-title-120347
-161,744,Top Gun,1986,http://us.imdb.com/M/title-exact?Top%20Gun%20(1986)
-298,754,Face/Off,1997,http://us.imdb.com/M/title-exact?Face/Off+(1997)
-17,755,From Dusk Till Dawn,1996,http://us.imdb.com/M/title-exact?From%20Dusk%20Till%20Dawn%20(1996)
-432,756,Fantasia,1940,http://us.imdb.com/M/title-exact?Fantasia%20(1940)
-201,765,Evil Dead Ii,1987,http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987)
-182,769,Goodfellas,1990,http://us.imdb.com/M/title-exact?GoodFellas%20(1990)
-133,770,Gone With The Wind,1939,http://us.imdb.com/M/title-exact?Gone%20with%20the%20Wind%20(1939)
-94,771,Home Alone,1990,http://us.imdb.com/M/title-exact?Home%20Alone%20(1990)
-527,783,Gandhi,1982,http://us.imdb.com/M/title-exact?Gandhi%20(1982)
-393,788,Mrs. Doubtfire,1993,http://us.imdb.com/M/title-exact?Mrs.%20Doubtfire%20(1993)
-635,790,The Fog,1980,"http://us.imdb.com/M/title-exact?Fog,%20The%20(1980)"
-157,792,Platoon,1986,http://us.imdb.com/M/title-exact?Platoon%20(1986)
-448,794,The Omen,1976,"http://us.imdb.com/M/title-exact?Omen,%20The%20(1976)"
-918,795,City Of Angels,1998,http://us.imdb.com/Title?City+of+Angels+(1998)
-11,807,Se7En,1995,http://us.imdb.com/M/title-exact?Se7en%20(1995)
-249,816,Austin Powers: International Man Of Mystery,1997,http://us.imdb.com/M/title-exact?Austin%20Powers%3A%20International%20Man%20of%20Mystery%20%281997%29
-628,819,Sleepers,1996,http://us.imdb.com/M/title-exact?Sleepers%20(1996)
-199,826,The Bridge On The River Kwai,1957,"http://us.imdb.com/M/title-exact?Bridge%20on%20the%20River%20Kwai,%20The%20(1957)"
-72,854,The Mask,1994,"http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)"
-1,862,Toy Story,1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
-1035,864,Cool Runnings,1993,http://us.imdb.com/M/title-exact?Cool%20Runnings%20(1993)
-383,888,The Flintstones,1994,"http://us.imdb.com/M/title-exact?Flintstones,%20The%20(1994)"
-511,947,Lawrence Of Arabia,1962,http://us.imdb.com/M/title-exact?Lawrence%20of%20Arabia%20(1962)
-405,954,Mission: Impossible,1996,http://us.imdb.com/M/title-exact?Mission:%20Impossible%20(1996)
-690,978,Seven Years In Tibet,1997,http://us.imdb.com/M/title-exact?Seven+Years+in+Tibet+(1997)
-558,1024,Heavenly Creatures,1994,http://us.imdb.com/M/title-exact?Heavenly%20Creatures%20(1994)
-636,1103,Escape From New York,1981,http://us.imdb.com/M/title-exact?Escape%20from%20New%20York%20(1981)
-86,1245,The Remains Of The Day,1993,"http://us.imdb.com/M/title-exact?Remains%20of%20the%20Day,%20The%20(1993)"
-1239,1408,Cutthroat Island,1995,http://us.imdb.com/M/title-exact?Cutthroat%20Island%20(1995)
-708,1412,"Sex, Lies, And Videotape",1989,"http://us.imdb.com/M/title-exact?sex,%20lies,%20and%20videotape%20(1989)"
-550,1572,Die Hard: With A Vengeance,1995,http://us.imdb.com/M/title-exact?Die%20Hard:%20With%20a%20Vengeance%20(1995)
-226,1573,Die Hard 2,1990,http://us.imdb.com/M/title-exact?Die%20Hard%202%20(1990)
-192,1578,Raging Bull,1980,http://us.imdb.com/M/title-exact?Raging%20Bull%20(1980)
-496,1585,It'S A Wonderful Life,1946,http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946)
-65,1587,What'S Eating Gilbert Grape,1993,http://us.imdb.com/M/title-exact?What's%20Eating%20Gilbert%20Grape%20(1993)
-218,1598,Cape Fear,1991,http://us.imdb.com/M/title-exact?Cape%20Fear%20(1991)
-294,1624,Liar Liar,1997,http://us.imdb.com/Title?Liar+Liar+(1997)
-568,1637,Speed,1994,http://us.imdb.com/M/title-exact?Speed%20(1994/I)
-1089,1639,Speed 2: Cruise Control,1997,http://us.imdb.com/M/title-exact?Speed%202%3A%20Cruise%20Control%20%281997%29
-38,1642,The Net,1995,"http://us.imdb.com/M/title-exact?Net,%20The%20(1995)"
-282,1645,A Time To Kill,1996,"http://us.imdb.com/M/title-exact?Time%20to%20Kill,%20A%20(1996)"
-265,1669,The Hunt For Red October,1990,http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990)
-1016,1701,Con Air,1997,http://us.imdb.com/M/title-exact?Con%20Air%20%281997%29
-5,1710,Copycat,1995,http://us.imdb.com/M/title-exact?Copycat%20(1995)
-744,1770,Michael Collins,1996,http://us.imdb.com/M/title-exact?Michael%20Collins%20(1996)
-307,1813,The Devil'S Advocate,1997,"http://us.imdb.com/M/title-exact?Devil's+Advocate,+The+(1997)"
-172,1891,The Empire Strikes Back,1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
-1098,2074,Flirting With Disaster,1996,http://us.imdb.com/M/title-exact?Flirting%20With%20Disaster%20(1996)
-583,2088,Romeo Is Bleeding,1993,http://us.imdb.com/M/title-exact?Romeo%20Is%20Bleeding%20(1993)
-849,2119,Days Of Thunder,1990,http://us.imdb.com/M/title-exact?Days%20of%20Thunder%20(1990)
-916,2157,Lost In Space,1998,http://us.imdb.com/Title?Lost+in+Space+(1998)
-246,2255,Chasing Amy,1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
-268,2255,Chasing Amy,1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
-42,2292,Clerks,1994,http://us.imdb.com/M/title-exact?Clerks%20(1994)
-820,2300,Space Jam,1996,http://us.imdb.com/M/title-exact?Space%20Jam%20(1996)
-685,2320,Executive Decision,1996,http://us.imdb.com/M/title-exact?Executive%20Decision%20(1996)
-173,2493,The Princess Bride,1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
-1407,2636,The Specialist,1994,"http://us.imdb.com/M/title-exact?Specialist,%20The%20(1994)"
-345,2639,Deconstructing Harry,1997,http://us.imdb.com/M/title-exact?imdb-title-118954
-333,2649,The Game,1997,http://us.imdb.com/M/title-exact?Game%2C+The+(1997)
-691,2666,Dark City,1998,http://us.imdb.com/M/title-exact?imdb-title-118929
-164,2756,The Abyss,1989,"http://us.imdb.com/M/title-exact?Abyss,%20The%20(1989)"
-344,2895,The Apostle,1997,http://us.imdb.com/M/title-exact?imdb-title-118632
-316,2898,As Good As It Gets,1997,http://us.imdb.com/Title?As+Good+As+It+Gets+(1997)
-476,2925,The First Wives Club,1996,"http://us.imdb.com/M/title-exact?First%20Wives%20Club,%20The%20(1996)"
-208,3034,Young Frankenstein,1974,http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974)
-67,3049,Ace Ventura: Pet Detective,1994,http://us.imdb.com/M/title-exact?Ace%20Ventura:%20Pet%20Detective%20(1994)
-604,3078,It Happened One Night,1934,http://us.imdb.com/M/title-exact?It%20Happened%20One%20Night%20(1934)
-1203,3080,Top Hat,1935,http://us.imdb.com/M/title-exact?Top%20Hat%20(1935)
-240,3179,Beavis And Butt-Head Do America,1996,http://us.imdb.com/M/title-exact?Beavis%20and%20Butt-head%20Do%20America%20(1996)
-1228,3512,Under Siege 2: Dark Territory,1995,http://us.imdb.com/M/title-exact?Under%20Siege%202:%20Dark%20Territory%20(1995)
-832,3587,Bogus,1996,http://us.imdb.com/M/title-exact?Bogus%20(1996)
-742,3595,Ransom,1996,http://us.imdb.com/M/title-exact?Ransom%20(1996)
-682,3597,I Know What You Did Last Summer,1997,http://us.imdb.com/M/title-exact?I+Know+What+You+Did+Last+Summer+(1997)
-608,4174,Spellbound,1945,http://us.imdb.com/M/title-exact?Spellbound%20(1945)
-288,4232,Scream,1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
-895,4233,Scream 2,1997,http://us.imdb.com/M/title-exact?imdb-title-120082
-326,4421,G.I. Jane,1997,http://us.imdb.com/M/title-exact?G%2EI%2E+Jane+(1997)
-51,4476,Legends Of The Fall,1994,http://us.imdb.com/M/title-exact?Legends%20of%20the%20Fall%20(1994)
-245,4477,The Devil'S Own,1997,http://us.imdb.com/M/title-exact?Devil%27s%20Own%2C%20The%20(1997)
-275,4584,Sense And Sensibility,1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
-689,4824,The Jackal,1997,http://us.imdb.com/M/title-exact?Jackal%2C+The+(1997)
-79,5503,The Fugitive,1993,"http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)"
-1274,5550,Robocop 3,1993,http://us.imdb.com/M/title-exact?Robocop%203%20(1993)
-1208,6071,Kiss Of Death,1995,http://us.imdb.com/M/title-exact?Kiss%20of%20Death%20(1995)
-352,6116,Spice World,1997,http://us.imdb.com/M/title-exact?imdb-title-120185
-674,6217,Cat People,1982,http://us.imdb.com/M/title-exact?Cat%20People%20(1982)
-720,6520,First Knight,1995,http://us.imdb.com/M/title-exact?First%20Knight%20(1995)
-879,6623,The Peacemaker,1997,http://us.imdb.com/M/title-exact?Peacemaker%2C+The+(1997)
-54,6950,Outbreak,1995,http://us.imdb.com/M/title-exact?Outbreak%20(1995)
-531,7863,Shine,1996,http://us.imdb.com/M/title-exact?Shine%20(1996)
-431,8009,Highlander,1986,http://us.imdb.com/M/title-exact?Highlander%20(1986)
-4,8012,Get Shorty,1995,http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995)
-33,8068,Desperado,1995,http://us.imdb.com/M/title-exact?Desperado%20(1995)
-1411,8069,Barbarella,1968,http://us.imdb.com/M/title-exact?Barbarella%20(1968)
-343,8078,Alien: Resurrection,1997,http://us.imdb.com/M/title-exact?Alien%3A+Resurrection+(1997)
-312,8197,Midnight In The Garden Of Good And Evil,1997,http://us.imdb.com/M/title-exact?Midnight+in+the+Garden+of+Good+and+Evil+(1997)
-807,8291,Poetic Justice,1993,http://us.imdb.com/M/title-exact?Poetic%20Justice%20(1993)
-627,8367,Robin Hood: Prince Of Thieves,1991,http://us.imdb.com/Title?Robin+Hood%3A+Prince+of+Thieves+(1991)
-260,8413,Event Horizon,1997,http://us.imdb.com/M/title-exact?Event+Horizon+(1997)
-71,8587,The Lion King,1994,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)"
-289,8818,Evita,1996,http://us.imdb.com/M/title-exact?Evita%20(1996)
-797,8831,Timecop,1994,http://us.imdb.com/M/title-exact?Timecop%20(1994)
-328,8834,Conspiracy Theory,1997,http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)
-917,8838,Mercury Rising,1998,http://us.imdb.com/Title?Mercury+Rising+(1998)
-768,8839,Casper,1995,http://us.imdb.com/M/title-exact?Casper%20(1995)
-472,8840,Dragonheart,1996,http://us.imdb.com/M/title-exact?Dragonheart%20(1996)
-810,8850,The Shadow,1994,"http://us.imdb.com/M/title-exact?Shadow,%20The%20(1994)"
-263,8854,Steel,1997,http://us.imdb.com/M/title-exact?Steel+(1997)
-255,8874,My Best Friend'S Wedding,1997,http://us.imdb.com/M/title-exact?My+Best+Friend%27s+Wedding+(1997)
-31,8963,Crimson Tide,1995,http://us.imdb.com/M/title-exact?Crimson%20Tide%20(1995)
-43,8984,Disclosure,1994,http://us.imdb.com/M/title-exact?Disclosure%20(1994)
-281,8987,The River Wild,1994,"http://us.imdb.com/M/title-exact?River%20Wild,%20The%20(1994)"
-1110,9067,Tank Girl,1995,http://us.imdb.com/M/title-exact?Tank%20Girl%20(1995)
-692,9087,The American President,1995,"http://us.imdb.com/M/title-exact?American%20President,%20The%20(1995)"
-716,9089,Home For The Holidays,1995,http://us.imdb.com/M/title-exact?Home%20for%20the%20Holidays%20(1995)
-370,9095,Mary Reilly,1996,http://us.imdb.com/M/title-exact?Mary%20Reilly%20(1996)
-105,9099,Sgt. Bilko,1996,http://us.imdb.com/M/title-exact?Sgt.%20Bilko%20(1996)
-928,9100,The Craft,1996,"http://us.imdb.com/M/title-exact?Craft,%20The%20(1996)"
-546,9208,Broken Arrow,1996,http://us.imdb.com/M/title-exact?Broken%20Arrow%20(1996)
-597,9268,Eraser,1996,http://us.imdb.com/M/title-exact?Eraser%20(1996)
-1210,9271,Virtuosity,1995,http://us.imdb.com/M/title-exact?Virtuosity%20(1995)
-364,9273,Ace Ventura: When Nature Calls,1995,http://us.imdb.com/M/title-exact?Ace%20Ventura:%20When%20Nature%20Calls%20(1995)
-194,9277,The Sting,1973,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"
-862,9279,Jingle All The Way,1996,http://us.imdb.com/M/title-exact?Jingle%20All%20the%20Way%20(1996)
-1526,9281,Witness,1985,http://us.imdb.com/M/title-exact?Witness+(1985)
-125,9294,Phenomenon,1996,http://us.imdb.com/M/title-exact?Phenomenon%20(1996)
-129,9303,Bound,1996,http://us.imdb.com/M/title-exact?Bound%20(1996)
-1047,9304,Multiplicity,1996,http://us.imdb.com/M/title-exact?Multiplicity%20(1996)
-931,9306,The Island Of Dr. Moreau,1996,"http://us.imdb.com/M/title-exact?Island%20of%20Dr.%20Moreau,%20The%20(1996)"
-244,9311,Smilla'S Sense Of Snow,1997,http://us.imdb.com/M/title-exact?Smilla%27s%20Sense%20of%20Snow%20(1997)
-541,9312,Mortal Kombat,1995,http://us.imdb.com/M/title-exact?Mortal%20Kombat%20(1995)
-1483,9313,The Man In The Iron Mask,1998,"http://us.imdb.com/Title?Man+in+the+Iron+Mask,+The+(1998/I)"
-411,9327,The Nutty Professor,1996,"http://us.imdb.com/M/title-exact?Nutty%20Professor,%20The%20(1996)"
-566,9331,Clear And Present Danger,1994,http://us.imdb.com/M/title-exact?Clear%20and%20Present%20Danger%20(1994)
-772,9344,Kids,1995,http://us.imdb.com/M/title-exact?Kids%20(1995)
-552,9348,Species,1995,http://us.imdb.com/M/title-exact?Species%20(1995)
-576,9350,Cliffhanger,1993,http://us.imdb.com/M/title-exact?Cliffhanger%20(1993)
-1013,9360,Anaconda,1997,http://us.imdb.com/M/title-exact?Anaconda%20%281997%29
-241,9361,The Last Of The Mohicans,1992,"http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)"
-293,9366,Donnie Brasco,1997,http://us.imdb.com/M/title-exact?Donnie%20Brasco%20(1997)
-237,9390,Jerry Maguire,1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
-1277,9400,Set It Off,1996,http://us.imdb.com/M/title-exact?Set%20It%20Off%20(1996)
-342,9414,The Man Who Knew Too Little,1997,http://us.imdb.com/M/title-exact?Man+Who+Knew+Too+Little%2C+The+(1997)
-876,9416,Money Talks,1997,http://us.imdb.com/M/title-exact?Money+Talks+(1997)
-881,9416,Money Talks,1997,http://us.imdb.com/M/title-exact?Money+Talks+(1997)
-269,9427,The Full Monty,1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
-331,9433,The Edge,1997,http://us.imdb.com/M/title-exact?Edge%2C+The+(1997/I)
-248,9434,Grosse Pointe Blank,1997,http://us.imdb.com/M/title-exact?Grosse%20Pointe%20Blank%20%281997%29
-332,9437,Kiss The Girls,1997,http://us.imdb.com/M/title-exact?Kiss+the+Girls+(1997)
-915,9440,Primary Colors,1998,http://us.imdb.com/Title?Primary+Colors+(1998)
-538,9444,Anastasia,1997,http://us.imdb.com/M/title-exact?Anastasia+(1997)
-353,9457,Deep Rising,1998,http://us.imdb.com/M/title-exact?imdb-title-118956
-908,9490,Half Baked,1998,http://us.imdb.com/M/title-exact?imdb-title-120693
-68,9495,The Crow,1994,"http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)"
-160,9504,Glengarry Glen Ross,1992,http://us.imdb.com/M/title-exact?Glengarry%20Glen%20Ross%20(1992)
-806,9516,Menace Ii Society,1993,http://us.imdb.com/M/title-exact?Menace%20II%20Society%20(1993)
-193,9549,The Right Stuff,1983,"http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)"
-595,9566,The Fan,1996,"http://us.imdb.com/M/title-exact?Fan,%20The%20(1996)"
-959,9571,Dazed And Confused,1993,http://us.imdb.com/M/title-exact?Dazed%20and%20Confused%20(1993)
-892,9574,Flubber,1997,http://us.imdb.com/M/title-exact?imdb-title-119137
-391,9593,Last Action Hero,1993,http://us.imdb.com/M/title-exact?Last%20Action%20Hero%20(1993)
-8,9598,Babe,1995,http://us.imdb.com/M/title-exact?Babe%20(1995)
-367,9603,Clueless,1995,http://us.imdb.com/M/title-exact?Clueless%20(1995)
-398,9607,Super Mario Bros.,1993,http://us.imdb.com/M/title-exact?Super%20Mario%20Bros.%20(1993)
-763,9614,Happy Gilmore,1996,http://us.imdb.com/M/title-exact?Happy%20Gilmore%20(1996)
-323,9619,Dante'S Peak,1997,http://us.imdb.com/M/title-exact?Dante's%20Peak%20(1997)
-717,9623,The Juror,1996,"http://us.imdb.com/M/title-exact?Juror,%20The%20(1996)"
-841,9625,The Glimmer Man,1996,"http://us.imdb.com/M/title-exact?Glimmer%20Man,%20The%20(1996)"
-651,9665,Glory,1989,http://us.imdb.com/M/title-exact?Glory%20(1989)
-1217,9691,Assassins,1995,http://us.imdb.com/Title?Assassins+(1995)
-319,9716,Everyone Says I Love You,1996,http://us.imdb.com/M/title-exact?Everyone%20Says%20I%20Love%20You%20(1996)
-27,9737,Bad Boys,1995,http://us.imdb.com/M/title-exact?Bad%20Boys%20(1995)
-900,9746,Kundun,1997,http://us.imdb.com/M/title-exact?imdb-title-119485
-339,9770,Mad City,1997,http://us.imdb.com/M/title-exact?Mad+City+(1997)
-300,9772,Air Force One,1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
-735,9800,Philadelphia,1993,http://us.imdb.com/M/title-exact?Philadelphia%20(1993)
-117,9802,The Rock,1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
-554,9804,Waterworld,1995,http://us.imdb.com/M/title-exact?Waterworld%20(1995)
-287,9819,Marvin'S Room,1996,http://us.imdb.com/M/title-exact?Marvin's%20Room%20(1996)
-890,9823,Mortal Kombat: Annihilation,1997,http://us.imdb.com/M/title-exact?Mortal+Kombat%3A+Annihilation+(1997)
-826,9826,The Phantom,1996,"http://us.imdb.com/M/title-exact?Phantom,%20The%20(1996)"
-120,9879,Striptease,1996,http://us.imdb.com/M/title-exact?Striptease%20(1996)
-122,9894,The Cable Guy,1996,"http://us.imdb.com/M/title-exact?Cable%20Guy,%20The%20(1996)"
-898,9922,The Postman,1997,http://us.imdb.com/M/title-exact?imdb-title-119925
-748,10003,The Saint,1997,http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997)
-831,10061,Escape From L.A.,1996,http://us.imdb.com/M/title-exact?Escape%20from%20L.A.%20(1996)
-355,10153,Sphere,1998,http://us.imdb.com/M/title-exact?Sphere+(1998)
-145,10163,The Lawnmower Man,1992,"http://us.imdb.com/M/title-exact?Lawnmower%20Man,%20The%20(1992)"
-1429,10215,Sliding Doors,1998,http://us.imdb.com/Title?Sliding+Doors+(1998)
-1680,10215,Sliding Doors,1998,http://us.imdb.com/Title?Sliding+Doors+(1998)
-896,10217,The Sweet Hereafter,1997,http://us.imdb.com/M/title-exact?Sweet+Hereafter%2C+The+(1997)
-150,10218,Swingers,1996,http://us.imdb.com/M/title-exact?Swingers%20(1996)
-406,10280,Thinner,1996,http://us.imdb.com/M/title-exact?Thinner%20(1996)
-769,10329,Congo,1995,http://us.imdb.com/M/title-exact?Congo%20(1995)
-616,10331,Night Of The Living Dead,1968,http://us.imdb.com/M/title-exact?Night%20of%20the%20Living%20Dead%20(1968)
-358,10336,Spawn,1997,http://us.imdb.com/M/title-exact?Spawn+(1997/I)
-678,10357,Volcano,1997,http://us.imdb.com/M/title-exact?Volcano%20%281997%29
-569,10395,Wolf,1994,http://us.imdb.com/M/title-exact?Wolf%20(1994)
-1139,10428,Hackers,1995,http://us.imdb.com/M/title-exact?Hackers%20(1995)
-387,10436,The Age Of Innocence,1993,"http://us.imdb.com/M/title-exact?Age%20of%20Innocence,%20The%20(1993)"
-736,10445,Shadowlands,1993,http://us.imdb.com/M/title-exact?Shadowlands%20(1993)
-284,10478,Tin Cup,1996,http://us.imdb.com/M/title-exact?Tin%20Cup%20(1996)
-542,10530,Pocahontas,1995,http://us.imdb.com/M/title-exact?Pocahontas%20(1995)
-1442,10533,The Scarlet Letter,1995,"http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1995)"
-924,10534,White Squall,1996,http://us.imdb.com/M/title-exact?White%20Squall%20(1996)
-1135,10537,The Doors,1991,"http://us.imdb.com/M/title-exact?Doors,%20The%20(1991)"
-596,10545,The Hunchback Of Notre Dame,1996,"http://us.imdb.com/M/title-exact?Hunchback%20of%20Notre%20Dame,%20The%20(1996)"
-148,10586,The Ghost And The Darkness,1996,"http://us.imdb.com/M/title-exact?Ghost%20and%20the%20Darkness,%20The%20(1996)"
-259,10603,George Of The Jungle,1997,http://us.imdb.com/M/title-exact?George+of+the+Jungle+(1997)
-1218,10634,Friday,1995,http://us.imdb.com/M/title-exact?Friday%20(1995)
-471,10684,Courage Under Fire,1996,http://us.imdb.com/M/title-exact?Courage%20Under%20Fire%20(1996)
-190,10705,Henry V,1989,http://us.imdb.com/M/title-exact?Henry%20V%20(1989)
-167,10765,Private Benjamin,1980,http://us.imdb.com/M/title-exact?Private%20Benjamin%20(1980)
-375,10802,Showgirls,1995,http://us.imdb.com/M/title-exact?Showgirls%20(1995)
-301,10806,In & Out,1997,http://us.imdb.com/Title?In+%26+Out+(1997)
-982,10861,Maximum Risk,1996,http://us.imdb.com/M/title-exact?Maximum%20Risk%20(1996)
-1038,10871,Switchback,1997,http://us.imdb.com/M/title-exact?Switchback+(1997)
-1301,10890,Stripes,1981,http://us.imdb.com/M/title-exact?Stripes+(1981)
-404,10895,Pinocchio,1940,http://us.imdb.com/M/title-exact?Pinocchio%20(1940)
-834,10987,Halloween: The Curse Of Michael Myers,1995,http://us.imdb.com/M/title-exact?Halloween:%20The%20Curse%20of%20Michael%20Myers%20(1995)
-1157,11015,The Relic,1997,"http://us.imdb.com/M/title-exact?Relic,%20The%20(1997)"
-696,11062,City Hall,1996,http://us.imdb.com/M/title-exact?City%20Hall%20(1996)
-765,11066,Boomerang,1992,http://us.imdb.com/M/title-exact?Boomerang%20(1992)
-485,11113,My Fair Lady,1964,http://us.imdb.com/M/title-exact?My%20Fair%20Lady%20(1964)
-205,11202,Patton,1970,http://us.imdb.com/M/title-exact?Patton%20(1970)
-827,11228,Daylight,1996,http://us.imdb.com/M/title-exact?Daylight%20(1996)
-844,11229,Freeway,1996,http://us.imdb.com/M/title-exact?Freeway%20(1996)
-349,11258,Hard Rain,1998,http://us.imdb.com/M/title-exact?imdb-title-120696
-637,11298,The Howling,1981,"http://us.imdb.com/M/title-exact?Howling,%20The%20(1981)"
-502,11302,Bananas,1971,http://us.imdb.com/M/title-exact?Bananas%20(1971)
-619,11306,Extreme Measures,1996,http://us.imdb.com/M/title-exact?Extreme%20Measures%20(1996)
-951,11359,The Indian In The Cupboard,1995,"http://us.imdb.com/M/title-exact?Indian%20in%20the%20Cupboard,%20The%20(1995)"
-1048,11363,She'S The One,1996,http://us.imdb.com/M/title-exact?She's%20the%20One%20(1996)
-792,11382,Bullets Over Broadway,1994,http://us.imdb.com/M/title-exact?Bullets%20Over%20Broadway%20(1994)
-631,11386,The Crying Game,1992,"http://us.imdb.com/M/title-exact?Crying%20Game,%20The%20(1992)"
-63,11395,The Santa Clause,1994,"http://us.imdb.com/M/title-exact?Santa%20Clause,%20The%20(1994)"
-147,11412,The Long Kiss Goodnight,1996,"http://us.imdb.com/M/title-exact?Long%20Kiss%20Goodnight,%20The%20(1996)"
-540,11517,Money Train,1995,http://us.imdb.com/M/title-exact?Money%20Train%20(1995)
-410,11543,Kingpin,1996,http://us.imdb.com/M/title-exact?Kingpin%20(1996)
-152,11561,Sleeper,1973,http://us.imdb.com/M/title-exact?Sleeper%20(1973)
-396,11592,Serial Mom,1994,http://us.imdb.com/M/title-exact?Serial%20Mom%20(1994)
-1413,11667,Street Fighter,1994,http://us.imdb.com/M/title-exact?Street%20Fighter%20(1994)
-752,11702,The Replacement Killers,1998,http://us.imdb.com/M/title-exact?Replacement+Killers%2C+The+(1998)
-549,11780,Rob Roy,1995,http://us.imdb.com/M/title-exact?Rob%20Roy%20(1995)
-101,11827,Heavy Metal,1981,http://us.imdb.com/M/title-exact?Heavy%20Metal%20(1981)
-750,11831,Amistad,1997,http://us.imdb.com/M/title-exact?imdb-title-118607
-944,11858,Renaissance Man,1994,http://us.imdb.com/M/title-exact?Renaissance%20Man%20(1994)
-1207,11863,Jade,1995,http://us.imdb.com/M/title-exact?Jade%20(1995)
-81,11934,The Hudsucker Proxy,1994,"http://us.imdb.com/M/title-exact?Hudsucker%20Proxy,%20The%20(1994)"
-232,11967,Young Guns,1988,http://us.imdb.com/M/title-exact?Young%20Guns%20(1988)
-470,11969,Tombstone,1993,http://us.imdb.com/M/title-exact?Tombstone%20(1993)
-83,11971,Much Ado About Nothing,1993,http://us.imdb.com/M/title-exact?Much%20Ado%20About%20Nothing%20(1993)
-310,11975,The Rainmaker,1997,"http://us.imdb.com/M/title-exact?Rainmaker,+The+(1997)"
-774,11980,The Prophecy,1995,"http://us.imdb.com/M/title-exact?Prophecy,%20The%20(1995)"
-930,12123,Chain Reaction,1996,http://us.imdb.com/M/title-exact?Chain%20Reaction%20(1996)
-545,12158,Vampire In Brooklyn,1995,http://us.imdb.com/M/title-exact?Vampire%20in%20Brooklyn%20(1995)
-570,12160,Wyatt Earp,1994,http://us.imdb.com/M/title-exact?Wyatt%20Earp%20(1994)
-223,12498,Sling Blade,1996,http://us.imdb.com/M/title-exact?Sling%20Blade%20(1996)
-1067,13685,Bottle Rocket,1996,http://us.imdb.com/M/title-exact?Bottle%20Rocket%20(1996)
-1664,13982,8 Heads In A Duffel Bag,1997,http://us.imdb.com/Title?8+Heads+in+a+Duffel+Bag+(1997)
-48,14275,Hoop Dreams,1994,http://us.imdb.com/M/title-exact?Hoop%20Dreams%20(1994)
-262,14585,In The Company Of Men,1997,http://us.imdb.com/M/title-exact?In+the+Company+of+Men+(1997)
-143,15121,The Sound Of Music,1965,"http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)"
-942,15765,What'S Love Got To Do With It,1993,http://us.imdb.com/M/title-exact?What's%20Love%20Got%20to%20Do%20with%20It%20(1993)
-1278,16052,Selena,1997,http://us.imdb.com/M/title-exact?Selena%20(1997)
-26,16388,The Brothers Mcmullen,1995,"http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)"
-662,16633,Somewhere In Time,1980,http://us.imdb.com/M/title-exact?Somewhere%20in%20Time%20(1980)
-1525,17127,The Object Of My Affection,1998,"http://us.imdb.com/Title?Object+of+My+Affection,+The+(1998)"
-974,17182,Eye For An Eye,1996,http://us.imdb.com/Title?Eye+for+an+Eye+(1996)
-864,17795,My Fellow Americans,1996,http://us.imdb.com/M/title-exact?My%20Fellow%20Americans%20(1996)
-1292,17834,A Simple Wish,1997,http://us.imdb.com/M/title-exact?Simple+Wish%2C+A+(1997)
-829,18550,Fled,1996,http://us.imdb.com/M/title-exact?Fled%20(1996)
-1060,18975,The Adventures Of Pinocchio,1996,"http://us.imdb.com/M/title-exact?Adventures%20of%20Pinocchio,%20The%20(1996)"
-46,20156,Exotica,1994,http://us.imdb.com/M/title-exact?Exotica%20(1994)
-261,20737,Air Bud,1997,http://us.imdb.com/M/title-exact?Air+Bud+(1997)
-933,21612,The Funeral,1996,"http://us.imdb.com/M/title-exact?Funeral,%20The%20(1996)"
-130,22479,Kansas City,1996,http://us.imdb.com/M/title-exact?Kansas%20City%20(1996)
-1124,22649,A Farewell To Arms,1932,"http://us.imdb.com/M/title-exact?Farewell%20to%20Arms,%20A%20(1932)"
-1057,23570,The Pallbearer,1996,"http://us.imdb.com/M/title-exact?Pallbearer,%20The%20(1996)"
-989,24662,Cats Don'T Dance,1997,http://us.imdb.com/M/title-exact?Cats%20Don%27t%20Dance%20(1997)
-859,24913,April Fool'S Day,1986,http://us.imdb.com/M/title-exact?April%20Fool's%20Day%20(1986)
-564,25066,Tales From The Hood,1995,http://us.imdb.com/M/title-exact?Tales%20from%20the%20Hood%20(1995)
-220,25189,The Mirror Has Two Faces,1996,"http://us.imdb.com/M/title-exact?Mirror%20Has%20Two%20Faces,%20The%20(1996)"
-1189,26306,Prefontaine,1997,http://us.imdb.com/M/title-exact?Prefontaine%20(1997)
-1181,26352,A Low Down Dirty Shame,1994,"http://us.imdb.com/M/title-exact?Low%20Down%20Dirty%20Shame,%20A%20(1994)"
-124,26748,Lone Star,1996,http://us.imdb.com/M/title-exact?Lone%20Star%20(1996)
-872,27322,Love Jones,1997,http://us.imdb.com/M/title-exact?Love%20Jones%20(1997)
-1094,28121,A Thin Line Between Love And Hate,1996,"http://us.imdb.com/M/title-exact?Thin%20Line%20Between%20Love%20and%20Hate,%20A%20(1996)"
-880,29461,Soul Food,1997,http://us.imdb.com/M/title-exact?Soul+Food+(1997)
-1234,31535,Chairman Of The Board,1998,http://us.imdb.com/Title?Chairman+of+the+Board+(1998)
-1654,31535,Chairman Of The Board,1998,http://us.imdb.com/Title?Chairman+of+the+Board+(1998)
-1136,31908,Ghosts Of Mississippi,1996,http://us.imdb.com/M/title-exact?Ghosts%20of%20Mississippi%20(1996)
-793,34152,Crooklyn,1994,http://us.imdb.com/M/title-exact?Crooklyn%20(1994)
-986,34314,Turbulence,1997,http://us.imdb.com/M/title-exact?Turbulence%20(1997)
-994,34941,The Last Time I Committed Suicide,1997,http://us.imdb.com/M/title-exact?Last+Time+I+Committed+Suicide%2C+The+(1997)
-112,36355,Flipper,1996,http://us.imdb.com/M/title-exact?Flipper%20(1996)
-385,36955,True Lies,1994,http://us.imdb.com/M/title-exact?True%20Lies%20(1994)
-1127,37165,The Truman Show,1998,"http://us.imdb.com/Title?Truman+Show,+The+(1998)"
-77,37233,The Firm,1993,"http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)"
-929,38223,Harriet The Spy,1996,http://us.imdb.com/M/title-exact?Harriet%20the%20Spy%20(1996)
-1106,42807,The Newton Boys,1998,"http://us.imdb.com/Title?Newton+Boys,+The+(1998)"
-1114,47502,Faithful,1996,http://us.imdb.com/M/title-exact?Faithful%20(1996)
-962,47889,Ruby In Paradise,1993,http://us.imdb.com/M/title-exact?Ruby%20in%20Paradise%20(1993)
-1134,49471,Get On The Bus,1996,http://us.imdb.com/M/title-exact?Get%20on%20the%20Bus%20(1996)
-1615,49478,Warriors Of Virtue,1997,http://us.imdb.com/M/title-exact?Warriors%20of%20Virtue%20%281997%29
-1262,49963,Walking And Talking,1996,http://us.imdb.com/M/title-exact?Walking%20and%20Talking%20(1996)
-297,55306,Ulee'S Gold,1997,http://us.imdb.com/M/title-exact?Ulee%27s+Gold+(1997)
-303,55306,Ulee'S Gold,1997,http://us.imdb.com/M/title-exact?Ulee%27s+Gold+(1997)
-341,61337,Critical Care,1997,http://us.imdb.com/M/title-exact?Critical+Care+(1997)
-818,61752,Girl 6,1996,http://us.imdb.com/M/title-exact?Girl%206%20(1996)
-786,63020,The Perez Family,1995,"http://us.imdb.com/M/title-exact?Perez%20Family,%20The%20(1995)"
-305,68924,The Ice Storm,1997,http://us.imdb.com/M/title-exact?Ice+Storm%2C+The+(1997)
-865,68924,The Ice Storm,1997,http://us.imdb.com/M/title-exact?Ice+Storm%2C+The+(1997)
-1530,87729,Jefferson In Paris,1995,http://us.imdb.com/M/title-exact?Jefferson%20in%20Paris%20(1995)
+movie_id,title,release
+5,Four Rooms,1995
+13,Forrest Gump,1994
+18,The Fifth Element,1997
+28,Apocalypse Now,1979
+33,Unforgiven,1992
+62,2001: A Space Odyssey,1968
+66,Absolute Power,1997
+68,Brazil,1985
+75,Mars Attacks!,1996
+76,Before Sunrise,1995
+78,Blade Runner,1982
+85,Raiders Of The Lost Ark,1981
+89,Indiana Jones And The Last Crusade,1989
+105,Back To The Future,1985
+114,Pretty Woman,1990
+137,Groundhog Day,1993
+149,Akira,1988
+152,Star Trek: The Motion Picture,1979
+168,Star Trek Iv: The Voyage Home,1986
+172,Star Trek V: The Final Frontier,1989
+173,"20,000 Leagues Under The Sea",1954
+174,Star Trek Vi: The Undiscovered Country,1991
+184,Jackie Brown,1997
+193,Star Trek: Generations,1994
+199,Star Trek: First Contact,1996
+207,Dead Poets Society,1989
+218,The Terminator,1984
+223,Rebecca,1940
+235,Stand By Me,1986
+239,Some Like It Hot,1959
+240,The Godfather: Part Ii,1974
+251,Ghost,1990
+261,Cat On A Hot Tin Roof,1958
+268,Batman,1989
+278,The Shawshank Redemption,1994
+279,Amadeus,1984
+280,Terminator 2: Judgment Day,1991
+284,The Apartment,1960
+288,High Noon,1952
+289,Casablanca,1942
+306,Beverly Hills Cop Iii,1994
+311,Once Upon A Time In America,1984
+319,True Romance,1993
+329,Jurassic Park,1993
+330,The Lost World: Jurassic Park,1997
+348,Alien,1979
+364,Batman Returns,1992
+377,A Nightmare On Elm Street,1984
+389,12 Angry Men,1957
+408,Snow White And The Seven Dwarfs,1937
+409,The English Patient,1996
+414,Batman Forever,1995
+415,Batman & Robin,1997
+424,Schindler'S List,1993
+433,Mary Poppins,1964
+451,Leaving Las Vegas,1995
+468,My Own Private Idaho,1991
+500,Reservoir Dogs,1992
+510,One Flew Over The Cuckoo'S Nest,1975
+522,Ed Wood,1994
+524,Casino,1995
+539,Psycho,1960
+549,Basquiat,1996
+562,Die Hard,1988
+563,Starship Troopers,1997
+568,Apollo 13,1995
+576,The Wild Bunch,1969
+577,To Die For,1995
+578,Jaws,1975
+579,Jaws 2,1978
+581,Dances With Wolves,1990
+595,To Kill A Mockingbird,1962
+597,Titanic,1997
+601,E.T. The Extra-Terrestrial,1982
+607,Men In Black,1997
+617,Wild Things,1998
+621,Grease,1978
+627,Trainspotting,1996
+628,Interview With The Vampire,1994
+639,When Harry Met Sally...,1989
+642,Butch Cassidy And The Sundance Kid,1969
+664,Twister,1996
+680,Pulp Fiction,1994
+686,Contact,1997
+687,Dead Man Walking,1995
+694,The Shining,1980
+702,A Streetcar Named Desire,1951
+703,Annie Hall,1977
+710,Goldeneye,1995
+712,Four Weddings And A Funeral,1994
+713,The Piano,1993
+714,Tomorrow Never Dies,1997
+744,Top Gun,1986
+754,Face/Off,1997
+755,From Dusk Till Dawn,1996
+756,Fantasia,1940
+765,Evil Dead Ii,1987
+769,Goodfellas,1990
+770,Gone With The Wind,1939
+771,Home Alone,1990
+783,Gandhi,1982
+788,Mrs. Doubtfire,1993
+790,The Fog,1980
+792,Platoon,1986
+794,The Omen,1976
+795,City Of Angels,1998
+807,Se7En,1995
+816,Austin Powers: International Man Of Mystery,1997
+819,Sleepers,1996
+826,The Bridge On The River Kwai,1957
+854,The Mask,1994
+862,Toy Story,1995
+864,Cool Runnings,1993
+888,The Flintstones,1994
+947,Lawrence Of Arabia,1962
+954,Mission: Impossible,1996
+978,Seven Years In Tibet,1997
+1024,Heavenly Creatures,1994
+1103,Escape From New York,1981
+1245,The Remains Of The Day,1993
+1408,Cutthroat Island,1995
+1412,"Sex, Lies, And Videotape",1989
+1572,Die Hard: With A Vengeance,1995
+1573,Die Hard 2,1990
+1578,Raging Bull,1980
+1585,It'S A Wonderful Life,1946
+1587,What'S Eating Gilbert Grape,1993
+1598,Cape Fear,1991
+1624,Liar Liar,1997
+1637,Speed,1994
+1639,Speed 2: Cruise Control,1997
+1642,The Net,1995
+1645,A Time To Kill,1996
+1669,The Hunt For Red October,1990
+1701,Con Air,1997
+1710,Copycat,1995
+1770,Michael Collins,1996
+1813,The Devil'S Advocate,1997
+1891,The Empire Strikes Back,1980
+2074,Flirting With Disaster,1996
+2088,Romeo Is Bleeding,1993
+2119,Days Of Thunder,1990
+2157,Lost In Space,1998
+2255,Chasing Amy,1997
+2255,Chasing Amy,1997
+2292,Clerks,1994
+2300,Space Jam,1996
+2320,Executive Decision,1996
+2493,The Princess Bride,1987
+2636,The Specialist,1994
+2639,Deconstructing Harry,1997
+2649,The Game,1997
+2666,Dark City,1998
+2756,The Abyss,1989
+2895,The Apostle,1997
+2898,As Good As It Gets,1997
+2925,The First Wives Club,1996
+3034,Young Frankenstein,1974
+3049,Ace Ventura: Pet Detective,1994
+3078,It Happened One Night,1934
+3080,Top Hat,1935
+3179,Beavis And Butt-Head Do America,1996
+3512,Under Siege 2: Dark Territory,1995
+3587,Bogus,1996
+3595,Ransom,1996
+3597,I Know What You Did Last Summer,1997
+4174,Spellbound,1945
+4232,Scream,1996
+4233,Scream 2,1997
+4421,G.I. Jane,1997
+4476,Legends Of The Fall,1994
+4477,The Devil'S Own,1997
+4584,Sense And Sensibility,1995
+4824,The Jackal,1997
+5503,The Fugitive,1993
+5550,Robocop 3,1993
+6071,Kiss Of Death,1995
+6116,Spice World,1997
+6217,Cat People,1982
+6520,First Knight,1995
+6623,The Peacemaker,1997
+6950,Outbreak,1995
+7863,Shine,1996
+8009,Highlander,1986
+8012,Get Shorty,1995
+8068,Desperado,1995
+8069,Barbarella,1968
+8078,Alien: Resurrection,1997
+8197,Midnight In The Garden Of Good And Evil,1997
+8291,Poetic Justice,1993
+8367,Robin Hood: Prince Of Thieves,1991
+8413,Event Horizon,1997
+8587,The Lion King,1994
+8818,Evita,1996
+8831,Timecop,1994
+8834,Conspiracy Theory,1997
+8838,Mercury Rising,1998
+8839,Casper,1995
+8840,Dragonheart,1996
+8850,The Shadow,1994
+8854,Steel,1997
+8874,My Best Friend'S Wedding,1997
+8963,Crimson Tide,1995
+8984,Disclosure,1994
+8987,The River Wild,1994
+9067,Tank Girl,1995
+9087,The American President,1995
+9089,Home For The Holidays,1995
+9095,Mary Reilly,1996
+9099,Sgt. Bilko,1996
+9100,The Craft,1996
+9208,Broken Arrow,1996
+9268,Eraser,1996
+9271,Virtuosity,1995
+9273,Ace Ventura: When Nature Calls,1995
+9277,The Sting,1973
+9279,Jingle All The Way,1996
+9281,Witness,1985
+9294,Phenomenon,1996
+9303,Bound,1996
+9304,Multiplicity,1996
+9306,The Island Of Dr. Moreau,1996
+9311,Smilla'S Sense Of Snow,1997
+9312,Mortal Kombat,1995
+9313,The Man In The Iron Mask,1998
+9327,The Nutty Professor,1996
+9331,Clear And Present Danger,1994
+9344,Kids,1995
+9348,Species,1995
+9350,Cliffhanger,1993
+9360,Anaconda,1997
+9361,The Last Of The Mohicans,1992
+9366,Donnie Brasco,1997
+9390,Jerry Maguire,1996
+9400,Set It Off,1996
+9414,The Man Who Knew Too Little,1997
+9416,Money Talks,1997
+9416,Money Talks,1997
+9427,The Full Monty,1997
+9433,The Edge,1997
+9434,Grosse Pointe Blank,1997
+9437,Kiss The Girls,1997
+9440,Primary Colors,1998
+9444,Anastasia,1997
+9457,Deep Rising,1998
+9490,Half Baked,1998
+9495,The Crow,1994
+9504,Glengarry Glen Ross,1992
+9516,Menace Ii Society,1993
+9549,The Right Stuff,1983
+9566,The Fan,1996
+9571,Dazed And Confused,1993
+9574,Flubber,1997
+9593,Last Action Hero,1993
+9598,Babe,1995
+9603,Clueless,1995
+9607,Super Mario Bros.,1993
+9614,Happy Gilmore,1996
+9619,Dante'S Peak,1997
+9623,The Juror,1996
+9625,The Glimmer Man,1996
+9665,Glory,1989
+9691,Assassins,1995
+9716,Everyone Says I Love You,1996
+9737,Bad Boys,1995
+9746,Kundun,1997
+9770,Mad City,1997
+9772,Air Force One,1997
+9800,Philadelphia,1993
+9802,The Rock,1996
+9804,Waterworld,1995
+9819,Marvin'S Room,1996
+9823,Mortal Kombat: Annihilation,1997
+9826,The Phantom,1996
+9879,Striptease,1996
+9894,The Cable Guy,1996
+9922,The Postman,1997
+10003,The Saint,1997
+10061,Escape From L.A.,1996
+10153,Sphere,1998
+10163,The Lawnmower Man,1992
+10215,Sliding Doors,1998
+10215,Sliding Doors,1998
+10217,The Sweet Hereafter,1997
+10218,Swingers,1996
+10280,Thinner,1996
+10329,Congo,1995
+10331,Night Of The Living Dead,1968
+10336,Spawn,1997
+10357,Volcano,1997
+10395,Wolf,1994
+10428,Hackers,1995
+10436,The Age Of Innocence,1993
+10445,Shadowlands,1993
+10478,Tin Cup,1996
+10530,Pocahontas,1995
+10533,The Scarlet Letter,1995
+10534,White Squall,1996
+10537,The Doors,1991
+10545,The Hunchback Of Notre Dame,1996
+10586,The Ghost And The Darkness,1996
+10603,George Of The Jungle,1997
+10634,Friday,1995
+10684,Courage Under Fire,1996
+10705,Henry V,1989
+10765,Private Benjamin,1980
+10802,Showgirls,1995
+10806,In & Out,1997
+10861,Maximum Risk,1996
+10871,Switchback,1997
+10890,Stripes,1981
+10895,Pinocchio,1940
+10987,Halloween: The Curse Of Michael Myers,1995
+11015,The Relic,1997
+11062,City Hall,1996
+11066,Boomerang,1992
+11113,My Fair Lady,1964
+11202,Patton,1970
+11228,Daylight,1996
+11229,Freeway,1996
+11258,Hard Rain,1998
+11298,The Howling,1981
+11302,Bananas,1971
+11306,Extreme Measures,1996
+11359,The Indian In The Cupboard,1995
+11363,She'S The One,1996
+11382,Bullets Over Broadway,1994
+11386,The Crying Game,1992
+11395,The Santa Clause,1994
+11412,The Long Kiss Goodnight,1996
+11517,Money Train,1995
+11543,Kingpin,1996
+11561,Sleeper,1973
+11592,Serial Mom,1994
+11667,Street Fighter,1994
+11702,The Replacement Killers,1998
+11780,Rob Roy,1995
+11827,Heavy Metal,1981
+11831,Amistad,1997
+11858,Renaissance Man,1994
+11863,Jade,1995
+11934,The Hudsucker Proxy,1994
+11967,Young Guns,1988
+11969,Tombstone,1993
+11971,Much Ado About Nothing,1993
+11975,The Rainmaker,1997
+11980,The Prophecy,1995
+12123,Chain Reaction,1996
+12158,Vampire In Brooklyn,1995
+12160,Wyatt Earp,1994
+12498,Sling Blade,1996
+13685,Bottle Rocket,1996
+13982,8 Heads In A Duffel Bag,1997
+14275,Hoop Dreams,1994
+14585,In The Company Of Men,1997
+15121,The Sound Of Music,1965
+15765,What'S Love Got To Do With It,1993
+16052,Selena,1997
+16388,The Brothers Mcmullen,1995
+16633,Somewhere In Time,1980
+17127,The Object Of My Affection,1998
+17182,Eye For An Eye,1996
+17795,My Fellow Americans,1996
+17834,A Simple Wish,1997
+18550,Fled,1996
+18975,The Adventures Of Pinocchio,1996
+20156,Exotica,1994
+20737,Air Bud,1997
+21612,The Funeral,1996
+22479,Kansas City,1996
+22649,A Farewell To Arms,1932
+23570,The Pallbearer,1996
+24662,Cats Don'T Dance,1997
+24913,April Fool'S Day,1986
+25066,Tales From The Hood,1995
+25189,The Mirror Has Two Faces,1996
+26306,Prefontaine,1997
+26352,A Low Down Dirty Shame,1994
+26748,Lone Star,1996
+27322,Love Jones,1997
+28121,A Thin Line Between Love And Hate,1996
+29461,Soul Food,1997
+31535,Chairman Of The Board,1998
+31535,Chairman Of The Board,1998
+31908,Ghosts Of Mississippi,1996
+34152,Crooklyn,1994
+34314,Turbulence,1997
+34941,The Last Time I Committed Suicide,1997
+36355,Flipper,1996
+36955,True Lies,1994
+37165,The Truman Show,1998
+37233,The Firm,1993
+38223,Harriet The Spy,1996
+42807,The Newton Boys,1998
+47502,Faithful,1996
+47889,Ruby In Paradise,1993
+49471,Get On The Bus,1996
+49478,Warriors Of Virtue,1997
+49963,Walking And Talking,1996
+55306,Ulee'S Gold,1997
+55306,Ulee'S Gold,1997
+61337,Critical Care,1997
+61752,Girl 6,1996
+63020,The Perez Family,1995
+68924,The Ice Storm,1997
+68924,The Ice Storm,1997
+87729,Jefferson In Paris,1995

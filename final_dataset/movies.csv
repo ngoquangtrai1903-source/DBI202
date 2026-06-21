@@ -1,0 +1,5403 @@
+﻿movie_id,title,release
+5,Four Rooms,1995
+13,Forrest Gump,1994
+18,The Fifth Element,1997
+28,Apocalypse Now,1979
+33,Unforgiven,1992
+62,2001: A Space Odyssey,1968
+66,Absolute Power,1997
+68,Brazil,1985
+75,Mars Attacks!,1996
+76,Before Sunrise,1995
+78,Blade Runner,1982
+85,Raiders Of The Lost Ark,1981
+89,Indiana Jones And The Last Crusade,1989
+105,Back To The Future,1985
+114,Pretty Woman,1990
+137,Groundhog Day,1993
+149,Akira,1988
+152,Star Trek: The Motion Picture,1979
+168,Star Trek Iv: The Voyage Home,1986
+172,Star Trek V: The Final Frontier,1989
+173,"20,000 Leagues Under The Sea",1954
+174,Star Trek Vi: The Undiscovered Country,1991
+184,Jackie Brown,1997
+193,Star Trek: Generations,1994
+199,Star Trek: First Contact,1996
+207,Dead Poets Society,1989
+218,The Terminator,1984
+223,Rebecca,1940
+235,Stand By Me,1986
+239,Some Like It Hot,1959
+240,The Godfather: Part Ii,1974
+251,Ghost,1990
+261,Cat On A Hot Tin Roof,1958
+268,Batman,1989
+278,The Shawshank Redemption,1994
+279,Amadeus,1984
+280,Terminator 2: Judgment Day,1991
+284,The Apartment,1960
+288,High Noon,1952
+289,Casablanca,1942
+306,Beverly Hills Cop Iii,1994
+311,Once Upon A Time In America,1984
+319,True Romance,1993
+329,Jurassic Park,1993
+330,The Lost World: Jurassic Park,1997
+348,Alien,1979
+364,Batman Returns,1992
+377,A Nightmare On Elm Street,1984
+389,12 Angry Men,1957
+408,Snow White And The Seven Dwarfs,1937
+409,The English Patient,1996
+414,Batman Forever,1995
+415,Batman & Robin,1997
+424,Schindler'S List,1993
+433,Mary Poppins,1964
+451,Leaving Las Vegas,1995
+468,My Own Private Idaho,1991
+500,Reservoir Dogs,1992
+510,One Flew Over The Cuckoo'S Nest,1975
+522,Ed Wood,1994
+524,Casino,1995
+539,Psycho,1960
+549,Basquiat,1996
+562,Die Hard,1988
+563,Starship Troopers,1997
+568,Apollo 13,1995
+576,The Wild Bunch,1969
+577,To Die For,1995
+578,Jaws,1975
+579,Jaws 2,1978
+581,Dances With Wolves,1990
+595,To Kill A Mockingbird,1962
+597,Titanic,1997
+601,E.T. The Extra-Terrestrial,1982
+607,Men In Black,1997
+617,Wild Things,1998
+621,Grease,1978
+627,Trainspotting,1996
+628,Interview With The Vampire,1994
+639,When Harry Met Sally...,1989
+642,Butch Cassidy And The Sundance Kid,1969
+664,Twister,1996
+680,Pulp Fiction,1994
+686,Contact,1997
+687,Dead Man Walking,1995
+694,The Shining,1980
+702,A Streetcar Named Desire,1951
+703,Annie Hall,1977
+710,Goldeneye,1995
+712,Four Weddings And A Funeral,1994
+713,The Piano,1993
+714,Tomorrow Never Dies,1997
+744,Top Gun,1986
+754,Face/Off,1997
+755,From Dusk Till Dawn,1996
+756,Fantasia,1940
+765,Evil Dead Ii,1987
+769,Goodfellas,1990
+770,Gone With The Wind,1939
+771,Home Alone,1990
+783,Gandhi,1982
+788,Mrs. Doubtfire,1993
+790,The Fog,1980
+792,Platoon,1986
+794,The Omen,1976
+795,City Of Angels,1998
+807,Se7En,1995
+816,Austin Powers: International Man Of Mystery,1997
+819,Sleepers,1996
+826,The Bridge On The River Kwai,1957
+854,The Mask,1994
+862,Toy Story,1995
+864,Cool Runnings,1993
+888,The Flintstones,1994
+947,Lawrence Of Arabia,1962
+954,Mission: Impossible,1996
+978,Seven Years In Tibet,1997
+1024,Heavenly Creatures,1994
+1103,Escape From New York,1981
+1245,The Remains Of The Day,1993
+1408,Cutthroat Island,1995
+1412,"Sex, Lies, And Videotape",1989
+1572,Die Hard: With A Vengeance,1995
+1573,Die Hard 2,1990
+1578,Raging Bull,1980
+1585,It'S A Wonderful Life,1946
+1587,What'S Eating Gilbert Grape,1993
+1598,Cape Fear,1991
+1624,Liar Liar,1997
+1637,Speed,1994
+1639,Speed 2: Cruise Control,1997
+1642,The Net,1995
+1645,A Time To Kill,1996
+1669,The Hunt For Red October,1990
+1701,Con Air,1997
+1710,Copycat,1995
+1770,Michael Collins,1996
+1813,The Devil'S Advocate,1997
+1891,The Empire Strikes Back,1980
+2074,Flirting With Disaster,1996
+2088,Romeo Is Bleeding,1993
+2119,Days Of Thunder,1990
+2157,Lost In Space,1998
+2255,Chasing Amy,1997
+2292,Clerks,1994
+2300,Space Jam,1996
+2320,Executive Decision,1996
+2493,The Princess Bride,1987
+2636,The Specialist,1994
+2639,Deconstructing Harry,1997
+2649,The Game,1997
+2666,Dark City,1998
+2756,The Abyss,1989
+2895,The Apostle,1997
+2898,As Good As It Gets,1997
+2925,The First Wives Club,1996
+3034,Young Frankenstein,1974
+3049,Ace Ventura: Pet Detective,1994
+3078,It Happened One Night,1934
+3080,Top Hat,1935
+3179,Beavis And Butt-Head Do America,1996
+3512,Under Siege 2: Dark Territory,1995
+3587,Bogus,1996
+3595,Ransom,1996
+3597,I Know What You Did Last Summer,1997
+4174,Spellbound,1945
+4232,Scream,1996
+4233,Scream 2,1997
+4421,G.I. Jane,1997
+4476,Legends Of The Fall,1994
+4477,The Devil'S Own,1997
+4584,Sense And Sensibility,1995
+4824,The Jackal,1997
+5503,The Fugitive,1993
+5550,Robocop 3,1993
+6071,Kiss Of Death,1995
+6116,Spice World,1997
+6217,Cat People,1982
+6520,First Knight,1995
+6623,The Peacemaker,1997
+6950,Outbreak,1995
+7863,Shine,1996
+8009,Highlander,1986
+8012,Get Shorty,1995
+8068,Desperado,1995
+8069,Barbarella,1968
+8078,Alien: Resurrection,1997
+8197,Midnight In The Garden Of Good And Evil,1997
+8291,Poetic Justice,1993
+8367,Robin Hood: Prince Of Thieves,1991
+8413,Event Horizon,1997
+8587,The Lion King,1994
+8818,Evita,1996
+8831,Timecop,1994
+8834,Conspiracy Theory,1997
+8838,Mercury Rising,1998
+8839,Casper,1995
+8840,Dragonheart,1996
+8850,The Shadow,1994
+8854,Steel,1997
+8874,My Best Friend'S Wedding,1997
+8963,Crimson Tide,1995
+8984,Disclosure,1994
+8987,The River Wild,1994
+9067,Tank Girl,1995
+9087,The American President,1995
+9089,Home For The Holidays,1995
+9095,Mary Reilly,1996
+9099,Sgt. Bilko,1996
+9100,The Craft,1996
+9208,Broken Arrow,1996
+9268,Eraser,1996
+9271,Virtuosity,1995
+9273,Ace Ventura: When Nature Calls,1995
+9277,The Sting,1973
+9279,Jingle All The Way,1996
+9281,Witness,1985
+9294,Phenomenon,1996
+9303,Bound,1996
+9304,Multiplicity,1996
+9306,The Island Of Dr. Moreau,1996
+9311,Smilla'S Sense Of Snow,1997
+9312,Mortal Kombat,1995
+9313,The Man In The Iron Mask,1998
+9327,The Nutty Professor,1996
+9331,Clear And Present Danger,1994
+9344,Kids,1995
+9348,Species,1995
+9350,Cliffhanger,1993
+9360,Anaconda,1997
+9361,The Last Of The Mohicans,1992
+9366,Donnie Brasco,1997
+9390,Jerry Maguire,1996
+9400,Set It Off,1996
+9414,The Man Who Knew Too Little,1997
+9416,Money Talks,1997
+9427,The Full Monty,1997
+9433,The Edge,1997
+9434,Grosse Pointe Blank,1997
+9437,Kiss The Girls,1997
+9440,Primary Colors,1998
+9444,Anastasia,1997
+9457,Deep Rising,1998
+9490,Half Baked,1998
+9495,The Crow,1994
+9504,Glengarry Glen Ross,1992
+9516,Menace Ii Society,1993
+9549,The Right Stuff,1983
+9566,The Fan,1996
+9571,Dazed And Confused,1993
+9574,Flubber,1997
+9593,Last Action Hero,1993
+9598,Babe,1995
+9603,Clueless,1995
+9607,Super Mario Bros.,1993
+9614,Happy Gilmore,1996
+9619,Dante'S Peak,1997
+9623,The Juror,1996
+9625,The Glimmer Man,1996
+9665,Glory,1989
+9691,Assassins,1995
+9716,Everyone Says I Love You,1996
+9737,Bad Boys,1995
+9746,Kundun,1997
+9770,Mad City,1997
+9772,Air Force One,1997
+9800,Philadelphia,1993
+9802,The Rock,1996
+9804,Waterworld,1995
+9819,Marvin'S Room,1996
+9823,Mortal Kombat: Annihilation,1997
+9826,The Phantom,1996
+9879,Striptease,1996
+9894,The Cable Guy,1996
+9922,The Postman,1997
+10003,The Saint,1997
+10061,Escape From L.A.,1996
+10153,Sphere,1998
+10163,The Lawnmower Man,1992
+10215,Sliding Doors,1998
+10217,The Sweet Hereafter,1997
+10218,Swingers,1996
+10280,Thinner,1996
+10329,Congo,1995
+10331,Night Of The Living Dead,1968
+10336,Spawn,1997
+10357,Volcano,1997
+10395,Wolf,1994
+10428,Hackers,1995
+10436,The Age Of Innocence,1993
+10445,Shadowlands,1993
+10478,Tin Cup,1996
+10530,Pocahontas,1995
+10533,The Scarlet Letter,1995
+10534,White Squall,1996
+10537,The Doors,1991
+10545,The Hunchback Of Notre Dame,1996
+10586,The Ghost And The Darkness,1996
+10603,George Of The Jungle,1997
+10634,Friday,1995
+10684,Courage Under Fire,1996
+10705,Henry V,1989
+10765,Private Benjamin,1980
+10802,Showgirls,1995
+10806,In & Out,1997
+10861,Maximum Risk,1996
+10871,Switchback,1997
+10890,Stripes,1981
+10895,Pinocchio,1940
+10987,Halloween: The Curse Of Michael Myers,1995
+11015,The Relic,1997
+11062,City Hall,1996
+11066,Boomerang,1992
+11113,My Fair Lady,1964
+11202,Patton,1970
+11228,Daylight,1996
+11229,Freeway,1996
+11258,Hard Rain,1998
+11298,The Howling,1981
+11302,Bananas,1971
+11306,Extreme Measures,1996
+11359,The Indian In The Cupboard,1995
+11363,She'S The One,1996
+11382,Bullets Over Broadway,1994
+11386,The Crying Game,1992
+11395,The Santa Clause,1994
+11412,The Long Kiss Goodnight,1996
+11517,Money Train,1995
+11543,Kingpin,1996
+11561,Sleeper,1973
+11592,Serial Mom,1994
+11667,Street Fighter,1994
+11702,The Replacement Killers,1998
+11780,Rob Roy,1995
+11827,Heavy Metal,1981
+11831,Amistad,1997
+11858,Renaissance Man,1994
+11863,Jade,1995
+11934,The Hudsucker Proxy,1994
+11967,Young Guns,1988
+11969,Tombstone,1993
+11971,Much Ado About Nothing,1993
+11975,The Rainmaker,1997
+11980,The Prophecy,1995
+12123,Chain Reaction,1996
+12158,Vampire In Brooklyn,1995
+12160,Wyatt Earp,1994
+12498,Sling Blade,1996
+13685,Bottle Rocket,1996
+13982,8 Heads In A Duffel Bag,1997
+14275,Hoop Dreams,1994
+14585,In The Company Of Men,1997
+15121,The Sound Of Music,1965
+15765,What'S Love Got To Do With It,1993
+16052,Selena,1997
+16388,The Brothers Mcmullen,1995
+16633,Somewhere In Time,1980
+17127,The Object Of My Affection,1998
+17182,Eye For An Eye,1996
+17795,My Fellow Americans,1996
+17834,A Simple Wish,1997
+18550,Fled,1996
+18975,The Adventures Of Pinocchio,1996
+20156,Exotica,1994
+20737,Air Bud,1997
+21612,The Funeral,1996
+22479,Kansas City,1996
+22649,A Farewell To Arms,1932
+23570,The Pallbearer,1996
+24662,Cats Don'T Dance,1997
+24913,April Fool'S Day,1986
+25066,Tales From The Hood,1995
+25189,The Mirror Has Two Faces,1996
+26306,Prefontaine,1997
+26352,A Low Down Dirty Shame,1994
+26748,Lone Star,1996
+27322,Love Jones,1997
+28121,A Thin Line Between Love And Hate,1996
+29461,Soul Food,1997
+31535,Chairman Of The Board,1998
+31908,Ghosts Of Mississippi,1996
+34152,Crooklyn,1994
+34314,Turbulence,1997
+34941,The Last Time I Committed Suicide,1997
+36355,Flipper,1996
+36955,True Lies,1994
+37165,The Truman Show,1998
+37233,The Firm,1993
+38223,Harriet The Spy,1996
+42807,The Newton Boys,1998
+47502,Faithful,1996
+47889,Ruby In Paradise,1993
+49471,Get On The Bus,1996
+49478,Warriors Of Virtue,1997
+49963,Walking And Talking,1996
+55306,Ulee'S Gold,1997
+61337,Critical Care,1997
+61752,Girl 6,1996
+63020,The Perez Family,1995
+68924,The Ice Storm,1997
+87729,Jefferson In Paris,1995
+19995,Avatar,2009
+285,Pirates of the Caribbean: At World's End,2007
+206647,Spectre,2015
+49026,The Dark Knight Rises,2012
+49529,John Carter,2012
+559,Spider-Man 3,2007
+38757,Tangled,2010
+99861,Avengers: Age of Ultron,2015
+767,Harry Potter and the Half-Blood Prince,2009
+209112,Batman v Superman: Dawn of Justice,2016
+1452,Superman Returns,2006
+10764,Quantum of Solace,2008
+58,Pirates of the Caribbean: Dead Man's Chest,2006
+57201,The Lone Ranger,2013
+49521,Man of Steel,2013
+2454,The Chronicles of Narnia: Prince Caspian,2008
+24428,The Avengers,2012
+1865,Pirates of the Caribbean: On Stranger Tides,2011
+41154,Men in Black 3,2012
+122917,The Hobbit: The Battle of the Five Armies,2014
+1930,The Amazing Spider-Man,2012
+20662,Robin Hood,2010
+57158,The Hobbit: The Desolation of Smaug,2013
+2268,The Golden Compass,2007
+254,King Kong,2005
+597,Titanic,1997
+271110,Captain America: Civil War,2016
+44833,Battleship,2012
+135397,Jurassic World,2015
+37724,Skyfall,2012
+558,Spider-Man 2,2004
+68721,Iron Man 3,2013
+12155,Alice in Wonderland,2010
+36668,X-Men: The Last Stand,2006
+62211,Monsters University,2013
+8373,Transformers: Revenge of the Fallen,2009
+91314,Transformers: Age of Extinction,2014
+68728,Oz: The Great and Powerful,2013
+102382,The Amazing Spider-Man 2,2014
+20526,TRON: Legacy,2010
+49013,Cars 2,2011
+44912,Green Lantern,2011
+10193,Toy Story 3,2010
+534,Terminator Salvation,2009
+168259,Furious 7,2015
+72190,World War Z,2013
+127585,X-Men: Days of Future Past,2014
+54138,Star Trek Into Darkness,2013
+81005,Jack the Giant Slayer,2013
+64682,The Great Gatsby,2013
+9543,Prince of Persia: The Sands of Time,2010
+68726,Pacific Rim,2013
+38356,Transformers: Dark of the Moon,2011
+217,Indiana Jones and the Kingdom of the Crystal Skull,2008
+105864,The Good Dinosaur,2015
+62177,Brave,2012
+188927,Star Trek Beyond,2016
+10681,WALL·E,2008
+5174,Rush Hour 3,2007
+14161,2012,2009
+17979,A Christmas Carol,2009
+76757,Jupiter Ascending,2015
+258489,The Legend of Tarzan,2016
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005
+246655,X-Men: Apocalypse,2016
+155,The Dark Knight,2008
+14160,Up,2009
+15512,Monsters vs Aliens,2009
+1726,Iron Man,2008
+44826,Hugo,2011
+8487,Wild Wild West,1999
+1735,The Mummy: Tomb of the Dragon Emperor,2008
+297761,Suicide Squad,2016
+2698,Evan Almighty,2007
+137113,Edge of Tomorrow,2014
+9804,Waterworld,1995
+14869,G.I. Joe: The Rise of Cobra,2009
+150540,Inside Out,2015
+278927,The Jungle Book,2016
+10138,Iron Man 2,2010
+58595,Snow White and the Huntsman,2012
+102651,Maleficent,2014
+119450,Dawn of the Planet of the Apes,2014
+79698,The Lovers,2015
+64686,47 Ronin,2013
+100402,Captain America: The Winter Soldier,2014
+10192,Shrek Forever After,2010
+158852,Tomorrowland,2015
+177572,Big Hero 6,2014
+82690,Wreck-It Ralph,2012
+5255,The Polar Express,2004
+47933,Independence Day: Resurgence,2016
+10191,How to Train Your Dragon,2010
+296,Terminator 3: Rise of the Machines,2003
+118340,Guardians of the Galaxy,2014
+157336,Interstellar,2014
+27205,Inception,2010
+315011,Shin Godzilla,2016
+49051,The Hobbit: An Unexpected Journey,2012
+9799,The Fast and the Furious,2001
+4922,The Curious Case of Benjamin Button,2008
+49538,X-Men: First Class,2011
+131634,The Hunger Games: Mockingjay - Part 2,2015
+27022,The Sorcerer's Apprentice,2010
+503,Poseidon,2006
+241259,Alice Through the Looking Glass,2016
+810,Shrek the Third,2007
+68735,Warcraft,2016
+87101,Terminator Genisys,2015
+10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010
+676,Pearl Harbor,2001
+1858,Transformers,2007
+1966,Alexander,2004
+675,Harry Potter and the Order of the Phoenix,2007
+674,Harry Potter and the Goblet of Fire,2005
+8960,Hancock,2008
+6479,I Am Legend,2007
+118,Charlie and the Chocolate Factory,2005
+2062,Ratatouille,2007
+272,Batman Begins,2005
+10527,Madagascar: Escape 2 Africa,2008
+18360,Night at the Museum: Battle of the Smithsonian,2009
+2080,X-Men Origins: Wolverine,2009
+605,The Matrix Revolutions,2003
+109445,Frozen,2013
+604,The Matrix Reloaded,2003
+76338,Thor: The Dark World,2013
+76341,Mad Max: Fury Road,2015
+13448,Angels & Demons,2009
+10195,Thor,2011
+13053,Bolt,2008
+19585,G-Force,2009
+57165,Wrath of the Titans,2012
+62213,Dark Shadows,2012
+177677,Mission: Impossible - Rogue Nation,2015
+7978,The Wolfman,2010
+5559,Bee Movie,2007
+49444,Kung Fu Panda 2,2011
+10196,The Last Airbender,2010
+956,Mission: Impossible III,2006
+117251,White House Down,2013
+50321,Mars Needs Moms,2011
+11619,Flushed Away,2006
+266647,Pan,2015
+82703,Mr. Peabody & Sherman,2014
+652,Troy,2004
+80321,Madagascar 3: Europe's Most Wanted,2012
+36669,Die Another Day,2002
+43074,Ghostbusters,2016
+95,Armageddon,1998
+608,Men in Black II,2002
+2310,Beowulf,2007
+140300,Kung Fu Panda 3,2016
+56292,Mission: Impossible - Ghost Protocol,2011
+81188,Rise of the Guardians,2012
+7552,Fun with Dick and Jane,2005
+616,The Last Samurai,2003
+147441,Exodus: Gods and Kings,2014
+13475,Star Trek,2009
+557,Spider-Man,2002
+82702,How to Train Your Dragon 2,2014
+205584,Gods of Egypt,2016
+10048,Stealth,2005
+13183,Watchmen,2009
+944,Lethal Weapon 4,1998
+1927,Hulk,2003
+72559,G.I. Joe: Retaliation,2013
+7364,Sahara,2005
+2114,Final Fantasy: The Spirits Within,2001
+1771,Captain America: The First Avenger,2011
+36643,The World Is Not Enough,1999
+8619,Master and Commander: The Far Side of the World,2003
+50620,The Twilight Saga: Breaking Dawn - Part 2,2012
+65759,Happy Feet Two,2011
+1724,The Incredible Hulk,2008
+267935,The BFG,2016
+281957,The Revenant,2015
+77950,Turbo,2013
+44896,Rango,2011
+270946,Penguins of Madagascar,2014
+2503,The Bourne Ultimatum,2007
+9502,Kung Fu Panda,2008
+102899,Ant-Man,2015
+101299,The Hunger Games: Catching Fire,2013
+228161,Home,2015
+74,War of the Worlds,2005
+8961,Bad Boys II,2003
+417859,Puss in Boots,2011
+27576,Salt,2010
+86834,Noah,2014
+17578,The Adventures of Tintin,2011
+673,Harry Potter and the Prisoner of Azkaban,2004
+6972,Australia,2008
+82700,After Earth,2013
+10567,Dinosaur,2000
+181533,Night at the Museum: Secret of the Tomb,2014
+38055,Megamind,2010
+671,Harry Potter and the Philosopher's Stone,2001
+49524,R.I.P.D.,2013
+22,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+131631,The Hunger Games: Mockingjay - Part 1,2014
+591,The Da Vinci Code,2006
+172385,Rio 2,2014
+36658,X2,2003
+51497,Fast Five,2011
+58574,Sherlock Holmes: A Game of Shadows,2011
+18823,Clash of the Titans,2010
+861,Total Recall,1990
+1911,The 13th Warrior,1999
+49040,The Bourne Legacy,2012
+415,Batman & Robin,1997
+8871,How the Grinch Stole Christmas,2000
+435,The Day After Tomorrow,2004
+955,Mission: Impossible II,2000
+2133,The Perfect Storm,2000
+1979,Fantastic 4: Rise of the Silver Surfer,2007
+87827,Life of Pi,2012
+1250,Ghost Rider,2007
+324668,Jason Bourne,2016
+9471,Charlie's Angels: Full Throttle,2003
+70981,Prometheus,2012
+10996,Stuart Little 2,2002
+68724,Elysium,2013
+2789,The Chronicles of Riddick,2004
+97020,RoboCop,2014
+7459,Speed Racer,2008
+42888,How Do You Know,2010
+37834,Knight and Day,2010
+75612,Oblivion,2013
+1895,Star Wars: Episode III - Revenge of the Sith,2005
+1894,Star Wars: Episode II - Attack of the Clones,2002
+585,"Monsters, Inc.",2001
+76170,The Wolverine,2013
+1893,Star Wars: Episode I - The Phantom Menace,1999
+49519,The Croods,2013
+2395,Asterix at the Olympic Games,2008
+12100,Windtalkers,2002
+290595,The Huntsman: Winter's War,2016
+98566,Teenage Mutant Ninja Turtles,2014
+49047,Gravity,2013
+9619,Dante's Peak,1997
+308531,Teenage Mutant Ninja Turtles: Out of the Shadows,2016
+166424,Fantastic Four,2015
+1593,Night at the Museum,2006
+254128,San Andreas,2015
+714,Tomorrow Never Dies,1997
+2024,The Patriot,2000
+163,Ocean's Twelve,2004
+787,Mr. & Mrs. Smith,2005
+262500,Insurgent,2015
+2567,The Aviator,2004
+38745,Gulliver's Travels,2010
+40805,The Green Hornet,2011
+53182,300: Rise of an Empire,2014
+41513,The Smurfs,2011
+13700,Home on the Range,2004
+262504,Allegiant,2016
+39254,Real Steel,2011
+77931,The Smurfs 2,2013
+1639,Speed 2: Cruise Control,1997
+80274,Ender's Game,2013
+1571,Live Free or Die Hard,2007
+120,The Lord of the Rings: The Fellowship of the Ring,2001
+10204,Around the World in 80 Days,2004
+8489,Ali,2001
+10588,The Cat in the Hat,2003
+2048,"I, Robot",2004
+1495,Kingdom of Heaven,2005
+10137,Stuart Little,1999
+10198,The Princess and the Frog,2009
+286217,The Martian,2015
+1635,The Island,2005
+24113,Town & Country,2001
+9679,Gone in Sixty Seconds,2000
+98,Gladiator,2000
+180,Minority Report,2002
+672,Harry Potter and the Chamber of Secrets,2002
+36557,Casino Royale,2006
+869,Planet of the Apes,2001
+280,Terminator 2: Judgment Day,1991
+11322,Public Enemies,2009
+4982,American Gangster,2007
+36955,True Lies,1994
+18487,The Taking of Pelham 1 2 3,2009
+39451,Little Fockers,2010
+27581,The Other Guys,2010
+9268,Eraser,1996
+68718,Django Unchained,2012
+10545,The Hunchback of Notre Dame,1996
+11688,The Emperor's New Groove,2000
+76163,The Expendables 2,2012
+2059,National Treasure,2004
+2486,Eragon,2006
+16523,Where the Wild Things Are,2009
+116711,Epic,2013
+37710,The Tourist,2010
+9946,End of Days,1999
+1372,Blood Diamond,2006
+106646,The Wolf of Wall Street,2013
+414,Batman Forever,1995
+563,Starship Troopers,1997
+83542,Cloud Atlas,2012
+41216,Legend of the Guardians: The Owls of Ga'Hoole,2010
+314,Catwoman,2004
+184315,Hercules,2014
+9016,Treasure Planet,2002
+18162,Land of the Lost,2009
+138103,The Expendables 3,2014
+257088,Point Break,2015
+10214,Son of the Mask,2005
+205775,In the Heart of the Sea,2015
+11692,The Adventures of Pluto Nash,2002
+22972,Green Zone,2010
+227973,The Peanuts Movie,2015
+29193,The Spanish Prisoner,1997
+1734,The Mummy Returns,2001
+3131,Gangs of New York,2002
+76758,The Flowers of War,2011
+9408,Surf's Up,2007
+9890,The Stepford Wives,2004
+855,Black Hawk Down,2001
+77953,The Campaign,2012
+18,The Fifth Element,1997
+37786,Sex and the City 2,2010
+10501,The Road to El Dorado,2000
+57800,Ice Age: Continental Drift,2012
+150689,Cinderella,2015
+7980,The Lovely Bones,2009
+12,Finding Nemo,2003
+122,The Lord of the Rings: The Return of the King,2003
+121,The Lord of the Rings: The Two Towers,2002
+68737,Seventh Son,2014
+1995,Lara Croft: Tomb Raider,2001
+157353,Transcendence,2014
+331,Jurassic Park III,2001
+61791,Rise of the Planet of the Apes,2011
+8204,The Spiderwick Chronicles,2008
+47964,A Good Day to Die Hard,2013
+10733,The Alamo,2004
+9806,The Incredibles,2004
+1408,Cutthroat Island,1995
+32657,Percy Jackson & the Olympians: The Lightning Thief,2010
+607,Men in Black,1997
+863,Toy Story 2,1999
+44048,Unstoppable,2010
+5175,Rush Hour 2,2001
+2655,What Lies Beneath,2000
+22794,Cloudy with a Chance of Meatballs,2009
+8355,Ice Age: Dawn of the Dinosaurs,2009
+116745,The Secret Life of Walter Mitty,2013
+4327,Charlie's Angels,2000
+1422,The Departed,2006
+10674,Mulan,1998
+7446,Tropic Thunder,2008
+65754,The Girl with the Dragon Tattoo,2011
+1572,Die Hard: With a Vengeance,1995
+10528,Sherlock Holmes,2009
+271969,Ben-Hur,2016
+10865,Atlantis: The Lost Empire,2001
+258509,Alvin and the Chipmunks: The Road Chip,2015
+2253,Valkyrie,2008
+10661,You Don't Mess with the Zohan,2008
+257344,Pixels,2015
+644,A.I. Artificial Intelligence,2001
+10756,The Haunted Mansion,2003
+686,Contact,1997
+9383,Hollow Man,2000
+179,The Interpreter,2005
+76285,Percy Jackson: Sea of Monsters,2013
+1996,Lara Croft Tomb Raider: The Cradle of Life,2003
+291805,Now You See Me 2,2016
+10003,The Saint,1997
+1535,Spy Game,2001
+2067,Mission to Mars,2000
+46195,Rio,2011
+2277,Bicentennial Man,1999
+10357,Volcano,1997
+4477,The Devil's Own,1997
+8665,K-19: The Widowmaker,2002
+9387,Conan the Barbarian,1982
+921,Cinderella Man,2005
+49852,The Nutcracker: The Untold Story,2010
+4464,Seabiscuit,2003
+664,Twister,1996
+8358,Cast Away,2000
+9836,Happy Feet,2006
+2502,The Bourne Supremacy,2004
+9772,Air Force One,1997
+161,Ocean's Eleven,2001
+52451,The Three Musketeers,2011
+76492,Hotel Transylvania,2012
+4523,Enchanted,2007
+59961,Safe House,2012
+10481,102 Dalmatians,2000
+59108,Tower Heist,2011
+1581,The Holiday,2006
+9798,Enemy of the State,1998
+22897,It's Complicated,2009
+298,Ocean's Thirteen,2007
+7484,Open Season,2006
+157350,Divergent,2014
+853,Enemy at the Gates,2001
+10159,The Rundown,2003
+9593,Last Action Hero,1993
+1904,Memoirs of a Geisha,2005
+9615,The Fast and the Furious: Tokyo Drift,2006
+51052,Arthur Christmas,2011
+297,Meet Joe Black,1998
+9884,Collateral Damage,2002
+16858,All That Jazz,1979
+62764,Mirror Mirror,2012
+22538,Scott Pilgrim vs. the World,2010
+9341,The Core,2003
+12107,Nutty Professor II: The Klumps,2000
+9637,Scooby-Doo,2002
+49049,Dredd,2012
+9339,Click,2006
+16281,Creepshow,1982
+39691,Cats & Dogs 2 : The Revenge of Kitty Galore,2010
+8247,Jumper,2008
+11253,Hellboy II: The Golden Army,2008
+1949,Zodiac,2007
+8452,The 6th Day,2000
+310,Bruce Almighty,2003
+27578,The Expendables,2010
+954,Mission: Impossible,1996
+70160,The Hunger Games,2012
+45243,The Hangover Part II,2011
+364,Batman Returns,1992
+7518,Over the Hedge,2006
+11544,Lilo & Stitch,2002
+9986,Charlotte's Web,2006
+8656,Deep Impact,1998
+146216,RED 2,2013
+9291,The Longest Yard,2005
+55301,Alvin and the Chipmunks: Chipwrecked,2011
+109418,Grown Ups 2,2013
+11665,Get Smart,2008
+6964,Something's Gotta Give,2003
+11324,Shutter Island,2010
+12193,Four Christmases,2008
+9928,Robots,2005
+754,Face/Off,1997
+10202,Bedtime Stories,2008
+4147,Road to Perdition,2002
+50546,Just Go with It,2011
+1701,Con Air,1997
+13027,Eagle Eye,2008
+2289,Cold Mountain,2003
+20504,The Book of Eli,2010
+9574,Flubber,1997
+11618,The Haunting,1999
+2300,Space Jam,1996
+12096,The Pink Panther,2006
+10200,The Day the Earth Stood Still,2008
+8834,Conspiracy Theory,1997
+228150,Fury,2014
+6068,Six Days Seven Nights,1998
+41515,Yogi Bear,2010
+9023,Spirit: Stallion of the Cimarron,2002
+38317,Zookeeper,2011
+2157,Lost in Space,1998
+14462,The Manchurian Candidate,2004
+161795,Déjà Vu,1998
+159824,Hotel Transylvania 2,2015
+49948,Fantasia 2000,1999
+2135,The Time Machine,2002
+9822,Mighty Joe Young,1998
+9705,Swordfish,2001
+1656,The Legend of Zorro,2005
+12159,What Dreams May Come,1998
+9678,Little Nicky,2000
+4442,The Brothers Grimm,2005
+75,Mars Attacks!,1996
+330770,Evolution,2015
+9433,The Edge,1997
+19959,Surrogates,2009
+11973,Thirteen Days,2000
+11228,Daylight,1996
+77951,Walking With Dinosaurs,2013
+5491,Battlefield Earth,2000
+10715,Looney Tunes: Back in Action,2003
+10197,Nine,2009
+9562,Timeline,2003
+9922,The Postman,1997
+9447,Babe: Pig in the City,1998
+274854,The Last Witch Hunter,2015
+8870,Red Planet,2000
+9992,Arthur and the Invisibles,2006
+36970,Oceans,2009
+10077,A Sound of Thunder,2005
+76649,Pompeii,2014
+293644,Top Cat Begins,2015
+453,A Beautiful Mind,2001
+8587,The Lion King,1994
+72545,Journey 2: The Mysterious Island,2012
+109451,Cloudy with a Chance of Meatballs 2,2013
+9533,Red Dragon,2002
+2023,Hidalgo,2004
+71880,Jack and Jill,2011
+584,2 Fast 2 Furious,2003
+309809,The Little Prince,2015
+4858,The Invasion,2007
+17711,The Adventures of Rocky & Bullwinkle,2000
+328111,The Secret Life of Pets,2016
+8698,The League of Extraordinary Gentlemen,2003
+93456,Despicable Me 2,2013
+602,Independence Day,1996
+330,The Lost World: Jurassic Park,1997
+953,Madagascar,2005
+9693,Children of Men,2006
+36657,X-Men,2000
+8909,Wanted,2008
+9802,The Rock,1996
+950,Ice Age: The Meltdown,2006
+1824,50 First Dates,2004
+2976,Hairspray,2007
+11026,Exorcist: The Beginning,2004
+332,Inspector Gadget,1999
+75656,Now You See Me,2013
+38365,Grown Ups,2010
+594,The Terminal,2004
+15189,Hotel for Dogs,2009
+11678,Vertical Limit,2000
+6538,Charlie Wilson's War,2007
+10555,Shark Tale,2004
+1125,Dreamgirls,2006
+4551,Be Cool,2005
+612,Munich,2005
+9567,Tears of the Sun,2003
+37821,Killers,2010
+203801,The Man from U.N.C.L.E.,2015
+2539,Spanglish,2004
+9297,Monster House,2006
+3172,Bandits,2001
+6520,First Knight,1995
+1439,Anna and the King,1999
+37958,Immortals,2011
+2026,Hostage,2005
+7450,Titan A.E.,2000
+11375,Hollywood Homicide,2003
+9425,Soldier,1998
+25769,Carriers,2009
+23685,Monkeybone,2001
+11866,Flight of the Phoenix,2004
+9741,Unbreakable,2000
+211672,Minions,2015
+23629,Sucker Punch,2011
+8688,Snake Eyes,1998
+10153,Sphere,1998
+153518,The Angry Birds Movie,2016
+8676,Fool's Gold,2008
+20829,Funny People,2009
+4349,The Kingdom,2007
+9718,Talladega Nights: The Ballad of Ricky Bobby,2006
+10808,Dr. Dolittle 2,2001
+197,Braveheart,1995
+25,Jarhead,2005
+35,The Simpsons Movie,2007
+11086,The Majestic,2001
+10477,Driven,2001
+1997,Two Brothers,2004
+6947,The Village,2004
+3050,Doctor Dolittle,1998
+2675,Signs,2002
+809,Shrek 2,2004
+920,Cars,2006
+4806,Runaway Bride,1999
+7451,xXx,2002
+228165,The SpongeBob Movie: Sponge Out of Water,2015
+3595,Ransom,1996
+16869,Inglourious Basterds,2009
+879,Hook,1991
+1573,Die Hard 2,1990
+9257,S.W.A.T.,2003
+1903,Vanilla Sky,2001
+9697,Lady in the Water,2006
+395,AVP: Alien vs. Predator,2004
+23398,Alvin and the Chipmunks: The Squeakquel,2009
+10590,We Were Soldiers,2002
+117263,Olympus Has Fallen,2013
+200,Star Trek: Insurrection,1998
+44943,Battle: Los Angeles,2011
+587,Big Fish,2003
+10395,Wolf,1994
+57212,War Horse,2011
+152760,The Monuments Men,2014
+2756,The Abyss,1989
+33909,Wall Street: Money Never Sleeps,2010
+49017,Dracula Untold,2014
+9882,The Siege,1998
+2270,Stardust,2007
+978,Seven Years in Tibet,1997
+44564,The Dilemma,2011
+3132,Bad Company,2002
+8814,Doom,2005
+8427,I Spy,2002
+52520,Underworld: Awakening,2012
+80585,Rock of Ages,2012
+10592,Hart's War,2002
+49021,Killer Elite,2011
+11535,Rollerball,2002
+10550,Ballistic: Ecks vs. Sever,2002
+11258,Hard Rain,1998
+12610,Osmosis Jones,2001
+59981,Legends of Oz: Dorothy's Return,2013
+201088,Blackhat,2015
+5137,Sky Captain and the World of Tomorrow,2004
+3093,Basic Instinct 2,2006
+107846,Escape Plan,2013
+188207,The Legend of Hercules,2014
+4614,The Sum of All Fears,2002
+24021,The Twilight Saga: Eclipse,2010
+11371,The Score,2001
+20352,Despicable Me,2010
+11517,Money Train,1995
+214756,Ted 2,2015
+26428,Agora,2009
+9824,Mystery Men,1999
+48988,Hall Pass,2011
+9008,The Insider,1999
+300673,The Finest Hours,2016
+12113,Body of Lies,2008
+38778,Dinner for Schmucks,2010
+72331,Abraham Lincoln: Vampire Hunter,2012
+1844,Entrapment,1999
+846,The X Files,1998
+9703,The Last Legion,2007
+857,Saving Private Ryan,1998
+136797,Need for Speed,2014
+3981,What Women Want,2000
+425,Ice Age,2002
+6171,Dreamcatcher,2003
+72976,Lincoln,2012
+603,The Matrix,1999
+568,Apollo 13,1995
+9021,The Santa Clause 2,2002
+82695,Les Misérables,2012
+9489,You've Got Mail,1998
+12133,Step Brothers,2008
+9342,The Mask of Zorro,1998
+41733,Due Date,2010
+227306,Unbroken,2014
+5551,Space Cowboys,2000
+9350,Cliffhanger,1993
+9208,Broken Arrow,1996
+4244,The Kid,2000
+1852,World Trade Center,2006
+11820,Mona Lisa Smile,2003
+76493,The Dictator,2012
+345,Eyes Wide Shut,1999
+196867,Annie,2014
+256591,Focus,2015
+59962,This Means War,2012
+36648,Blade: Trinity,2004
+1880,Red Dawn,1984
+9440,Primary Colors,1998
+71679,Resident Evil: Retribution,2012
+10483,Death Race,2008
+11412,The Long Kiss Goodnight,1996
+11983,Proof of Life,2000
+6795,Zathura: A Space Adventure,2005
+550,Fight Club,1999
+11170,We Are Marshall,2006
+9292,Hudson Hawk,1991
+10783,Lucky Numbers,2000
+100241,"I, Frankenstein",2014
+257,Oliver Twist,2005
+9947,Elektra,2005
+189,Sin City: A Dame to Kill For,2014
+12618,Random Hearts,1999
+253412,Everest,2015
+1427,Perfume: The Story of a Murderer,2006
+818,Austin Powers in Goldmember,2002
+16577,Astro Boy,2009
+329,Jurassic Park,1993
+12160,Wyatt Earp,1994
+9331,Clear and Present Danger,1994
+300168,Dragon Blade,2015
+9072,Little Man,2006
+3536,U-571,2000
+9087,The American President,1995
+12177,The Love Guru,2008
+12138,3000 Miles to Graceland,2001
+273248,The Hateful Eight,2015
+9955,Blades of Glory,2007
+50359,Hop,2011
+1271,300,2006
+693,Meet the Fockers,2004
+14306,Marley & Me,2008
+497,The Green Mile,1999
+11199,Wild Hogs,2007
+9982,Chicken Little,2005
+210577,Gone Girl,2014
+2501,The Bourne Identity,2002
+710,GoldenEye,1995
+2275,The General's Daughter,1999
+37165,The Truman Show,1998
+9837,The Prince of Egypt,1998
+10708,Daddy Day Care,2003
+136400,2 Guns,2013
+10992,Cats & Dogs,2001
+9654,The Italian Job,2003
+2642,Two Weeks Notice,2002
+8916,Antz,1998
+19899,Couples Retreat,2009
+2119,Days of Thunder,1990
+9641,Cheaper by the Dozen 2,2005
+294254,Maze Runner: The Scorch Trials,2015
+38167,Eat Pray Love,2010
+5994,The Family Man,2000
+39514,RED,2010
+9563,Any Given Sunday,1999
+547,The Horse Whisperer,1998
+1538,Collateral,2004
+9334,The Scorpion King,2002
+11128,Ladder 49,2004
+75780,Jack Reacher,2012
+8914,Deep Blue Sea,1999
+13576,This Is It,2009
+39538,Contagion,2011
+10628,Kangaroo Jack,2003
+14836,Coraline,2009
+8645,The Happening,2008
+9509,Man on Fire,2004
+10067,The Shaggy Dog,2006
+9384,Starsky & Hutch,2004
+9279,Jingle All the Way,1996
+1487,Hellboy,2004
+9422,A Civil Action,1998
+77174,ParaNorman,2012
+4824,The Jackal,1997
+9620,Paycheck,2003
+9302,Up Close & Personal,1996
+10199,The Tale of Despereaux,2008
+10771,The Tuxedo,2002
+3512,Under Siege 2: Dark Territory,1995
+137094,Jack Ryan: Shadow Recruit,2014
+274479,Joy,2015
+267860,London Has Fallen,2016
+8078,Alien: Resurrection,1997
+7485,Shooter,2007
+170687,The Boxtrolls,2014
+6435,Practical Magic,1998
+137106,The Lego Movie,2014
+10040,Miss Congeniality 2: Armed and Fabulous,2005
+6278,Reign of Fire,2002
+82682,Gangster Squad,2013
+17610,Year One,2009
+22954,Invictus,2009
+16995,State of Play,2009
+16558,Duplicity,2009
+9849,My Favorite Martian,1999
+5820,The Sentinel,2006
+16866,Planet 51,2009
+201,Star Trek: Nemesis,2002
+11775,Intolerable Cruelty,2003
+87825,Trouble with the Curve,2012
+12201,Edge of Darkness,2010
+11015,The Relic,1997
+9932,Analyze That,2002
+13389,Righteous Kill,2008
+8838,Mercury Rising,1998
+17332,The Soloist,2009
+4958,The Legend of Bagger Vance,2000
+786,Almost Famous,2000
+9513,Garfield: A Tail of Two Kitties,2006
+11679,xXx: State of the Union,2005
+38321,Priest,2011
+14411,Sinbad: Legend of the Seven Seas,2003
+8413,Event Horizon,1997
+10052,Dragonfly,2002
+9676,The Black Dahlia,2006
+9664,Flyboys,2006
+2100,The Last Castle,2001
+10384,Supernova,2000
+137321,Winter's Tale,2014
+123553,The Mortal Instruments: City of Bones,2013
+11260,Meet Dave,2008
+9009,Dark Water,2005
+11374,Edtv,1999
+2309,Inkheart,2008
+8285,The Spirit,2008
+210860,Mortdecai,2015
+2312,In the Name of the King: A Dungeon Siege Tale,2007
+9839,Beyond Borders,2003
+381902,The Monkey King 2,2016
+13922,The Great Raid,2005
+293660,Deadpool,2016
+9713,Holy Man,1998
+190859,American Sniper,2014
+257445,Goosebumps,2015
+9007,Just Like Heaven,2005
+889,The Flintstones in Viva Rock Vegas,2000
+1370,Rambo III,1988
+4942,Leatherheads,2008
+347969,The Ridiculous 6,2015
+24438,Did You Hear About the Morgans?,2009
+116741,The Internship,2013
+35791,Resident Evil: Afterlife,2010
+72431,Red Tails,2012
+1813,The Devil's Advocate,1997
+87428,That's My Boy,2012
+8840,DragonHeart,1996
+10589,After the Sunset,2004
+71676,Ghost Rider: Spirit of Vengeance,2011
+1722,Captain Corelli's Mandolin,2001
+10022,The Pacifier,2005
+11358,Walking Tall,2004
+13,Forrest Gump,1994
+6477,Alvin and the Chipmunks,2007
+1597,Meet the Parents,2000
+10530,Pocahontas,1995
+1924,Superman,1978
+9327,The Nutty Professor,1996
+8488,Hitch,2005
+10603,George of the Jungle,1997
+8273,American Wedding,2003
+109424,Captain Phillips,2013
+35056,Date Night,2010
+8839,Casper,1995
+156022,The Equalizer,2014
+7303,Maid in Manhattan,2002
+8963,Crimson Tide,1995
+1402,The Pursuit of Happyness,2006
+9315,Flightplan,2005
+8984,Disclosure,1994
+795,City of Angels,1998
+24,Kill Bill: Vol. 1,2003
+11353,Bowfinger,1999
+393,Kill Bill: Vol. 2,2004
+9618,Tango & Cash,1989
+9374,Death Becomes Her,1992
+8584,Shanghai Noon,2000
+2320,Executive Decision,1996
+58224,Mr. Popper's Penguins,2011
+1729,The Forbidden Kingdom,2008
+175574,Free Birds,2013
+8077,Alien³,1992
+8818,Evita,1996
+8195,Ronin,1998
+10586,The Ghost and the Darkness,1996
+116149,Paddington,2014
+80035,The Watch,2012
+10632,The Hunted,2003
+12117,Instinct,1999
+1792,Stuck on You,2003
+13260,Semi-Pro,2008
+72197,The Pirates! In an Adventure with Scientists!,2012
+3580,Changeling,2008
+12123,Chain Reaction,1996
+9566,The Fan,1996
+9833,The Phantom of the Opera,2004
+4517,Elizabeth: The Golden Age,2007
+8202,Æon Flux,2005
+16072,Gods and Generals,2003
+34314,Turbulence,1997
+19724,Imagine That,2009
+145220,Muppets Most Wanted,2014
+14623,Thunderbirds,2004
+42297,Burlesque,2010
+2841,A Very Long Engagement,2004
+802,Lolita,1962
+10375,D-Tox,2002
+36586,Blade II,2002
+11321,Seven Pounds,2008
+70074,Bullet to the Head,2013
+242,The Godfather: Part III,1990
+9621,Elizabethtown,2005
+1819,"You, Me and Dupree",2006
+8536,Superman II,1980
+8046,Gigli,2003
+1717,All the King's Men,2006
+479,Shaft,2000
+9444,Anastasia,1997
+824,Moulin Rouge!,2001
+11456,Domestic Disturbance,2001
+261023,Black Mass,2015
+3683,Flags of Our Fathers,2006
+22803,Law Abiding Citizen,2009
+285923,Grindhouse,2007
+39437,Beloved,1998
+1950,Lucky You,2007
+640,Catch Me If You Can,2002
+97630,Zero Dark Thirty,2012
+9767,The Break-Up,2006
+11631,Mamma Mia!,2008
+32856,Valentine's Day,2010
+6519,The Dukes of Hazzard,2005
+8741,The Thin Red Line,1998
+49520,The Change-Up,2011
+1850,Man on the Moon,1999
+524,Casino,1995
+26389,From Paris with Love,2010
+11817,Bulletproof Monk,2003
+2123,"Me, Myself & Irene",2000
+9907,Barnyard,2006
+9969,Deck the Halls,2006
+18239,The Twilight Saga: New Moon,2009
+808,Shrek,2001
+38050,The Adjustment Bureau,2011
+8367,Robin Hood: Prince of Thieves,1991
+9390,Jerry Maguire,1996
+72105,Ted,2012
+2898,As Good as It Gets,1997
+10312,Patch Adams,1998
+109443,Anchorman 2: The Legend Continues,2013
+2022,Mr. Deeds,2002
+37686,Super 8,2011
+462,Erin Brockovich,2000
+9919,How to Lose a Guy in 10 Days,2003
+187017,22 Jump Street,2014
+628,Interview with the Vampire,1994
+10201,Yes Man,2008
+302699,Central Intelligence,2016
+9441,Stepmom,1998
+274167,Daddy's Home,2015
+224141,Into the Woods,2014
+388,Inside Man,2006
+2112,Payback,1999
+10329,Congo,1995
+74465,We Bought a Zoo,2011
+13811,Knowing,2009
+6877,Failure to Launch,2006
+10320,The Ring Two,2005
+50646,"Crazy, Stupid, Love.",2011
+8920,Garfield,2004
+13673,Christmas with the Kranks,2004
+60308,Moneyball,2011
+6950,Outbreak,1995
+225574,Non-Stop,2014
+13836,Race to Witch Mountain,2009
+752,V for Vendetta,2006
+6038,Shanghai Knights,2003
+9975,Curious George,2006
+11451,Herbie Fully Loaded,2005
+12103,Don't Say a Word,2001
+60304,Hansel & Gretel: Witch Hunters,2013
+2251,Unfaithful,2002
+46529,I Am Number Four,2011
+231,Syriana,2005
+300671,13 Hours: The Secret Soldiers of Benghazi,2016
+228326,The Book of Life,2014
+9754,Firewall,2006
+66,Absolute Power,1997
+4421,G.I. Jane,1997
+2649,The Game,1997
+588,Silent Hill,2006
+10393,The Replacements,2000
+71552,American Reunion,2012
+9631,The Negotiator,1998
+216282,Into the Storm,2014
+306,Beverly Hills Cop III,1994
+928,Gremlins 2: The New Batch,1990
+205587,The Judge,2014
+6623,The Peacemaker,1997
+1577,Resident Evil: Apocalypse,2004
+9801,Bridget Jones: The Edge of Reason,2004
+2116,Out of Time,2003
+9624,On Deadly Ground,1994
+14199,The Adventures of Sharkboy and Lavagirl,2005
+1907,The Beach,2000
+4599,Raising Helen,2004
+22832,Ninja Assassin,2009
+10390,For Love of the Game,1999
+9879,Striptease,1996
+38579,Marmaduke,2010
+44603,Hereafter,2010
+11892,Murder by Numbers,2002
+9691,Assassins,1995
+1248,Hannibal Rising,2007
+12220,The Story of Us,1999
+72710,The Host,2013
+10782,Basic,2003
+9573,Blood Work,2002
+4959,The International,2009
+10061,Escape from L.A.,1996
+10386,The Iron Giant,1999
+421,The Life Aquatic with Steve Zissou,2004
+316152,Free State of Jones,2016
+11615,The Life of David Gale,2003
+13498,Man of the House,2005
+241554,Run All Night,2015
+2252,Eastern Promises,2007
+11968,Into the Blue,2005
+10047,The Messenger: The Story of Joan of Arc,1999
+38319,Your Highness,2011
+69668,Dream House,2011
+9770,Mad City,1997
+11212,Baby's Day Out,1994
+10533,The Scarlet Letter,1995
+38363,Fair Game,2010
+9923,Domino,2005
+11863,Jade,1995
+18501,Gamer,2009
+109491,Beautiful Creatures,2013
+9275,Death to Smoochy,2002
+329833,Zoolander 2,2016
+12634,The Big Bounce,2004
+10416,What Planet Are You From?,2000
+47327,Drive Angry,2011
+15268,Street Fighter: The Legend of Chun-Li,2009
+10796,The One,2001
+9548,The Adventures of Ford Fairlane,1990
+18947,The Boat That Rocked,2009
+1900,Traffic,2000
+89,Indiana Jones and the Last Crusade,1989
+96724,Anna Karenina,2012
+198184,Chappie,2015
+9481,The Bone Collector,1999
+4547,Panic Room,2002
+53953,The Tooth Fairy,2006
+6415,Three Kings,1999
+181283,Child 44,2015
+9896,Rat Race,2001
+167,K-PAX,2001
+11232,Kate & Leopold,2001
+1636,Bedazzled,2000
+2148,The Cotton Club,1984
+5176,3:10 to Yuma,2007
+260346,Taken 3,2014
+1389,Out of Sight,1998
+9894,The Cable Guy,1996
+7504,Earth,1998
+8592,Dick Tracy,1990
+913,The Thomas Crown Affair,1999
+11091,Riding in Cars with Boys,2001
+1368,First Blood,1982
+593,Solaris,1972
+5393,Happily N'Ever After,2006
+9095,Mary Reilly,1996
+8874,My Best Friend's Wedding,1997
+11467,America's Sweethearts,2001
+320,Insomnia,2002
+199,Star Trek: First Contact,1996
+20533,Jonah Hex,2010
+10684,Courage Under Fire,1996
+1624,Liar Liar,1997
+325789,The Infiltrator,2016
+113464,Inchon,1981
+888,The Flintstones,1994
+82675,Taken 2,2012
+4256,Scary Movie 3,2003
+1493,Miss Congeniality,2000
+88751,Journey to the Center of the Earth,2008
+11130,The Princess Diaries 2: Royal Engagement,2004
+9944,The Pelican Brief,1993
+10731,The Client,1994
+7350,The Bucket List,2007
+9869,Patriot Games,1992
+4379,Monster-in-Law,2005
+146233,Prisoners,2013
+2034,Training Day,2001
+926,Galaxy Quest,1999
+4248,Scary Movie 2,2001
+64328,The Muppets,2011
+36647,Blade,1998
+7214,Coach Carter,2005
+1537,Changing Lanes,2002
+9360,Anaconda,1997
+6282,Coyote Ugly,2000
+508,Love Actually,2003
+9487,A Bug's Life,1998
+768,From Hell,2001
+2636,The Specialist,1994
+10478,Tin Cup,1996
+27983,"Yours, Mine and Ours",1968
+9981,Kicking & Screaming,2005
+7453,The Hitchhiker's Guide to the Galaxy,2005
+15045,Fat Albert,2004
+7737,Resident Evil: Extinction,2007
+232672,Blended,2014
+17379,Last Holiday,2006
+8987,The River Wild,1994
+11359,The Indian in the Cupboard,1995
+82525,Savages,2012
+9759,Cellular,2004
+9486,Johnny English,2003
+9906,The Ant Bully,2006
+841,Dune,1984
+4688,Across the Universe,2007
+4148,Revolutionary Road,2008
+2207,16 Blocks,2006
+9381,Babylon A.D.,2008
+9625,The Glimmer Man,1996
+9304,Multiplicity,1996
+20856,Aliens in the Attic,2009
+5955,The Pledge,2001
+9899,The Producers,2005
+9826,The Phantom,1996
+21355,All the Pretty Horses,2000
+10858,Nixon,1995
+11439,The Ghost Writer,2010
+9457,Deep Rising,1998
+12412,Miracle at St. Anna,2008
+1494,Curse of the Golden Flower,2006
+13184,Bangkok Dangerous,2008
+2185,Big Trouble,2002
+6639,Love in the Time of Cholera,2007
+38153,Shadow Conspiracy,1997
+58233,Johnny English Reborn,2011
+116977,Foodfight!,2012
+68734,Argo,2012
+5503,The Fugitive,1993
+27573,The Bounty Hunter,2010
+819,Sleepers,1996
+1369,Rambo: First Blood Part II,1985
+9623,The Juror,1996
+10895,Pinocchio,1940
+10935,Heaven's Gate,1980
+834,Underworld: Evolution,2006
+228066,Victor Frankenstein,2015
+711,Finding Forrester,2000
+10468,28 Days,2000
+10027,Unleashed,2005
+11812,The Sweetest Thing,2002
+37233,The Firm,1993
+37950,Charlie St. Cloud,2010
+27582,The Mechanic,2011
+64688,21 Jump Street,2012
+509,Notting Hill,1999
+7443,Chicken Run,2000
+5966,Along Came Polly,2004
+11066,Boomerang,1992
+136795,The Heat,2013
+8095,Cleopatra,1963
+87826,Here Comes the Boom,2012
+11560,High Crimes,2002
+25189,The Mirror Has Two Faces,1996
+2637,The Mothman Prophecies,2002
+18480,Brüno,2009
+709,Licence to Kill,1989
+49730,Red Riding Hood,2011
+2749,15 Minutes,2001
+9607,Super Mario Bros.,1993
+1830,Lord of War,2005
+79,Hero,2002
+54054,One for the Money,2012
+228967,The Interview,2014
+46528,The Warrior's Way,2010
+27936,Micmacs,2009
+65,8 Mile,2002
+280391,Why I Did (Not) Eat My Father,2015
+9476,A Knight's Tale,2001
+10610,The Medallion,2003
+745,The Sixth Sense,1999
+49527,Man on a Ledge,2012
+73937,The Big Year,2011
+1885,The Karate Kid,1984
+168672,American Hustle,2013
+18240,The Proposal,2009
+10398,Double Jeopardy,1999
+165,Back to the Future Part II,1989
+240832,Lucy,2014
+216015,Fifty Shades of Grey,2015
+12279,Spy Kids 3-D: Game Over,2003
+1645,A Time to Kill,1996
+11007,Cheaper by the Dozen,2003
+193756,Lone Survivor,2013
+11287,A League of Their Own,1992
+259693,The Conjuring 2,2016
+37799,The Social Network,2010
+10184,He's Just Not That Into You,2009
+4257,Scary Movie 4,2006
+4234,Scream 3,2000
+196,Back to the Future Part III,1990
+257091,Get Hard,2015
+6114,Dracula,1992
+24803,Julie & Julia,2009
+109410,42,2013
+1213,The Talented Mr. Ripley,1999
+100042,Dumb and Dumber To,2014
+9036,Eight Below,2006
+257211,The Intern,2015
+323675,Ride Along 2,2016
+9361,The Last of the Mohicans,1992
+1677,Ray,2004
+187,Sin City,2005
+7461,Vantage Point,2008
+16538,"I Love You, Man",2009
+9889,Shallow Hal,2001
+820,JFK,1991
+11565,Big Momma's House 2,2006
+6073,The Mexican,2001
+16996,17 Again,2009
+193610,The Other Woman,2014
+19912,The Final Destination,2009
+296098,Bridge of Spies,2015
+8007,Behind Enemy Lines,2001
+32823,Get Him to the Greek,2010
+4380,Shall We Dance?,2004
+11551,Small Soldiers,1998
+10336,Spawn,1997
+11362,The Count of Monte Cristo,2002
+50348,The Lincoln Lawyer,2011
+48138,Unknown,2011
+1124,The Prestige,2006
+227159,Horrible Bosses 2,2014
+68179,Escape from Planet Earth,2013
+1579,Apocalypto,2006
+708,The Living Daylights,1987
+34851,Predators,2010
+9930,Legal Eagles,1986
+1586,Secret Window,2004
+2044,The Lake House,2006
+9913,The Skeleton Key,2005
+71864,The Odd Life of Timothy Green,2012
+10761,Made of Honor,2008
+209451,Jersey Boys,2014
+11975,The Rainmaker,1997
+4970,Gothika,2003
+11831,Amistad,1997
+9096,Medicine Man,1992
+440,Aliens vs Predator: Requiem,2007
+11011,Ri¢hie Ri¢h,1994
+10641,Autumn in New York,2000
+11172,Music and Lyrics,2007
+39513,Paul,2011
+82687,The Guilt Trip,2012
+41446,Scream 4,2011
+8224,8MM,1999
+10537,The Doors,1991
+225886,Sex Tape,2014
+10385,Hanging Up,2000
+55779,Final Destination 5,2011
+10154,Mickey Blue Eyes,1999
+10647,Pay It Forward,2000
+11431,Fever Pitch,2005
+8457,Drillbit Taylor,2008
+188161,A Million Ways to Die in the West,2014
+8850,The Shadow,1994
+64685,Extremely Loud & Incredibly Close,2011
+38357,Morning Glory,2010
+10060,Get Rich or Die Tryin',2005
+11398,The Art of War,2000
+1833,Rent,2005
+10391,Bless the Child,2000
+8970,The Out-of-Towners,1999
+9306,The Island of Dr. Moreau,1996
+11370,The Musketeer,2001
+12184,The Other Boleyn Girl,2008
+1921,Sweet November,2001
+1683,The Reaping,2007
+203,Mean Streets,1973
+11858,Renaissance Man,1994
+62835,Colombiana,2011
+18937,Quest for Camelot,1998
+13536,City By The Sea,2002
+15556,At First Sight,1999
+10718,Torque,2004
+11062,City Hall,1996
+10802,Showgirls,1995
+1887,Marie Antoinette,2006
+6071,Kiss of Death,1995
+10461,Get Carter,2000
+80278,The Impossible,2012
+12704,Ishtar,1987
+10315,Fantastic Mr. Fox,2009
+16643,Life or Something Like It,2002
+2687,Memoirs of an Invisible Man,1992
+194,Amélie,2001
+11025,New York Minute,2004
+8849,Alfie,2004
+78698,Big Miracle,2012
+30943,The Deep End of the Ocean,1999
+9544,FearDotCom,2002
+24418,Cirque du Freak: The Vampire's Assistant,2009
+7288,Duplex,2003
+14655,Soul Men,2008
+24575,Raise the Titanic,1980
+10366,Universal Soldier: The Return,1999
+19898,Pandorum,2009
+4965,Impostor,2001
+15074,Extreme Ops,2002
+56715,Just Visiting,2001
+1272,Sunshine,2007
+72358,A Thousand Words,2012
+20542,Delgo,2008
+266396,The Gunman,2015
+9978,Stormbreaker,2006
+8271,Disturbia,2007
+10428,Hackers,1995
+5353,The Hunting Party,2007
+11934,The Hudsucker Proxy,1994
+14392,The Warlords,2007
+19495,Nomad: The Warrior,2005
+110415,Snowpiercer,2013
+77459,A Monster in Paris,2011
+26486,The Last Shot,2004
+9495,The Crow,1994
+256040,Baahubali: The Beginning,2015
+24420,The Time Traveler's Wife,2009
+1257,Because I Said So,2007
+62214,Frankenweenie,2012
+16320,Serenity,2005
+8842,Against the Ropes,2004
+9531,Superman III,1983
+64807,Grudge Match,2013
+12289,Red Cliff,2008
+11529,Sweet Home Alabama,2002
+20943,The Ugly Truth,2009
+9099,Sgt. Bilko,1996
+9488,Spy Kids 2: The Island of Lost Dreams,2002
+193,Star Trek: Generations,1994
+44865,The Grandmaster,2013
+55787,Water for Elephants,2011
+257932,Dragon Nest: Warriors' Dawn,2014
+10400,The Hurricane,1999
+1957,Enough,2002
+10833,Heartbreakers,2001
+256961,Paul Blart: Mall Cop 2,2015
+5852,Angel Eyes,2001
+12312,Joe Somebody,2001
+622,The Ninth Gate,1999
+11306,Extreme Measures,1996
+12508,Rock Star,2001
+25793,Precious,2009
+10534,White Squall,1996
+1091,The Thing,1982
+87421,Riddick,2013
+10871,Switchback,1997
+13503,Texas Rangers,2001
+13600,City of Ember,2008
+68722,The Master,2012
+14324,Virgin Territory,2007
+14325,The Express,2008
+299687,The 5th Wave,2016
+312221,Creed,2015
+23168,The Town,2010
+76494,What to Expect When You're Expecting,2012
+4944,Burn After Reading,2008
+10488,Nim's Island,2008
+96721,Rush,2013
+334,Magnolia,1999
+23742,Cop Out,2010
+259694,How to Be Single,2016
+62837,Dolphin Tale,2011
+8966,Twilight,2008
+8470,John Q,2002
+11001,Blue Streak,1999
+138832,We're the Millers,2013
+16911,The Inhabited Island,2008
+2163,Breakdown,1997
+36670,Never Say Never Again,1983
+23048,Hot Tub Time Machine,2010
+227735,Dolphin Tale 2,2014
+2155,Reindeer Games,2000
+222936,Aloha,2015
+31908,Ghosts of Mississippi,1996
+10219,Snow Falling on Cedars,1999
+48171,The Rite,2011
+782,Gattaca,1997
+75531,Isn't She Great,2000
+11802,Space Chimps,2008
+9776,Head of State,2003
+18785,The Hangover,2009
+365222,Ip Man 3,2015
+817,Austin Powers: The Spy Who Shagged Me,1999
+268,Batman,1989
+45054,There Be Dragons,2011
+943,Lethal Weapon 3,1992
+22881,The Blind Side,2009
+10054,Spy Kids,2001
+51540,Horrible Bosses,2011
+44264,True Grit,2010
+350,The Devil Wears Prada,2006
+152,Star Trek: The Motion Picture,1979
+109431,Identity Thief,2013
+1598,Cape Fear,1991
+8065,21,2008
+271718,Trainwreck,2015
+11638,Guess Who,2005
+409,The English Patient,1996
+2118,L.A. Confidential,1997
+11459,Sky High,2005
+10806,In & Out,1997
+9348,Species,1995
+377,A Nightmare on Elm Street,1984
+8843,The Cell,2000
+9313,The Man in the Iron Mask,1998
+39486,Secretariat,2010
+1273,TMNT,2007
+13920,Radio,2003
+50544,Friends with Benefits,2011
+325133,Neighbors 2: Sorority Rising,2016
+140823,Saving Mr. Banks,2013
+1883,Malcolm X,1992
+89492,This Is 40,2012
+22949,Old Dogs,2009
+12437,Underworld: Rise of the Lycans,2009
+2959,License to Wed,2007
+9957,The Benchwarmers,2006
+11648,Must Love Dogs,2005
+9366,Donnie Brasco,1997
+1576,Resident Evil,2002
+609,Poltergeist,1982
+5516,The Ladykillers,2004
+13051,Max Payne,2008
+49530,In Time,2011
+34806,The Back-Up Plan,2010
+49022,Something Borrowed,2011
+11469,Black Knight,2001
+23479,The Bad News Bears,1976
+11667,Street Fighter,1994
+423,The Pianist,2002
+2447,The Nativity Story,2006
+10066,House of Wax,2005
+2288,Closer,2004
+88794,J. Edgar,2011
+13515,Mirrors,2008
+11979,Queen of the Damned,2002
+169,Predator 2,1990
+8090,Untraceable,2008
+11622,Blast from the Past,1999
+3604,Flash Gordon,1980
+9541,Jersey Girl,2004
+94348,Alex Cross,2012
+8197,Midnight in the Garden of Good and Evil,1997
+336004,Heist,2015
+35019,Nanny McPhee and the Big Bang,2010
+10410,Hoffa,1992
+8836,The X Files: I Want to Believe,2008
+14442,Ella Enchanted,2004
+321741,Concussion,2015
+59965,Abduction,2011
+14175,Valiant,2005
+11004,Wonder Boys,2000
+11918,Superhero Movie,2008
+98357,Broken City,2013
+10012,Cursed,2005
+49526,Premium Rush,2012
+268920,Hot Pursuit,2015
+9093,The Four Feathers,2002
+119283,Parker,2013
+11823,Wimbledon,2004
+35169,Furry Vengeance,2010
+118957,Bait,2012
+849,Krull,1983
+4515,Lions for Lambs,2007
+18886,Flight of the Intruder,1991
+6575,Walk Hard: The Dewey Cox Story,2007
+6440,The Shipping News,2001
+13496,American Outlaws,2001
+18320,The Young Victoria,2009
+22787,Whiteout,2009
+8967,The Tree of Life,2011
+37498,Knock Off,1998
+144336,Sabotage,2014
+9616,The Order,2003
+13056,Punisher: War Zone,2008
+14113,Zoom,2006
+285783,The Walk,2015
+49478,Warriors of Virtue,1997
+9726,A Good Year,2006
+20763,Radio Flyer,1992
+9702,Bound by Honor,1993
+9311,Smilla's Sense of Snow,1997
+9280,Femme Fatale,2002
+26843,Lion of the Desert,1981
+11876,The Horseman on the Roof,1995
+22267,Ride with the Devil,1999
+45958,Biutiful,2010
+1969,Bandidas,2006
+310706,Black Water Transit,2009
+198663,The Maze Runner,2014
+239573,Unfinished Business,2015
+10436,The Age of Innocence,1993
+1381,The Fountain,2006
+2162,Chill Factor,1999
+127493,Stolen,2012
+12429,Ponyo,2008
+228205,The Longest Ride,2015
+2900,The Astronaut's Wife,1999
+21311,I Dreamed of Africa,2000
+77875,Playing for Keeps,2012
+192136,Mandela: Long Walk to Freedom,2013
+18254,Reds,1981
+881,A Few Good Men,1992
+10877,Exit Wounds,2001
+9600,Big Momma's House,2000
+202575,Thunder and the House of Magic,2013
+71469,The Darkest Hour,2011
+85446,Step Up Revolution,2012
+326,Snakes on a Plane,2006
+10685,The Watcher,2000
+7220,The Punisher,2004
+9763,Goal!: The Dream Begins,2005
+72387,Safe,2012
+12596,Pushing Tin,1999
+1892,Return of the Jedi,1983
+13460,Doomsday,2008
+8055,The Reader,2008
+50647,Wanderlust,2012
+10719,Elf,2003
+9294,Phenomenon,1996
+11888,Snow Dogs,2002
+9647,Scrooged,1988
+9353,Nacho Libre,2006
+55721,Bridesmaids,2011
+109414,This Is the End,2013
+10307,Stigmata,1999
+11978,Men of Honor,2000
+22907,Takers,2010
+87567,The Big Wedding,2013
+38322,"Big Mommas: Like Father, Like Son",2011
+45612,Source Code,2011
+7305,Alive,1993
+3594,The Number 23,2007
+157841,The Young and Prodigious T.S. Spivet,2013
+11519,1941,1979
+12920,Dreamer: Inspired By a True Story,2005
+59,A History of Violence,2005
+9335,Transporter 2,2005
+12106,The Quick and the Dead,1995
+11141,Laws of Attraction,2004
+8649,Bringing Out the Dead,1999
+31867,Repo Men,2010
+10253,Dragon Wars: D-War,2007
+3587,Bogus,1996
+124459,The Incredible Burt Wonderstone,2013
+24662,Cats Don't Dance,1997
+32274,Cradle Will Rock,1999
+182,The Good German,2006
+5494,George and the Dragon,2004
+28,Apocalypse Now,1979
+38073,Going the Distance,2010
+2054,Mr. Holland's Opus,1995
+302156,Criminal,2016
+606,Out of Africa,1985
+87502,Flight,2012
+698,Moonraker,1979
+120467,The Grand Budapest Hotel,2014
+11313,Hearts in Atlantis,2001
+6488,Arachnophobia,1990
+10559,Frequency,2000
+296099,Vacation,2015
+8012,Get Shorty,1995
+1574,Chicago,2002
+9032,Big Daddy,1999
+2770,American Pie 2,2001
+862,Toy Story,1995
+1637,Speed,1994
+72570,The Vow,2012
+27569,Extraordinary Measures,2010
+10637,Remember the Titans,2000
+1669,The Hunt for Red October,1990
+132363,The Butler,2013
+9472,DodgeBall: A True Underdog Story,2004
+2907,The Addams Family,1991
+9273,Ace Ventura: When Nature Calls,1995
+9880,The Princess Diaries,2001
+2925,The First Wives Club,1996
+807,Se7en,1995
+17654,District 9,2009
+11836,The SpongeBob SquarePants Movie,2004
+322,Mystic River,2003
+70,Million Dollar Baby,2004
+9535,Analyze This,1999
+11036,The Notebook,2004
+6557,27 Dresses,2008
+18126,Hannah Montana: The Movie,2009
+16340,Rugrats in Paris: The Movie,2000
+10333,The Prince of Tides,1991
+4476,Legends of the Fall,1994
+22947,Up in the Air,2009
+2755,About Schmidt,2002
+82654,Warm Bodies,2013
+59967,Looper,2012
+16300,Down to Earth,2001
+9598,Babe,1995
+82696,Hope Springs,2012
+9870,Forgetting Sarah Marshall,2008
+8292,Four Brothers,2005
+8780,Baby Mama,2008
+9715,Hope Floats,1998
+10521,Bride Wars,2009
+10762,Without a Paddle,2004
+10096,13 Going on 30,2004
+59436,Midnight in Paris,2011
+227783,The Nut Job,2014
+4133,Blow,2001
+10207,Message in a Bottle,1999
+172,Star Trek V: The Final Frontier,1989
+21972,Like Mike,2002
+36593,The Naked Gun 33⅓: The Final Insult,1994
+707,A View to a Kill,1985
+533,The Curse of the Were-Rabbit,2005
+6023,P.S. I Love You,2007
+6439,Racing Stripes,2005
+4347,Atonement,2007
+37056,Letters to Juliet,2010
+4105,Black Rain,1989
+76489,The Three Stooges,2012
+3933,Corpse Bride,2005
+9918,Glory Road,2006
+273481,Sicario,2015
+307081,Southpaw,2015
+16871,Drag Me to Hell,2009
+293863,The Age of Adaline,2015
+13156,Secondhand Lions,2003
+41233,Step Up 3D,2010
+9266,Blue Crush,2002
+1262,Stranger Than Fiction,2006
+4513,30 Days of Night,2007
+22970,The Cabin in the Woods,2012
+7278,Meet the Spartans,2008
+9013,Midnight Run,1988
+865,The Running Man,1987
+10776,Little Shop of Horrors,1986
+50456,Hanna,2011
+9823,Mortal Kombat: Annihilation,1997
+59861,Larry Crowne,2011
+133805,Carrie,2013
+12763,Take the Lead,2006
+9766,Gridiron Gang,2006
+14034,What's the Worst That Could Happen?,2001
+12244,9,2009
+109421,Side Effects,2013
+11137,The Prince & Me,2004
+51162,Winnie the Pooh,2011
+10152,Dumb and Dumberer: When Harry Met Lloyd,2003
+9452,Bulworth,1998
+239566,Get on Up,2014
+53113,One True Thing,1998
+9271,Virtuosity,1995
+4474,My Super Ex-Girlfriend,2006
+184346,Deliver Us from Evil,2014
+48340,Sanctum,2011
+14846,Little Black Book,2004
+72207,The Five-Year Engagement,2012
+16232,Mr. 3000,2004
+43539,The Next Three Days,2010
+9920,Ultraviolet,2006
+8978,Assault on Precinct 13,2005
+11702,The Replacement Killers,1998
+18550,Fled,1996
+8869,Eight Legged Freaks,2002
+43347,Love & Other Drugs,2010
+3489,88 Minutes,2007
+9701,North Country,2005
+2122,The Whole Ten Yards,2004
+37707,Splice,2009
+10658,Howard the Duck,1986
+13150,Pride and Glory,2008
+9042,The Cave,2005
+17813,Alex & Emma,2003
+11208,Wicker Park,2004
+58151,Fright Night,2011
+11400,The New World,2005
+10350,Wing Commander,1999
+28902,In Dreams,1999
+14164,Dragonball Evolution,2009
+76640,The Last Stand,2013
+11058,Godsend,2004
+14844,Chasing Liberty,2004
+57089,Hoodwinked Too! Hood VS. Evil,2011
+1947,An Unfinished Life,2005
+8054,The Imaginarium of Doctor Parnassus,2009
+46829,Barney's Version,2010
+146238,Runner Runner,2013
+9989,Antitrust,2001
+9665,Glory,1989
+311,Once Upon a Time in America,1984
+102362,Dead Man Down,2013
+11162,The Merchant of Venice,2004
+6016,The Good Thief,2003
+17186,Supercross,2005
+13967,Miss Potter,2006
+2008,The Promise,2005
+9053,DOA: Dead or Alive,2006
+4512,The Assassination of Jesse James by the Coward Robert Ford,2007
+76349,1911,2011
+31203,Little Nicholas,2009
+265208,Wild Card,2015
+45610,Machine Gun Preacher,2011
+50135,Animals United,2010
+1874,Goodbye Bafana,2007
+271331,United Passions,2014
+215211,Grace of Monaco,2014
+367961,Savva. Heart of the Warrior,2015
+10955,Ripley's Game,2002
+223702,Sausage Party,2016
+254470,Pitch Perfect 2,2015
+69,Walk the Line,2005
+4967,Keeping the Faith,2000
+9449,The Borrowers,1997
+11499,Frost/Nixon,2008
+4912,Confessions of a Dangerous Mind,2002
+12771,Serving Sara,2002
+323676,The Boss,2016
+12506,Cry Freedom,1987
+24071,Mumford,1999
+11249,Seed of Chucky,2004
+9667,The Jacket,2005
+812,Aladdin,1992
+277216,Straight Outta Compton,2015
+87,Indiana Jones and the Temple of Doom,1984
+14444,The Rugrats Movie,1998
+2043,Along Came a Spider,2001
+315664,Florence Foster Jenkins,2016
+1428,Once Upon a Time in Mexico,2003
+562,Die Hard,1988
+15373,Role Models,2008
+318846,The Big Short,2015
+26320,Taking Woodstock,2009
+14292,Miracle,2004
+924,Dawn of the Dead,2004
+2018,The Wedding Planner,2001
+192577,Space Pirate Captain Harlock,2013
+9428,The Royal Tenenbaums,2001
+2832,Identity,2003
+137093,Last Vegas,2013
+699,For Your Eyes Only,1981
+9778,Serendipity,2001
+8831,Timecop,1994
+9398,Zoolander,2001
+112949,Safe Haven,2013
+10439,Hocus Pocus,1993
+3638,No Reservations,2007
+23483,Kick-Ass,2010
+62206,30 Minutes or Less,2011
+10577,Dracula 2000,2000
+218778,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014
+4348,Pride & Prejudice,2005
+78,Blade Runner,1982
+11780,Rob Roy,1995
+192102,3 Days to Kill,2014
+2001,We Own the Night,2007
+10383,Lost Souls,2000
+11516,Winged Migration,2001
+10025,Just My Luck,2006
+15198,"Mystery, Alaska",1999
+23172,The Spy Next Door,2010
+17834,A Simple Wish,1997
+10016,Ghosts of Mars,2001
+10317,Our Brand Is Crisis,2015
+58431,Pride and Prejudice and Zombies,2016
+9746,Kundun,1997
+13092,How to Lose Friends & Alienate People,2008
+59859,Kick-Ass 2,2013
+13495,Alatriste,2006
+254473,Brick Mansions,2014
+700,Octopussy,1983
+4964,Knocked Up,2007
+10024,My Sister's Keeper,2009
+13490,Welcome Home Roscoe Jenkins,2008
+15927,A Passage to India,1984
+1259,Notes on a Scandal,2006
+5125,Rendition,2007
+174,Star Trek VI: The Undiscovered Country,1991
+9583,Divine Secrets of the Ya-Ya Sisterhood,2002
+9437,Kiss the Girls,1997
+525,The Blues Brothers,1980
+10188,The Sisterhood of the Traveling Pants 2,2008
+63574,Joyful Noise,2012
+245,About a Boy,2002
+9825,Lake Placid,1999
+186,Lucky Number Slevin,2006
+9549,The Right Stuff,1983
+61891,Anonymous,2011
+34584,The NeverEnding Story,1984
+2666,Dark City,1998
+12783,The Duchess,2008
+13155,Return to Oz,1985
+42807,The Newton Boys,1998
+28355,Case 39,2009
+8080,Suspect Zero,2004
+5126,Martian Child,2007
+56288,Spy Kids: All the Time in the World,2011
+303858,Money Monster,2016
+1613,The 51st State,2001
+31582,Flawless,1999
+16617,Mindhunters,2004
+8944,What Just Happened,2008
+41488,The Statement,2003
+37028,The Magic Flute,2006
+14560,Paul Blart: Mall Cop,2009
+10330,Freaky Friday,2003
+6957,The 40 Year Old Virgin,2005
+1934,Shakespeare in Love,1998
+169917,A Walk Among the Tombstones,2014
+951,Kindergarten Cop,1990
+10189,Pineapple Express,2008
+9454,Ever After: A Cinderella Story,1998
+2055,Open Range,2003
+1551,Flatliners,1990
+5902,A Bridge Too Far,1977
+11460,Red Eye,2005
+9358,Final Destination 2,2003
+134,"O Brother, Where Art Thou?",2000
+22894,Legion,2010
+134374,Pain & Gain,2013
+1901,In Good Company,2004
+15028,Clockstoppers,2002
+11509,Silverado,1985
+7445,Brothers,2009
+17047,Agent Cody Banks 2: Destination London,2004
+62838,New Year's Eve,2011
+2057,Original Sin,2001
+70436,The Raven,2012
+16784,Welcome to Mooseport,2004
+8011,Highlander: The Final Dimension,1994
+31640,Blood and Wine,1996
+9092,Snow White: A Tale of Terror,1997
+2779,The Curse of the Jade Scorpion,2001
+316002,Accidental Love,2015
+36355,Flipper,1996
+238615,Self/less,2015
+1985,The Constant Gardener,2005
+615,The Passion of the Christ,2004
+788,Mrs. Doubtfire,1993
+380,Rain Man,1988
+13223,Gran Torino,2008
+10523,W.,2008
+8681,Taken,2008
+239571,The Best of Me,2014
+619,The Bodyguard,1992
+424,Schindler's List,1993
+50014,The Help,2011
+162903,The Fifth Estate,2013
+11024,Scooby-Doo 2: Monsters Unleashed,2004
+208763,Forbidden Kingdom,2014
+6466,Freddy vs. Jason,2003
+254024,The Face of an Angel,2014
+12589,Jimmy Neutron: Boy Genius,2001
+7191,Cloverfield,2008
+1497,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991
+117,The Untouchables,1987
+6977,No Country for Old Men,2007
+168530,Ride Along,2014
+634,Bridget Jones's Diary,2001
+392,Chocolat,2000
+10327,"Legally Blonde 2: Red, White & Blonde",2003
+88042,Parental Guidance,2012
+41630,No Strings Attached,2011
+11969,Tombstone,1993
+2085,Romeo Must Die,2000
+794,The Omen,1976
+9286,Final Destination 3,2006
+77877,The Lucky One,2012
+1265,Bridge to Terabithia,2007
+866,Finding Neverland,2004
+175555,A Madea Christmas,2013
+75174,The Grey,2012
+11096,Hide and Seek,2005
+8699,Anchorman: The Legend of Ron Burgundy,2004
+769,GoodFellas,1990
+10923,Agent Cody Banks,2003
+11283,Nanny McPhee,2005
+111,Scarface,1983
+11676,Nothing to Lose,1997
+746,The Last Emperor,1987
+77866,Contraband,2012
+9416,Money Talks,1997
+7345,There Will Be Blood,2007
+14317,The Wild Thornberrys Movie,2002
+20694,Rugrats Go Wild,2003
+12277,Undercover Brother,2002
+9779,The Sisterhood of the Traveling Pants,2005
+2140,Kiss of the Dragon,2001
+12620,The House Bunny,2008
+14177,Beauty Shop,2005
+198185,Million Dollar Arm,2014
+227156,The Giver,2014
+10735,What a Girl Wants,2003
+11351,Jeepers Creepers 2,2003
+10030,Good Luck Chuck,2007
+10623,Cradle 2 the Grave,2003
+590,The Hours,2002
+9655,She's the Man,2006
+1268,Mr. Bean's Holiday,2007
+11237,Anacondas: The Hunt for the Blood Orchid,2004
+190955,Blood Ties,2013
+5123,August Rush,2007
+4518,Elizabeth,1998
+11932,Bride of Chucky,1998
+11165,Tora! Tora! Tora!,1970
+6116,Spice World,1997
+57431,The Sitter,2011
+21724,Dance Flick,2009
+278,The Shawshank Redemption,1994
+9290,Crocodile Dundee in Los Angeles,2001
+11543,Kingpin,1996
+284536,The Gambler,2014
+152737,August: Osage County,2013
+13374,Ice Princess,2005
+8976,A Lot Like Love,2005
+319888,Eddie the Eagle,2016
+9469,He Got Game,1998
+1909,Don Juan DeMarco,1994
+22971,Dear John,2010
+34813,The Losers,2010
+46261,Don't Be Afraid of the Dark,2010
+10431,War,2007
+8051,Punch-Drunk Love,2002
+9352,EuroTrip,2004
+10167,Half Past Dead,2002
+18147,Unaccompanied Minors,2006
+17170,"Bright Lights, Big City",1988
+18975,The Adventures of Pinocchio,1996
+15487,The Greatest Game Ever Played,2005
+22825,The Box,2009
+11152,The Ruins,2008
+1831,The Next Best Thing,2000
+43931,My Soul to Take,2010
+10591,The Girl Next Door,2004
+10861,Maximum Risk,1996
+12770,Stealing Harvard,2002
+276907,Legend,2015
+10074,Hot Rod,2007
+65055,Shark Night,2011
+10397,Angela's Ashes,1999
+200505,Draft Day,2014
+11954,Lifeforce,1985
+60309,The Conspirator,2010
+9787,Lords of Dogtown,2005
+293646,The 33,2015
+6978,Big Trouble in Little China,1986
+133698,Fly Me to the Moon,2012
+59440,Warrior,2011
+1770,Michael Collins,1996
+10655,Gettysburg,1993
+8988,Stop-Loss,2008
+15992,Abandon,2002
+17707,Brokedown Palace,1999
+77883,The Possession,2012
+40001,Mrs. Winterbourne,1996
+64639,Straw Dogs,2011
+9903,The Hoax,2006
+21338,Stone Cold,1991
+20766,The Road,2009
+24264,Sheena,1984
+19803,Underclassman,2005
+20309,Say It Isn't So,2001
+9912,The World's Fastest Indian,2005
+9067,Tank Girl,1995
+27360,King's Ransom,2005
+8338,Blindness,2008
+168705,BloodRayne,2005
+72113,Carnage,2011
+9729,Where the Truth Lies,2005
+94352,Cirque du Soleil: Worlds Away,2012
+22256,Without Limits,1998
+12404,Me and Orson Welles,2009
+152742,The Best Offer,2013
+11699,The Bad Lieutenant: Port of Call - New Orleans,2009
+49953,A Turtle's Tale: Sammy's Adventures,2010
+48034,Little White Lies,2010
+39845,Love Ranch,2010
+25353,The True Story of Puss 'n Boots,2009
+36696,Space Dogs,2010
+109091,The Counselor,2013
+38543,Ironclad,2011
+33157,Waterloo,1970
+290864,Kung Fu Jungle,2014
+242166,Red Sky,2014
+859,Dangerous Liaisons,1988
+83770,On the Road,2012
+168,Star Trek IV: The Voyage Home,1986
+1246,Rocky Balboa,2006
+4233,Scream 2,1997
+174751,Jane Got a Gun,2016
+184098,Think Like a Man Too,2014
+2069,The Whole Nine Yards,2000
+1788,Footloose,1984
+11635,Old School,2003
+177,The Fisher King,1991
+3600,I Still Know What You Did Last Summer,1998
+2621,Return to Me,2000
+10358,Zack and Miri Make a Porno,2008
+10480,Nurse Betty,2000
+10313,The Men Who Stare at Goats,2009
+18828,Double Take,2001
+3558,"Girl, Interrupted",1999
+13476,Win a Date with Tad Hamilton!,2004
+10208,Muppets from Space,1999
+24961,The Wiz,1978
+20697,Ready to Rumble,2000
+20761,Play It to the Bone,1999
+70868,I Don't Know How She Does It,2011
+43593,Piranha 3D,2010
+6478,Beyond the Sea,2004
+40688,Meet the Deedles,1998
+26672,The Thief and the Cobbler,1993
+45881,The Bridge of San Luis Rey,2004
+41283,Faster,2010
+4935,Howl's Moving Castle,2004
+19908,Zombieland,2009
+10663,The Waterboy,1998
+1891,The Empire Strikes Back,1980
+9737,Bad Boys,1995
+37137,The Naked Gun 2½: The Smell of Fear,1991
+9532,Final Destination,2000
+10316,The Ides of March,2011
+2787,Pitch Black,2000
+12658,Someone Like You...,2001
+152601,Her,2013
+10866,Joy Ride,2001
+227707,The Adventurer: The Curse of the Midas Box,2013
+21349,Anywhere But Here,1999
+19150,The Crew,2000
+70435,Haywire,2011
+580,Jaws: The Revenge,1987
+9819,Marvin's Room,1996
+13579,The Longshots,2008
+20024,The End of the Affair,1999
+2453,Harley Davidson and the Marlboro Man,1991
+6973,In the Valley of Elah,2007
+11156,Coco Before Chanel,2009
+354110,Forsaken,2015
+22215,Cheri,2009
+11632,Vanity Fair,2004
+30596,Bodyguards and Assassins,2009
+3021,1408,2007
+957,Spaceballs,1987
+256917,The Water Diviner,2014
+251,Ghost,1990
+544,There's Something About Mary,1998
+11395,The Santa Clause,1994
+14635,The Rookie,2002
+13680,The Game Plan,2007
+688,The Bridges of Madison County,1995
+11090,The Animal,2001
+783,Gandhi,1982
+228194,The Hundred-Foot Journey,2014
+1642,The Net,1995
+10950,I Am Sam,2001
+235260,Son of God,2014
+277,Underworld,2003
+8999,Derailed,2005
+11323,The Informant!,2009
+10445,Shadowlands,1993
+11453,Deuce Bigalow: European Gigolo,2005
+146239,Delivery Man,2013
+205588,Our Kind of Traitor,2016
+10878,Saving Silverman,2001
+82650,Diary of a Wimpy Kid: Dog Days,2012
+10279,Summer of Sam,1999
+2294,Jay and Silent Bob Strike Back,2001
+2176,The Glass House,2001
+270487,"Hail, Caesar!",2016
+19366,Josie and the Pussycats,2001
+204082,Homefront,2013
+24100,The Little Vampire,2000
+1599,I Heart Huckabees,2004
+5550,RoboCop 3,1993
+30379,Megiddo: The Omega Code 2,2001
+42586,Darling Lili,1970
+17709,Dudley Do-Right,1999
+287948,The Transporter Refueled,2015
+7548,The Libertine,2004
+9075,Black Book,2006
+11661,Joyeux Noël,2005
+109513,Hit & Run,2012
+12085,Mad Money,2008
+204922,Before I Go to Sleep,2014
+38985,Sorcerer,1977
+44113,Stone,2010
+21494,Moliere,2007
+164457,Out of the Furnace,2013
+4566,Michael Clayton,2007
+17795,My Fellow Americans,1996
+1073,Arlington Road,1999
+153158,Underdogs,2013
+81836,To Rome with Love,2012
+10724,Firefox,1982
+9473,"South Park: Bigger, Longer & Uncut",1999
+2196,Death at a Funeral,2007
+1499,Teenage Mutant Ninja Turtles III,1993
+20857,Hardball,2001
+82693,Silver Linings Playbook,2012
+1646,Freedom Writers,2007
+44944,For Colored Girls,2010
+4108,The Transporter,2002
+8456,Never Back Down,2008
+7341,The Rage: Carrie 2,1999
+19255,Away We Go,2009
+10187,Swing Vote,2008
+31005,Moonlight Mile,2002
+49517,Tinker Tailor Soldier Spy,2011
+44857,Molly,1999
+50780,The Beaver,2011
+16363,The Best Little Whorehouse in Texas,1982
+1946,eXistenZ,1999
+85,Raiders of the Lost Ark,1981
+772,Home Alone 2: Lost in New York,1992
+840,Close Encounters of the Third Kind,1977
+9682,Pulse,2006
+96,Beverly Hills Cop II,1987
+10678,Bringing Down the House,2003
+274,The Silence of the Lambs,1991
+8872,Wayne's World,1992
+16290,Jackass 3D,2010
+579,Jaws 2,1978
+14405,Beverly Hills Chihuahua,2008
+138843,The Conjuring,2013
+11637,Are We There Yet?,2005
+226486,Tammy,2014
+1584,School of Rock,2003
+9312,Mortal Kombat,1995
+12153,White Chicks,2004
+65057,The Descendants,2011
+8326,Holes,2003
+35690,The Last Song,2010
+76203,12 Years a Slave,2013
+13497,Drumline,2002
+35688,Why Did I Get Married Too?,2010
+162,Edward Scissorhands,1990
+296096,Me Before You,2016
+103370,Madea's Witness Protection,2012
+1051,The French Connection,1971
+376659,Bad Moms,2016
+10073,Date Movie,2006
+16690,Return to Never Land,2002
+273895,Selma,2014
+14873,The Jungle Book 2,2003
+8968,Boogeyman,2005
+9963,Premonition,2007
+15655,The Tigger Movie,2000
+21208,Orphan,2009
+272878,Max,2015
+9760,Epic Movie,2007
+314365,Spotlight,2015
+13279,Lakeview Terrace,2008
+1975,The Grudge 2,2006
+33644,How Stella Got Her Groove Back,1998
+1649,Bill & Ted's Bogus Journey,1991
+9895,Man of the Year,2006
+9570,The Black Hole,1979
+27579,The American,2010
+16052,Selena,1997
+40264,Vampires Suck,2010
+1164,Babel,2006
+239678,This Is Where I Leave You,2014
+14359,Doubt,2008
+3989,Team America: World Police,2004
+76617,Texas Chainsaw 3D,2013
+1710,Copycat,1995
+4258,Scary Movie 5,2013
+20391,Paint Your Wagon,1969
+10139,Milk,2008
+335778,Risen,2016
+9645,Ghost Ship,2002
+55465,A Very Harold & Kumar Christmas,2011
+617,Wild Things,1998
+19904,The Stepfather,2009
+48289,The Debt,2010
+243,High Fidelity,2000
+6933,One Missed Call,2008
+17182,Eye for an Eye,1996
+8848,The Bank Job,2008
+38,Eternal Sunshine of the Spotless Mind,2004
+38303,You Again,2010
+1266,Street Kings,2008
+107985,The World's End,2013
+14043,Nancy Drew,2007
+19901,Daybreakers,2009
+34016,She's Out of My League,2010
+59860,Monte Carlo,2011
+10069,Stay Alive,2006
+9588,Quigley Down Under,1990
+12819,Alpha and Omega,2010
+9954,The Covenant,2006
+10115,Stick It,2006
+25132,Shorts,2009
+577,To Die For,1995
+328387,Nerve,2016
+12690,Appaloosa,2008
+9945,Vampires,1998
+539,Psycho,1960
+13596,My Best Friend's Girl,2008
+226857,Endless Love,2014
+13159,Georgia Rule,2007
+47941,Under the Rainbow,1981
+526,Ladyhawke,1985
+22796,Simon Birch,1998
+2355,Reign Over Me,2007
+5915,Into the Wild,2007
+9842,School for Scoundrels,2006
+61012,Silent Hill: Revelation 3D,2012
+755,From Dusk Till Dawn,1996
+13682,Pooh's Heffalump Movie,2005
+9089,Home for the Holidays,1995
+9470,Kung Fu Hustle,2004
+18357,The Country Bears,2002
+7979,The Kite Runner,2007
+470,21 Grams,2003
+15644,Paparazzi,2004
+9582,A Guy Thing,2003
+10642,Loser,2000
+22074,Capitalism: A Love Story,2009
+2428,The Greatest Story Ever Told,1965
+290751,Secret in Their Eyes,2015
+13805,Disaster Movie,2008
+4597,Armored,2009
+9414,The Man Who Knew Too Little,1997
+63492,What's Your Number?,2011
+81796,Lockout,2012
+10710,Envy,2004
+15092,Crank: High Voltage,2009
+11382,Bullets Over Broadway,1994
+15005,One Night with the King,2006
+8198,The Quiet American,2002
+6963,The Weather Man,2005
+15070,Undisputed,2002
+12797,Ghost Town,2008
+17134,12 Rounds,2009
+41402,Let Me In,2010
+18885,3 Ninjas Kick Back,1994
+4953,Be Kind Rewind,2008
+10773,Mrs Henderson Presents,2005
+146198,Triple 9,2016
+2639,Deconstructing Harry,1997
+10563,Three to Tango,1999
+295964,Burnt,2015
+5971,We're No Angels,1989
+9716,Everyone Says I Love You,1996
+11835,Death Sentence,2007
+26171,Everybody's Fine,2009
+31117,Superbabies: Baby Geniuses 2,2004
+9074,The Man,2005
+14396,Code Name: The Cleaner,2007
+15673,Connie and Carla,2004
+42618,Sweet Charity,1969
+171274,Inherent Vice,2014
+24432,Doogal,2006
+109417,Battle of the Year,2013
+13948,An American Carol,2008
+106747,Machete Kills,2013
+10929,Willard,2003
+14220,Strange Wilderness,2008
+46435,Topsy-Turvy,1999
+256962,Little Boy,2015
+48231,A Dangerous Method,2011
+3509,A Scanner Darkly,2006
+82684,Chasing Mavericks,2012
+12142,Alone in the Dark,2005
+23367,Bandslam,2009
+10740,Birth,2004
+241239,A Most Violent Year,2014
+14582,Passchendaele,2008
+14914,Flash of Genius,2008
+3902,I'm Not There.,2007
+77948,The Cold Light of Day,2012
+21755,The Brothers Bloom,2008
+4960,"Synecdoche, New York",2008
+128,Princess Mononoke,1997
+14652,Bon voyage,2003
+40932,Can't Stop the Music,1980
+16608,The Proposition,2005
+334531,My All American,2015
+32316,Marci X,2003
+7299,Equilibrium,2002
+13405,The Children of Huang Shi,2008
+19457,The Yards,2000
+112937,The Oogieloves in the Big Balloon Adventure,2012
+314385,By the Sea,2015
+8953,Steamboy,2004
+29078,The Game of Their Lives,2005
+46503,All Good Things,2010
+10448,Rapa Nui,1994
+13688,CJ7,2008
+10353,The Visitors II: The Corridors of Time,1998
+43935,Dylan Dog: Dead of Night,2011
+11458,People I Know,2002
+44638,The Tempest,2010
+241257,Regression,2015
+14538,Three Kingdoms: Resurrection of the Dragon,2008
+13250,Butterfly on a Wheel,2007
+133931,Zambezia,2012
+280871,Ramanujan,2014
+239897,Dwegons,2014
+184341,Hands of Stone,2016
+334074,Survivor,2015
+199373,The Frozen Ground,2013
+14202,The Painted Veil,2006
+6968,The Baader Meinhof Complex,2008
+581,Dances with Wolves,1990
+52449,Bad Teacher,2011
+12150,Sea of Love,1989
+11247,A Cinderella Story,2004
+4232,Scream,1996
+9378,Thir13en Ghosts,2001
+694,The Shining,1980
+105,Back to the Future,1985
+11377,House on Haunted Hill,1999
+26367,I Can Do Bad All By Myself,2009
+385383,Fight Valley,2016
+41210,The Switch,2010
+12090,Just Married,2003
+62630,The Devil's Double,2011
+16110,Thomas and the Magic Railroad,2000
+29427,The Crazies,2010
+129,Spirited Away,2001
+244114,Firestorm,2013
+2669,The Bounty,1984
+203833,The Book Thief,2013
+13523,Sex Drive,2008
+25195,Leap Year,2010
+17277,The Fall of the Roman Empire,1964
+50725,Take Me Home Tonight,2011
+82631,Won't Back Down,2012
+73191,The Nutcracker,1993
+22479,Kansas City,1996
+340611,Indignation,2016
+10065,The Amityville Horror,2005
+2757,Adaptation.,2002
+11683,Land of the Dead,2005
+244339,Out of Inferno,2013
+1878,Fear and Loathing in Las Vegas,1998
+23082,The Invention of Lying,2009
+195589,Neighbors,2014
+854,The Mask,1994
+2280,Big,1988
+496,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006
+8835,Legally Blonde,2001
+157,Star Trek III: The Search for Spock,1984
+8643,The Exorcism of Emily Rose,2005
+10402,Deuce Bigalow: Male Gigolo,1999
+218043,Left Behind,2014
+9043,The Family Stone,2005
+21301,Barbershop 2:  Back in Business,2004
+10147,Bad Santa,2003
+816,Austin Powers: International Man of Mystery,1997
+302688,My Big Fat Greek Wedding 2,2016
+60307,Diary of a Wimpy Kid: Rodrick Rules,2011
+106,Predator,1987
+279,Amadeus,1984
+8617,Prom Night,2008
+10625,Mean Girls,2004
+10934,Under the Tuscan Sun,2003
+5279,Gosford Park,2001
+10013,Peggy Sue Got Married,1986
+194662,Birdman,2014
+160588,Blue Jasmine,2013
+9829,United 93,2006
+10028,Honey,2003
+10535,Spy Hard,1996
+790,The Fog,1980
+43959,Soul Surfer,2011
+10364,Catch-22,1970
+16991,Observe and Report,2009
+9610,Conan the Destroyer,1984
+1578,Raging Bull,1980
+25643,Love Happens,2009
+11904,Young Sherlock Holmes,1985
+28665,Fame,2009
+44115,127 Hours,2010
+10569,Small Time Crooks,2000
+10560,Center Stage,2000
+333348,Love the Coopers,2015
+20483,Catch That Kid,2004
+11457,Life as a House,2001
+321697,Steve Jobs,2015
+19840,"I Love You, Beth Cooper",2009
+22327,Youth in Revolt,2009
+38665,The Legend of the Lone Ranger,1981
+2575,The Tailor of Panama,2001
+11644,Blow Out,1981
+146227,Getaway,2013
+68924,The Ice Storm,1997
+253235,And So It Goes,2014
+22102,Troop Beverly Hills,1989
+18701,Being Julia,2004
+10068,Nine 1/2 Weeks,1986
+848,Dragonslayer,1981
+36811,The Last Station,2009
+522,Ed Wood,1994
+130150,Labor Day,2013
+12246,Mongol: The Rise of Genghis Khan,2007
+13809,RockNRolla,2008
+27380,Megaforce,1982
+10549,Hamlet,1996
+33870,Mao's Last Dancer,2009
+245703,Midnight Special,2016
+10739,Anything Else,2003
+127560,The Railway Man,2013
+37903,The White Ribbon,2009
+396152,Restoration,2016
+10017,The Wraith,1986
+11468,Salton Sea,2002
+193613,Metallica: Through the Never,2013
+17436,The Informers,2008
+43434,Carlos,2010
+31166,I Come with the Rain,2009
+69848,One Man's Hero,1999
+8408,Day of the Dead,1985
+332411,I Am Wrath,2016
+9389,Renaissance,2006
+9626,Red Sonja,1985
+75638,Red Lights,2012
+8363,Superbad,2007
+15670,Madea Goes to Jail,2009
+290555,Wolves,2014
+8328,Step Up 2: The Streets,2008
+10982,Hoodwinked!,2005
+205,Hotel Rwanda,2004
+1620,Hitman,2007
+175541,Black Nativity,2013
+241254,The Prince,2014
+31932,City of Ghosts,2002
+1933,The Others,2001
+679,Aliens,1986
+11113,My Fair Lady,1964
+3597,I Know What You Did Last Summer,1997
+193893,Let's Be Cops,2014
+9675,Sideways,2004
+9988,Beerfest,2006
+948,Halloween,1978
+21765,Good Boy!,2003
+146304,The Best Man Holiday,2013
+7516,Smokin' Aces,2006
+41439,Saw: The Final Chapter,2010
+2752,40 Days and 40 Nights,2002
+9429,A Night at the Roxbury,1998
+38117,Beastly,2011
+9792,The Hills Have Eyes,2006
+13778,Dickie Roberts: Former Child Star,2003
+228203,"McFarland, USA",2015
+41382,Lottery Ticket,2010
+13960,ATL,2006
+114150,Pitch Perfect,2012
+26602,Summer Catch,2001
+10223,A Simple Plan,1998
+16028,They,2002
+15639,Larry the Cable Guy: Health Inspector,2006
+16112,The Adventures of Elmo in Grouchland,1999
+26390,Brooklyn's Finest,2009
+27759,55 Days at Peking,1963
+109428,Evil Dead,2013
+23049,My Life in Ruins,2009
+9310,American Dreamz,2006
+11411,Superman IV: The Quest for Peace,1987
+16988,How She Move,2008
+7304,Running Scared,2006
+24747,Bobby Jones: Stroke of Genius,2004
+58048,Shanghai Surprise,1986
+1491,The Illusionist,2006
+2989,Roar,1981
+10629,Veronica Guerin,2003
+255343,Escobar: Paradise Lost,2014
+4723,Southland Tales,2006
+10800,Dragon Hunters,2008
+25763,Damnation Alley,1977
+79694,The Apparition,2012
+4032,My Girl,1991
+18615,Fur: An Imaginary Portrait of Diane Arbus,2006
+10673,Wall Street,1987
+4584,Sense and Sensibility,1995
+2977,Becoming Jane,2007
+10760,Sydney White,2007
+11093,House of Sand and Fog,2003
+207,Dead Poets Society,1989
+8467,Dumb and Dumber,1994
+639,When Harry Met Sally...,1989
+24226,The Verdict,1982
+9285,Road Trip,2000
+14709,Varsity Blues,1999
+74643,The Artist,2011
+13788,The Unborn,2009
+83666,Moonrise Kingdom,2012
+10781,The Texas Chainsaw Massacre: The Beginning,2006
+318850,The Young Messiah,2016
+13908,The Master of Disguise,2002
+1417,Pan's Labyrinth,2006
+39180,See Spot Run,2001
+16161,Baby Boy,2001
+49950,The Roommate,2011
+10956,Joe Dirt,2001
+9594,Double Impact,1991
+4638,Hot Fuzz,2007
+13972,The Women,2008
+5038,Vicky Cristina Barcelona,2008
+13491,Arn: The Knight Templar,2007
+10571,Boys and Girls,2000
+10994,White Oleander,2002
+19994,Jennifer's Body,2009
+25166,Drowning Mona,2000
+30890,Radio Days,1987
+23169,Remember Me,2010
+17403,How to Deal,2003
+12120,My Stepmother is an Alien,1988
+9800,Philadelphia,1993
+1090,The Thirteenth Floor,1999
+18475,The Cookout,2004
+40160,Meteor,1979
+18074,Duets,2000
+9689,Hollywood Ending,2002
+9781,Detroit Rock City,1999
+8009,Highlander,1986
+3877,Things We Lost in the Fire,2007
+8854,Steel,1997
+152599,The Immigrant,2013
+18840,The White Countess,2005
+68727,Trance,2013
+12657,Soul Plane,2004
+8265,Welcome to the Sticks,2008
+12410,Good,2008
+34647,Enter the Void,2009
+73935,Vamps,2012
+28178,Hachi: A Dog's Tale,2009
+185567,Zulu,2013
+264656,The Homesman,2014
+35696,Juwanna Mann,2002
+16351,Ararat,2002
+38717,Madison,2001
+18777,Slow Burn,2005
+2110,Wasabi,2001
+9035,Slither,2006
+90,Beverly Hills Cop,1984
+771,Home Alone,1990
+12154,Three Men and a Baby,1987
+9576,Tootsie,1982
+744,Top Gun,1986
+146,"Crouching Tiger, Hidden Dragon",2000
+14,American Beauty,1999
+45269,The King's Speech,2010
+9493,Twins,1988
+22556,The Yellow Handkerchief,2008
+873,The Color Purple,1985
+33196,Tidal Wave,2009
+205596,The Imitation Game,2014
+10765,Private Benjamin,1980
+16769,Coal Miner's Daughter,1980
+33217,Diary of a Wimpy Kid,2010
+132232,Mama,2013
+11153,National Lampoon's Vacation,1983
+208134,Bad Grandpa,2013
+1165,The Queen,2006
+4011,Beetlejuice,1988
+17202,Why Did I Get Married?,2007
+9587,Little Women,1994
+65086,The Woman in Black,2012
+10053,When a Stranger Calls,2006
+11870,Big Fat Liar,2002
+11778,The Deer Hunter,1978
+586,Wag the Dog,1997
+18736,The Lizzie McGuire Movie,2003
+134411,Snitch,2013
+287903,Krampus,2015
+9276,The Faculty,1998
+15765,What's Love Got to Do with It,1993
+2142,Cop Land,1997
+11397,Not Another Teen Movie,2001
+77016,End of Watch,2012
+11478,The Skulls,2000
+266856,The Theory of Everything,2014
+13411,Malibu's Most Wanted,2003
+10564,Where the Heart Is,2000
+947,Lawrence of Arabia,1962
+24150,Halloween II,2009
+228970,Wild,2014
+18405,The Last House on the Left,2009
+6961,The Wedding Date,2005
+11442,Halloween: Resurrection,2002
+2493,The Princess Bride,1987
+14047,The Great Debaters,2007
+64690,Drive,2011
+11132,Confessions of a Teenage Drama Queen,2004
+17127,The Object of My Affection,1998
+1562,28 Weeks Later,2007
+232679,When the Game Stands Tall,2014
+17880,Because of Winn-Dixie,2005
+14736,Love & Basketball,2000
+9434,Grosse Pointe Blank,1997
+23706,All About Steve,2009
+11531,Book of Shadows: Blair Witch 2,2000
+9100,The Craft,1996
+116,Match Point,2005
+38843,Ramona and Beezus,2010
+1245,The Remains of the Day,1993
+4995,Boogie Nights,1997
+10413,Nowhere to Run,1993
+14012,Flicka,2006
+9793,The Hills Have Eyes 2,2007
+12212,Urban Legends: Final Cut,2000
+13768,Tuck Everlasting,2002
+8975,The Marine,2006
+342521,Keanu,2016
+45272,Country Strong,2010
+9424,Disturbing Behavior,1998
+97367,The Place Beyond the Pines,2013
+254904,The November Man,2014
+18681,Eye of the Beholder,1999
+12162,The Hurt Locker,2008
+11495,Firestarter,1984
+64689,Killing Them Softly,2012
+157849,A Most Wanted Man,2014
+13166,Freddy Got Fingered,2001
+15511,VeggieTales: The Pirates Who Don't Do Anything,2008
+37003,U2 3D,2007
+12211,Highlander: Endgame,2000
+13816,Idlewild,2006
+51828,One Day,2011
+22798,Whip It,2009
+7501,Knockaround Guys,2001
+10743,Confidence,2003
+37718,The Muse,1999
+15237,De-Lovely,2004
+9686,New York Stories,1989
+17644,Barney's Great Adventure,1998
+97430,The Man with the Iron Fists,2012
+12257,Home Fries,1998
+13539,Here On Earth,2000
+68,Brazil,1985
+14024,Raise Your Voice,2004
+115,The Big Lebowski,1998
+7874,Black Snake Moan,2006
+4911,Dark Blue,2002
+1988,A Mighty Heart,2007
+16222,Whatever It Takes,2000
+9557,Boat Trip,2002
+9026,The Importance of Being Earnest,2002
+57943,The Love Letter,1998
+18276,Hoot,2006
+8321,In Bruges,2008
+72359,Peeples,2013
+10186,The Rocker,2008
+25704,Post Grad,2009
+133694,Promised Land,2012
+19265,Whatever Works,2009
+36047,The In Crowd,2000
+8053,The Three Burials of Melquiades Estrada,2005
+2290,Jakob the Liar,1999
+5236,Kiss Kiss Bang Bang,2005
+6552,Idle Hands,1999
+1018,Mulholland Drive,2001
+10075,Blood and Chocolate,2007
+38031,You Will Meet a Tall Dark Stranger,2010
+42188,Never Let Me Go,2010
+112430,The Company,2007
+6687,Transsiberian,2008
+13853,The Clan of the Cave Bear,1986
+31306,Crazy in Alabama,1999
+8461,Funny Games,2007
+331592,Listening,2015
+47692,Felicia's Journey,1999
+19,Metropolis,1927
+10045,District B13,2004
+400,Things to Do in Denver When You're Dead,1995
+253450,The Assassin,2015
+9104,Buffalo Soldiers,2001
+11190,The Return,2003
+16353,Ong Bak 2,2008
+23759,Centurion,2010
+24206,Silent Trigger,1996
+10185,The Midnight Meat Train,2008
+75033,Winnie Mandela,2011
+74536,The Son of No One,2011
+31668,All The Queen's Men,2001
+13501,The Good Night,2007
+15208,Bathory: Countess of Blood,2008
+172391,Khumba,2013
+262543,Automata,2014
+9288,Dungeons & Dragons: Wrath of the Dragon God,2005
+370980,Chiamatemi Francesco - Il Papa della gente,2015
+20083,Shinjuku Incident,2009
+40880,Pandaemonium,2001
+137,Groundhog Day,1993
+264999,Magic Mike XXL,2015
+454,Romeo + Juliet,1996
+53457,Sarah's Key,2010
+288980,Freedom,2014
+33,Unforgiven,1992
+1951,Manderlay,2005
+12405,Slumdog Millionaire,2008
+10998,Fatal Attraction,1987
+114,Pretty Woman,1990
+9396,Crocodile Dundee II,1988
+319910,Broken Horses,2015
+2604,Born on the Fourth of July,1989
+864,Cool Runnings,1993
+14435,My Bloody Valentine,2009
+1931,Stomp the Yard,2007
+691,The Spy Who Loved Me,1977
+9877,Urban Legend,1998
+62008,Good Deeds,2012
+12227,White Fang,1991
+13824,Superstar,1999
+71688,The Iron Lady,2011
+15173,Jonah: A VeggieTales Movie,2002
+8291,Poetic Justice,1993
+13950,All About the Benjamins,2002
+12158,Vampire in Brooklyn,1995
+11586,Exorcist II: The Heretic,1977
+10008,An American Haunting,2005
+2830,My Boss's Daughter,2003
+12403,A Perfect Getaway,2009
+34563,Our Family Wedding,2010
+14557,Dead Man on Campus,1998
+10368,Tea with Mussolini,1999
+10280,Thinner,1996
+12637,"New York, New York",1977
+34152,Crooklyn,1994
+14434,I Think I Love My Wife,2007
+11470,Jason X,2001
+10741,Bobby,2006
+24940,Head Over Heels,2001
+82679,Fun Size,2012
+2013,The Diving Bell and the Butterfly,2007
+1440,Little Children,2006
+18041,Gossip,2000
+28029,A Walk on the Moon,1999
+1123,Catch a Fire,2006
+14033,Soul Survivors,2001
+87729,Jefferson in Paris,1995
+16899,Easy Virtue,2008
+41317,Caravans,1978
+245700,Mr. Turner,2014
+37842,Wild Grass,2009
+9045,Amen.,2002
+44092,Reign of Assassins,2010
+16005,The Lucky Ones,2008
+44754,Margaret,2011
+23988,Stan Helsing,2009
+43949,Flipped,2010
+142,Brokeback Mountain,2005
+9603,Clueless,1995
+10712,Far from Heaven,2002
+243938,Hot Tub Time Machine 2,2015
+10876,Quills,2000
+86838,Seven Psychopaths,2012
+25208,The Caveman's Valentine,2001
+613,Downfall,2004
+1913,The Sea Inside,2004
+97370,Under the Skin,2014
+801,"Good Morning, Vietnam",1987
+70829,The Last Godfather,2010
+54518,Justin Bieber: Never Say Never,2011
+44214,Black Swan,2010
+240,The Godfather: Part II,1974
+9816,Save the Last Dance,2001
+10131,A Nightmare on Elm Street 4: The Dream Master,1988
+339984,Miracles from Heaven,2016
+8859,"Dude, Where’s My Car?",2000
+11967,Young Guns,1988
+239563,St. Vincent,2014
+222899,About Last Night,2014
+4951,10 Things I Hate About You,1999
+10985,The New Guy,2002
+9644,National Lampoon's Loaded Weapon 1,1993
+332567,The Shallows,2016
+1954,The Butterfly Effect,2004
+15489,Snow Day,2000
+15250,This Christmas,2007
+22345,Baby Geniuses,1999
+9448,The Big Hit,1998
+38223,Harriet the Spy,1996
+11186,Child's Play 2,1990
+136835,No Good Deed,2014
+5876,The Mist,2007
+264660,Ex Machina,2015
+492,Being John Malkovich,1999
+25462,Two Can Play That Game,2001
+238603,Earth to Echo,2014
+10691,Crazy/Beautiful,2001
+1251,Letters from Iwo Jima,2006
+5172,The Astronaut Farmer,2006
+58680,Woo,1998
+264644,Room,2015
+14577,Dirty Work,1998
+11592,Serial Mom,1994
+16406,Dick,1999
+19052,Light It Up,1999
+3682,54,1998
+9683,Bubble Boy,2001
+2084,Birthday Girl,2001
+107811,21 & Over,2013
+2266,"Paris, je t'aime",2006
+13074,Resurrecting the Champ,2007
+144340,Admission,2013
+48217,The Widow of Saint-Pierre,2000
+28211,Chloe,2009
+47502,Faithful,1996
+9950,Find Me Guilty,2006
+84892,The Perks of Being a Wallflower,2012
+24227,Excessive Force,1993
+9672,Infamous,2006
+44853,The Claim,2000
+157544,The Vatican Tapes,2015
+59678,Attack the Block,2011
+79777,In the Land of Blood and Honey,2011
+158011,The Call,2013
+17043,The Crocodile Hunter: Collision Course,2002
+8952,I Love You Phillip Morris,2009
+62204,Quest for Fire,1981
+13435,Antwone Fisher,2002
+17187,The Emperor's Club,2002
+319,True Romance,1993
+59457,Womb,2010
+9504,Glengarry Glen Ross,1992
+37414,The Killer Inside Me,2010
+6217,Cat People,1982
+26688,Sorority Row,2009
+43867,The Prisoner of Zenda,1937
+6615,Lars and the Real Girl,2007
+14574,The Boy in the Striped Pyjamas,2008
+16,Dancer in the Dark,2000
+39780,Oscar and Lucinda,1997
+21612,The Funeral,1996
+36691,Solitary Man,2009
+23631,Machete,2010
+45324,Casino Jack,2010
+12144,The Land Before Time,1988
+11658,Tae Guk Gi: The Brotherhood of War,2004
+56601,The Perfect Game,2010
+9552,The Exorcist,1973
+578,Jaws,1975
+2105,American Pie,1999
+126319,Ernest & Celestine,2012
+10136,The Golden Child,1986
+67660,Think Like a Man,2012
+10611,Barbershop,2002
+154,Star Trek II: The Wrath of Khan,1982
+3049,Ace Ventura: Pet Detective,1994
+860,WarGames,1983
+9281,Witness,1985
+75674,Act of Valor,2012
+9762,Step Up,2006
+3179,Beavis and Butt-Head Do America,1996
+184,Jackie Brown,1997
+13335,Harold & Kumar Escape from Guantanamo Bay,2008
+76726,Chronicle,2012
+10269,Yentl,1983
+36819,Time Bandits,1981
+17130,Crossroads,2002
+57214,Project X,2012
+11202,Patton,1970
+9357,One Hour Photo,2002
+13812,Quarantine,2008
+9030,The Eye,2008
+19084,Johnson Family Vacation,2004
+8386,How High,2001
+10437,The Muppet Christmas Carol,1992
+1360,Frida,2002
+101267,Katy Perry: Part of Me,2012
+222935,The Fault in Our Stars,2014
+10220,Rounders,1998
+284296,Top Five,2014
+31915,Prophecy,1979
+11601,Stir of Echoes,1999
+205220,Philomena,2013
+11354,The Upside of Anger,2005
+16241,The Boys from Brazil,1978
+14191,Aquamarine,2006
+286565,Paper Towns,2015
+26710,My Baby's Daddy,2004
+129670,Nebraska,2013
+9059,Tales from the Crypt: Demon Knight,1995
+34549,Max Keeble's Big Move,2001
+57157,Young Adult,2011
+1948,Crank,2006
+28353,Def Jam's How to Be a Player,1997
+46889,Living Out Loud,1998
+38093,Just Wright,2010
+14976,Rachel Getting Married,2008
+11027,The Postman Always Rings Twice,1981
+3635,Girl with a Pearl Earring,2003
+387,Das Boot,1981
+6020,Sorority Boys,2002
+122906,About Time,2013
+9550,House of Flying Daggers,2004
+60599,Arbitrage,2012
+227719,Project Almanac,2015
+14299,Cadillac Records,2008
+19419,Screwed,2000
+12088,Fortress,1992
+14799,For Your Consideration,2006
+9466,Celebrity,1998
+7510,Running with Scissors,2006
+31246,From Justin to Kelly,2003
+61752,Girl 6,1996
+10944,In the Cut,2003
+10362,Two Lovers,2008
+14778,Last Orders,2001
+1255,The Host,2006
+45226,The Pursuit of D.B. Cooper,1981
+10212,Ravenous,1999
+8669,Charlie Bartlett,2008
+179144,The Great Beauty,2013
+16857,The Dangerous Lives of Altar Boys,2002
+86825,Stoker,2013
+844,2046,2004
+8060,Married Life,2007
+15907,Duma,2005
+38448,Ondine,2009
+327,Brother,2000
+9260,Welcome to Collinwood,2002
+61337,Critical Care,1997
+13079,The Life Before Her Eyes,2007
+89325,Darling Companion,2012
+4170,Trade,2007
+41508,Fateless,2005
+12479,Breakfast of Champions,1999
+44555,"A Woman, a Gun and a Noodle Shop",2009
+10133,Cypher,2002
+21345,City of Life and Death,2009
+173931,Legend of a Rabbit,2011
+61984,Space Battleship Yamato,2010
+50601,5 Days of War,2011
+26466,Triangle,2009
+345003,10 Days in a Madhouse,2015
+236751,Heaven is for Real,2014
+107,Snatch,2000
+357837,Dancin' It's On,2015
+8913,Pet Sematary,1989
+13889,Madadayo,1993
+18530,The Cry of the Owl,2009
+358451,A Tale of Three Cities,2015
+927,Gremlins,1984
+11,Star Wars,1977
+291870,Dirty Grandpa,2016
+907,Doctor Zhivago,1965
+206563,Trash,2014
+11887,High School Musical 3: Senior Year,2008
+45317,The Fighter,2010
+12094,Jackass Number Two,2006
+10377,My Cousin Vinny,1992
+249164,If I Stay,2014
+256092,Drive Hard,2014
+9942,Major League,1989
+10748,St. Trinian's,2007
+1817,Phone Booth,2002
+10229,A Walk to Remember,2002
+687,Dead Man Walking,1995
+796,Cruel Intentions,1999
+22804,Saw VI,2009
+10156,History of the World: Part I,1981
+12837,The Secret Life of Bees,2008
+17708,Corky Romano,2001
+13937,Raising Cain,1992
+28932,F.I.S.T.,1978
+31909,Invaders from Mars,1986
+167073,Brooklyn,2015
+3175,Barry Lyndon,1975
+14369,Out Cold,2001
+16888,The Ladies Man,2000
+121826,Quartet,2012
+10646,Tomcats,2001
+12149,Frailty,2001
+304357,Woman in Gold,2015
+11184,Kinsey,2004
+766,Army of Darkness,1992
+20009,Slackers,2002
+1587,What's Eating Gilbert Grape,1993
+30973,The Visual Bible: The Gospel of John,2003
+11109,Vera Drake,2004
+9027,The Guru,2002
+63020,The Perez Family,1995
+86829,Inside Llewyn Davis,2013
+11065,O,2001
+13888,Return to the Blue Lagoon,1991
+42345,The Molly Maguires,1970
+13994,Romance & Cigarettes,2005
+1590,Copying Beethoven,2006
+62728,Brighton Rock,2010
+11917,Saw V,2008
+45138,Machine Gun McCain,1969
+80271,LOL,2012
+4657,Jindabyne,2006
+14395,Kabhi Alvida Naa Kehna,2006
+24137,An Ideal Husband,1999
+190847,The Last Days on Mars,2013
+11056,Darkness,2002
+62,2001: A Space Odyssey,1968
+601,E.T. the Extra-Terrestrial,1982
+13067,In the Land of Women,2007
+25379,The Blue Butterfly,2004
+88641,There Goes My Baby,1994
+58051,Housefull,2010
+14877,September Dawn,2007
+96399,For Greater Glory - The True Story of Cristiada,2012
+304410,The Bélier Family,2014
+489,Good Will Hunting,1997
+373314,Misconduct,2016
+214,Saw III,2006
+10890,Stripes,1981
+1588,Bring It On,2000
+316727,The Purge: Election Year,2016
+10314,She's All That,1999
+663,Saw IV,2007
+11804,White Noise,2005
+16781,Madea's Family Reunion,2006
+11873,The Color of Money,1986
+9289,The Longest Day,1962
+10414,The Mighty Ducks,1992
+1970,The Grudge,2004
+9614,Happy Gilmore,1996
+8922,Jeepers Creepers,2001
+1648,Bill & Ted's Excellent Adventure,1989
+17917,Oliver!,1968
+74534,The Best Exotic Marigold Hotel,2011
+19405,Recess: School's Out,2001
+9355,Mad Max Beyond Thunderdome,1985
+10999,Commando,1985
+321258,The Boy,2016
+44040,Devil,2010
+10426,Friday After Next,2002
+280092,Insidious: Chapter 3,2015
+13938,The Last Dragon,1985
+10163,The Lawnmower Man,1992
+12182,Nick and Norah's Infinite Playlist,2008
+1832,Dogma,1999
+9034,The Banger Sisters,2002
+15301,Twilight Zone: The Movie,1983
+10135,Road House,1989
+26352,A Low Down Dirty Shame,1994
+20616,Swimfan,2002
+9794,Employee of the Month,2006
+15037,Can't Hardly Wait,1998
+227,The Outsiders,1983
+294272,Pete's Dragon,2016
+11336,The Dead Zone,1983
+283445,Sinister 2,2015
+88036,Sparkle,2012
+10984,Valentine,2001
+22824,The Fourth Kind,2009
+9526,A Prairie Home Companion,2006
+39349,Sugar Hill,1994
+15983,Invasion U.S.A.,1985
+14544,Roll Bounce,2005
+11545,Rushmore,1998
+42684,Skyline,2010
+268238,The Second Best Exotic Marigold Hotel,2015
+8359,Kit Kittredge: An American Girl,2008
+15648,The Perfect Man,2005
+41823,Mo' Better Blues,1990
+11891,Kung Pow: Enter the Fist,2002
+9362,Tremors,1990
+9902,Wrong Turn,2003
+14729,The Long Riders,1980
+9455,The Corruptor,1999
+103731,Mud,2013
+10090,Reno 911!: Miami,2007
+164558,One Direction: This Is Us,2013
+19905,"The Goods: Live Hard, Sell Hard",2009
+17710,Hey Arnold! The Movie,2002
+75900,My Week with Marilyn,2011
+9515,The Matador,2005
+27322,Love Jones,1997
+328425,The Gift,2015
+14120,End of the Spear,2005
+10050,Get Over It,2001
+1542,Office Space,1999
+10490,Drop Dead Gorgeous,1999
+87093,Big Eyes,2014
+10029,Very Bad Things,1998
+9893,Sleepover,2004
+11507,Body Double,1984
+37931,MacGruber,2010
+3472,Dirty Pretty Things,2002
+87818,Movie 43,2013
+13160,Over Her Dead Body,2008
+88005,Seeking a Friend for the End of the World,2012
+52067,Cedar Rapids,2011
+73,American History X,1998
+134597,The Collection,2012
+24034,Teacher's Pet,2004
+14283,The Red Violin,1998
+404,The Straight Story,1999
+13201,Deuces Wild,2002
+209403,Bad Words,2013
+7942,"Run, Fatboy, Run",2007
+73247,Heartbeeps,1981
+253331,Black or White,2014
+34043,On the Line,2001
+9952,Rescue Dawn,2006
+256924,Danny Collins,2015
+82532,"Jeff, Who Lives at Home",2011
+41110,I Am Love,2009
+134371,Atlas Shrugged Part II,2012
+2088,Romeo Is Bleeding,1993
+10388,The Limey,1999
+1640,Crash,2004
+25520,The House of Mirth,2000
+27342,Malone,1987
+13689,Peaceful Warrior,2006
+67911,Bucky Larson: Born to Be a Star,2011
+24664,Bamboozled,2000
+329440,The Forest,2016
+47890,Sphinx,1981
+252512,While We're Young,2015
+55720,A Better Life,2011
+9613,Spider,2002
+29076,Gun Shy,2000
+29339,Nicholas Nickleby,2002
+68812,The Iceman,2012
+32740,Krrish,2006
+14195,Cecil B. Demented,2000
+73567,Killer Joe,2011
+41479,The Joneses,2009
+15394,Owning Mahowny,2003
+10071,The Brothers Solomon,2007
+1989,My Blueberry Nights,2007
+91076,Illuminata,1998
+12779,Swept Away,2002
+13191,"War, Inc.",2008
+11770,Shaolin Soccer,2001
+12703,The Brown Bunny,2004
+64559,The Swindle,1997
+222649,Rosewater,2014
+115872,The Chambermaid on the Titanic,1997
+101173,Coriolanus,2011
+25350,Imaginary Heroes,2004
+10034,High Heels and Low Lifes,2001
+20178,World's Greatest Dad,2009
+5072,Severance,2006
+18191,Edmond,2005
+31007,Welcome to the Rileys,2010
+11546,Police Academy: Mission to Moscow,1994
+41894,Blood Done Sign My Name,2010
+184374,Cinco de Mayo: La Batalla,2013
+268171,Elsa & Fred,2014
+78149,"An Alan Smithee Film: Burn, Hollywood, Burn",1998
+24663,The Open Road,2009
+39037,The Good Guy,2009
+22805,Motherhood,2009
+39055,Free Style,2008
+245846,Strangerland,2015
+25186,Janky Promoters,2009
+15017,Blonde Ambition,2007
+12245,The Oxford Murders,2008
+49787,The Reef,2010
+16358,Eulogy,2004
+7006,White Noise 2: The Light,2007
+66767,Beat the World,2011
+17622,Fifty Dead Men Walking,2008
+283671,Jungle Shuffle,2014
+18516,Adam Resurrected,2008
+217708,Of Horses and Men,2013
+42057,It's a Wonderful Afterlife,2010
+17577,The Devil's Tomb,2009
+14608,Partition,2007
+34417,Good Intentions,2010
+15067,"The Good, The Bad, The Weird",2008
+78383,Nurse 3-D,2013
+43090,Gunless,2010
+16614,Adventureland,2009
+9700,The Lost City,2005
+10471,Next Friday,2000
+250066,American Heist,2014
+667,You Only Live Twice,1967
+208869,Plastic,2014
+86837,Amour,2012
+10306,Poltergeist III,1988
+106845,Re-Kill,2015
+11576,"It's a Mad, Mad, Mad, Mad World",1963
+219,Volver,2006
+11827,Heavy Metal,1981
+22820,Gentlemen Broncos,2009
+31174,Richard III,1995
+244316,Into the Grizzly Maze,2015
+37737,Kites,2010
+62215,Melancholia,2011
+66125,Red Dog,2011
+132316,Jab Tak Hai Jaan,2012
+348,Alien,1979
+30497,The Texas Chain Saw Massacre,1974
+27586,The Runaways,2010
+14811,Fiddler on the Roof,1971
+660,Thunderball,1965
+68684,Detention,2011
+40794,Loose Cannons,2010
+9400,Set It Off,1996
+16162,The Best Man,1999
+10585,Child's Play,1988
+2359,Sicko,2007
+238636,The Purge: Anarchy,2014
+10472,Down to You,2000
+11282,Harold & Kumar Go to White Castle,2004
+6521,The Contender,2000
+14181,Boiler Room,2000
+1621,Trading Places,1983
+9656,Black Christmas,2006
+16428,Breakin' All the Rules,2004
+10705,Henry V,1989
+8272,The Savages,2007
+24621,Chasing Papi,2003
+1619,The Way of the Gun,2000
+9685,Igby Goes Down,2002
+14425,PCU,1994
+14624,The Ultimate Gift,2006
+10179,The Ice Pirates,1984
+15568,Gracie,2007
+14057,Trust the Man,2005
+12621,Hamlet 2,2008
+1808,Velvet Goldmine,1998
+293670,The Wailing,2016
+67675,Glee: The Concert Movie,2011
+27329,The Legend of Suriyothai,2001
+29514,Two Evil Eyes,1990
+250349,Barbecue,2014
+12454,All or Nothing,2002
+39806,Princess Kaiulani,2010
+15699,Opal Dream,2006
+8883,Flame & Citron,2008
+17926,Undiscovered,2005
+291081,Red Riding: In the Year of Our Lord 1974,2009
+41248,The Girl on the Train,2009
+25968,Veronika Decides to Die,2009
+9671,Crocodile Dundee,1986
+52010,"Ultramarines: A Warhammer 40,000 Movie",2010
+11588,The I Inside,2004
+43418,Beneath Hill 60,2010
+71157,Polisse,2011
+13483,Awake,2007
+333355,Star Wars: Clone Wars: Volume 1,2005
+327833,Skin Trade,2014
+1547,The Lost Boys,1987
+25196,Crazy Heart,2009
+16323,The Rose,1979
+175528,Baggage Claim,2013
+8069,Barbarella,1968
+71805,Shipwrecked,1990
+9451,Election,1999
+16727,The Namesake,2006
+272693,The DUFF,2015
+10696,Glitter,2001
+150202,The Haunting in Connecticut 2: Ghosts of Georgia,2013
+19644,Silmido,2003
+29963,Bright Star,2009
+26022,My Name Is Khan,2010
+152747,All Is Lost,2013
+62676,Limbo,1999
+20360,Namastey London,2007
+1116,The Wind That Shakes the Barley,2006
+185008,Yeh Jawaani Hai Deewani,2013
+11620,Quo Vadis,1951
+14353,Repo! The Genetic Opera,2008
+11818,Valley of the Wolves: Iraq,2006
+680,Pulp Fiction,1994
+11176,The Muppet Movie,1979
+242582,Nightcrawler,2014
+11217,Club Dread,2004
+15121,The Sound of Music,1965
+2619,Splash,1984
+773,Little Miss Sunshine,2006
+235,Stand by Me,1986
+170,28 Days Later,2002
+14114,You Got Served,2004
+10734,Escape from Alcatraz,1979
+37964,Brown Sugar,2002
+28121,A Thin Line Between Love and Hate,1996
+40807,50/50,2011
+10885,Shutter,2008
+225565,That Awkward Moment,2014
+16471,Modern Problems,1981
+385736,Kicks,2016
+11971,Much Ado About Nothing,1993
+668,On Her Majesty's Secret Service,1969
+11596,New Nightmare,1994
+14429,Drive Me Crazy,1999
+13751,Akeelah and the Bee,2006
+9490,Half Baked,1998
+14536,New in Town,2009
+1359,American Psycho,2000
+9962,The Good Girl,2002
+15049,Bon Cop Bad Cop,2006
+22821,The Boondock Saints II: All Saints Day,2009
+42819,The City of Your Final Destination,2009
+209263,Enough Said,2013
+37735,Easy A,2010
+59930,The Inkwell,1994
+10873,Shadow of the Vampire,2000
+51588,Prom,2011
+23570,The Pallbearer,1996
+19489,Held Up,1999
+14629,Woman on Top,2000
+8293,Howards End,1992
+291270,Anomalisa,2015
+44009,Another Year,2010
+1958,8 Women,2002
+13154,Showdown in Little Tokyo,1991
+26618,Clay Pigeons,1998
+43923,It's Kind of a Funny Story,2010
+46138,Made in Dagenham,2010
+45791,When Did You Last See Your Father?,2007
+26306,Prefontaine,1997
+110683,The Wicked Lady,1983
+26963,The Secret of Kells,2009
+198277,Begin Again,2013
+7870,Down in the Valley,2005
+13072,Brooklyn Rules,2007
+153397,Restless,2012
+30141,The Singing Detective,2003
+17044,The Land Girls,1998
+10288,Fido,2006
+12183,The Wendell Baker Story,2005
+44147,Wild Target,2010
+12192,Pathology,2008
+36597,Wuthering Heights,2009
+13197,10th & Wolf,2006
+10913,Dear Wendy,2005
+251321,Aloft,2014
+149,Akira,1988
+10425,The Death and Life of Bobby Z,2007
+49081,The Rocket: The Legend of Rocket Richard,2005
+256687,Swelter,2014
+220488,My Lucky Star,2013
+1544,Imagine Me & You,2005
+374461,Mr. Church,2016
+302,Swimming Pool,2003
+182873,Green Street Hooligans: Underground,2013
+21512,The Blood of Heroes,1989
+389425,Code of Honor,2016
+403,Driving Miss Daisy,1989
+29461,Soul Food,1997
+33542,Rumble in the Bronx,1995
+283708,Far from Men,2014
+9388,Thank You for Smoking,2005
+1691,Hostel: Part II,2007
+24684,An Education,2009
+2610,Shopgirl,2005
+11308,The Hotel New Hampshire,1984
+11022,Narc,2002
+34341,Men with Brooms,2002
+15365,Witless Protection,2008
+36046,The Work and the Glory,2004
+12569,Extract,2009
+24356,Masked and Anonymous,2003
+55903,Betty Fisher and Other Stories,2001
+2577,Code 46,2003
+103903,Outside Bet,2012
+73873,Albert Nobbs,2011
+312113,Black November,2012
+14165,Ta Ra Rum Pum,2007
+2011,Persepolis,2007
+45650,The Hole,2009
+7735,The Wave,2008
+301365,The Neon Demon,2016
+25941,Harry Brown,2009
+29064,The Omega Code,1999
+7326,Juno,2007
+326284,Pound of Flesh,2015
+681,Diamonds Are Forever,1971
+238,The Godfather,1972
+535,Flashdance,1983
+19913,(500) Days of Summer,2009
+713,The Piano,1993
+77930,Magic Mike,2012
+10727,Darkness Falls,2003
+253,Live and Let Die,1973
+17908,My Dog Skip,2000
+8390,"Definitely, Maybe",2008
+57119,Jumping the Broom,2011
+3291,"Good Night, and Good Luck.",2005
+398,Capote,2005
+8068,Desperado,1995
+10803,Logan's Run,1976
+682,The Man with the Golden Gun,1974
+10117,Action Jackson,1988
+9392,The Descent,2005
+24977,Michael Jordan to the Max,2000
+79316,Devil's Due,2014
+2074,Flirting with Disaster,1996
+1696,The Devil's Rejects,2005
+308639,Dope,2015
+22314,In Too Deep,1999
+2662,House of 1000 Corpses,2003
+77156,Alien Zone,1978
+12573,A Serious Man,2009
+44718,Get Low,2010
+11342,Warlock,1989
+241771,Beyond the Lights,2014
+34653,A Single Man,2009
+11051,The Last Temptation of Christ,1988
+14578,Outside Providence,1999
+57825,Bride & Prejudice,2004
+9555,Rabbit-Proof Fence,2002
+15581,Who's Your Caddy?,2007
+13006,Split Second,1992
+16651,The Other Side of Heaven,2001
+4251,Veer-Zaara,2004
+12400,Redbelt,2008
+39053,Cyrus,2010
+104896,A Dog Of Flanders,1999
+14112,Auto Focus,2002
+12271,Factory Girl,2006
+71859,We Need to Talk About Kevin,2011
+226354,The Christmas Candle,2013
+48620,The Mighty Macs,2009
+33676,Losin' It,1983
+37080,Mother and Child,2009
+25388,March or Die,1977
+11687,The Visitors,1993
+39210,Somewhere,2010
+30128,I Hope They Serve Beer in Hell,2009
+31535,Chairman of the Board,1998
+44835,Hesher,2010
+192134,Dom Hemingway,2013
+1956,Gerry,2002
+24985,The Heart of Me,2002
+306745,Freeheld,2015
+47088,The Extra Man,2010
+110402,Hard to Be a God,2013
+27004,Ca$h,2010
+15013,Wah-Wah,2005
+8374,The Boondock Saints,1999
+277519,Z Storm,2014
+78381,Twixt,2011
+164372,The Snow Queen,2012
+294512,Alpha and Omega: The Legend of the Saw Tooth Cave,2014
+8879,Pale Rider,1985
+13001,Stargate: The Ark of Truth,2008
+9571,Dazed and Confused,1993
+13649,High School Musical 2,2007
+325373,Two Lovers and a Bear,2016
+334527,Criminal Activities,2015
+2211,Aimee & Jaguar,1999
+13919,The Chumscrubber,2005
+14576,Shade,2003
+82505,House at the End of the Street,2012
+46738,Incendies,2010
+38970,"Remember Me, My Love",2003
+41009,Perrier’s Bounty,2009
+7347,Elite Squad,2007
+250546,Annabelle,2014
+38415,Bran Nue Dae,2009
+650,Boyz n the Hood,1991
+16620,La Bamba,1987
+25113,The Four Seasons,1981
+11033,Dressed to Kill,1980
+34723,The Adventures of Huck Finn,1993
+9430,Go,1999
+8998,Friends with Money,2006
+10514,The Andromeda Strain,1971
+10496,Bats,1999
+1591,Nowhere in Africa,2001
+76025,Shame,2011
+4836,Layer Cake,2004
+14631,The Work and the Glory II: American Zion,2005
+87499,The East,2013
+18923,A Home at the End of the World,2004
+26665,Aberdeen,2000
+28089,The Messenger,2009
+62255,Tracker,2010
+5708,Control,2007
+218,The Terminator,1984
+338,"Good bye, Lenin!",2003
+21641,The Damned United,2009
+10925,The Return of the Living Dead,1985
+2293,Mallrats,1995
+621,Grease,1978
+792,Platoon,1986
+1777,Fahrenheit 9/11,2004
+642,Butch Cassidy and the Sundance Kid,1969
+433,Mary Poppins,1964
+16619,Ordinary People,1980
+1725,West Side Story,1961
+11977,Caddyshack,1980
+20322,The Brothers,2001
+16158,The Wood,1999
+629,The Usual Suspects,1995
+10160,A Nightmare on Elm Street 5: The Dream Child,1989
+11452,National Lampoon’s Van Wilder,2002
+12163,The Wrestler,2008
+32275,Duel in the Sun,1946
+13785,Best in Show,2000
+1103,Escape from New York,1981
+36739,School Daze,1988
+14144,Daddy Day Camp,2007
+10622,Mr. Nice Guy,1997
+13370,A Mighty Wind,2003
+11191,Mystic Pizza,1988
+10215,Sliding Doors,1998
+25066,Tales from the Hood,1995
+1523,The Last King of Scotland,2006
+11361,Halloween 5: The Revenge of Michael Myers,1989
+92591,Bernie,2012
+57612,Dolphins and Whales: Tribes of the Ocean,2008
+12509,Pollock,2000
+15256,200 Cigarettes,1999
+83686,The Words,2012
+80304,Casa De Mi Padre,2012
+28053,City Island,2009
+67913,The Guard,2011
+13991,College,2008
+1443,The Virgin Suicides,1999
+8545,Little Voice,1998
+19556,Miss March,2009
+231576,Wish I Was Here,2014
+16172,Simply Irresistible,1999
+13403,Hedwig and the Angry Inch,2001
+15797,Only the Strong,1993
+347764,Goddess of Love,2015
+13537,Shattered Glass,2003
+20794,Novocaine,2001
+31064,The Business of Strangers,2001
+576,The Wild Bunch,1969
+13990,The Wackness,2008
+11583,The First Great Train Robbery,1979
+18602,Morvern Callar,2002
+27549,Beastmaster 2: Through the Portal of Time,1991
+59728,The 5th Quarter,2011
+10930,The Flower of Evil,2003
+32395,The Greatest,2009
+58882,Snow Flower and the Secret Fan,2011
+7547,Come Early Morning,2006
+35944,Lucky Break,2001
+42222,Julia,1977
+13827,"Surfer, Dude",2008
+44260,Lake of Fire,2006
+9282,11:14,2003
+38940,Men of War,1994
+35689,Don McKay,2009
+97614,Deadfall,2012
+37206,A Shine of Rainbows,2009
+58626,The Hit List,2011
+183894,Emma,2009
+837,Videodrome,1983
+1555,The Spanish Apartment,2002
+244783,Song One,2014
+16564,Winter in Wartime,2008
+168027,Freaky Deaky,2012
+3482,The Train,1964
+135595,Trade Of Innocents,2012
+8982,The Protector,2005
+89861,Stiff Upper Lips,1998
+455,Bend It Like Beckham,2002
+57022,Sunshine State,2002
+14351,Crossover,2006
+147767,Khiladi 786,2012
+10664,[REC]²,2009
+55567,Standing Ovation,2010
+9277,The Sting,1973
+9443,Chariots of Fire,1981
+16186,Diary of a Mad Black Woman,2005
+7863,Shine,1996
+138697,Don Jon,2013
+11901,High Plains Drifter,1973
+1548,Ghost World,2001
+11889,Iris,2001
+33155,Galaxina,1980
+5528,The Chorus,2004
+321,Mambo Italiano,2003
+4997,Wonderland,2003
+925,Do the Right Thing,1989
+27451,Harvard Man,2001
+73532,Le Havre,2011
+979,Irreversible,2002
+193722,R100,2013
+7913,Rang De Basanti,2006
+253253,Animals,2014
+51995,Salvation Boulevard,2011
+13173,The Ten,2007
+22908,A Room for Romeo Brass,1999
+70670,Headhunters,2011
+84204,Grabbers,2012
+25248,Saint Ralph,2004
+230266,Miss Julie,2014
+16633,Somewhere in Time,1980
+63006,Dum Maaro Dum,2011
+91586,Insidious: Chapter 2,2013
+215,Saw II,2005
+333371,10 Cloverfield Lane,2016
+9012,Jackass: The Movie,2002
+345911,Lights Out,2016
+72571,Paranormal Activity 3,2011
+242512,Ouija,2014
+10072,A Nightmare on Elm Street 3: Dream Warriors,1987
+211954,Instructions Not Included,2013
+82990,Paranormal Activity 4,2012
+29912,The Robe,1953
+11843,The Return of the Pink Panther,1975
+11284,Freddy's Dead: The Final Nightmare,1991
+504,Monster,2003
+173,"20,000 Leagues Under the Sea",1954
+227348,Paranormal Activity: The Marked Ones,2014
+1955,The Elephant Man,1980
+152532,Dallas Buyers Club,2013
+243940,The Lazarus Effect,2015
+77,Memento,2000
+157547,Oculus,2013
+2295,Clerks II,2006
+71,Billy Elliot,2000
+147773,The Way Way Back,2013
+16096,House Party 2,1991
+24266,The Man from Snowy River,1982
+16508,Doug's 1st Movie,1999
+2895,The Apostle,1997
+15660,Mommie Dearest,1981
+59968,Our Idiot Brother,2011
+323677,Race,2016
+19848,The Players Club,1998
+256274,"As Above, So Below",2014
+235271,Addicted,2014
+45153,Eve's Bayou,1997
+284293,Still Alice,2014
+24973,The Egyptian,1954
+21610,Nighthawks,1981
+10283,Friday the 13th Part VIII: Jason Takes Manhattan,1989
+8346,My Big Fat Greek Wedding,2002
+122081,Spring Breakers,2013
+10987,Halloween: The Curse of Michael Myers,1995
+1391,Y Tu Mamá También,2001
+747,Shaun of the Dead,2004
+14745,The Haunting of Molly Hartley,2008
+26748,Lone Star,1996
+11357,Halloween 4: The Return of Michael Myers,1988
+24913,April Fool's Day,1986
+13776,Diner,1982
+14854,Lone Wolf McQuade,1983
+50357,Apollo 18,2011
+13090,Sunshine Cleaning,2008
+192141,No Escape,2015
+16441,The Beastmaster,1982
+29996,Solomon and Sheba,1959
+351819,Fifty Shades of Black,2016
+14834,Not Easily Broken,2009
+22649,A Farewell to Arms,1932
+378200,The Perfect Match,2016
+20455,Digimon: The Movie,2000
+13193,Saved!,2004
+11042,The Barbarian Invasions,2003
+10786,Robin and Marian,1976
+12484,The Forsaken,2001
+17339,Force 10 from Navarone,1978
+11959,UHF,1989
+9900,Grandma's Boy,2006
+14662,Slums of Beverly Hills,1998
+335,Once Upon a Time in the West,1968
+15745,Made,2001
+17431,Moon,2009
+21014,Keeping Up with the Steins,2006
+78394,Sea Rex 3D: Journey to a Prehistoric World,2010
+10217,The Sweet Hereafter,1997
+46332,Of Gods and Men,2010
+13996,Bottle Shock,2008
+3028,Jekyll and Hyde ... Together Again,1982
+1024,Heavenly Creatures,1994
+343795,90 Minutes in Heaven,2015
+45658,Everything Must Go,2010
+16148,Zero Effect,1998
+4553,The Machinist,2004
+36351,Light Sleeper,1992
+245916,Kill the Messenger,2014
+27585,Rabbit Hole,2010
+1415,Party Monster,2003
+313922,Green Room,2016
+14474,The Oh in Ohio,2006
+199933,Atlas Shrugged Part III: Who is John Galt?,2014
+13685,Bottle Rocket,1996
+8744,Albino Alligator,1996
+38428,"Gandhi, My Father",2007
+8847,Standard Operating Procedure,2008
+39269,Out of the Blue,1980
+46838,Tucker and Dale vs Evil,2010
+51384,"Lovely, Still",2008
+56930,Tycoon,1947
+41730,Desert Blue,1999
+18442,Decoys,2004
+298312,The Visit,2015
+11600,Redacted,2007
+71547,Fascination,2004
+57876,Area 51,2015
+77495,Sleep Tight,2011
+13849,The Cottage,2008
+14849,Dead Like Me: Life After Death,2009
+12486,Farce of the Penguins,2006
+19615,Flying By,2009
+244403,Rudderless,2014
+292481,Henry & Me,2014
+340816,Christmas Eve,2015
+78814,We Have Your Husband,2011
+297596,Dying of the Light,2014
+299552,Born Of War,2013
+11935,Capricorn One,1977
+113406,Should've Been Romeo,2012
+447027,Running Forever,2015
+290825,Yoga Hosers,2016
+361159,Navy Seals vs. Zombies,2015
+12555,I Served the King of England,2006
+31175,Soul Kitchen,2009
+12498,Sling Blade,1996
+77949,The Awakening,2011
+1690,Hostel,2005
+8435,A Cock and Bull Story,2005
+64720,Take Shelter,2011
+49365,Lady in White,1988
+11404,Driving Lessons,2006
+300706,Let's Kill Ward's Wife,2014
+16337,The Texas Chainsaw Massacre 2,1986
+11577,Pat Garrett & Billy the Kid,1973
+77987,Only God Forgives,2013
+40185,Camping Sauvage,2005
+68202,Without Men,2011
+8981,Dear Frankie,2004
+10914,All Hat,2007
+50848,The Names of Love,2010
+166624,Treading Water,2013
+10822,Savage Grace,2007
+10844,Out of the Blue,2006
+9336,Police Academy,1984
+5689,The Blue Lagoon,1980
+712,Four Weddings and a Funeral,1994
+13342,Fast Times at Ridgemont High,1982
+10339,Moby Dick,1956
+1429,25th Hour,2002
+9303,Bound,1996
+641,Requiem for a Dream,2000
+27686,State Fair,1945
+65749,Tango,1998
+6106,Salvador,1986
+252680,Moms' Night Out,2014
+141,Donnie Darko,2001
+66607,Saving Private Perez,2011
+17139,Character,1997
+12079,Spun,2002
+39800,Life During Wartime,2009
+4550,Sympathy for Lady Vengeance,2005
+62116,Mozart's Sister,2010
+9991,Mean Machine,2001
+13807,Exiled,2006
+68818,Blackthorn,2011
+12093,Lilya 4-ever,2002
+36419,After.Life,2010
+281730,Fugly,2014
+510,One Flew Over the Cuckoo's Nest,1975
+362105,R.L. Stine's Monsterville: The Cabinet of Souls,2015
+10970,Silent Movie,1976
+375290,Airlift,2016
+17663,Anne of Green Gables,1985
+270938,Falcon Rising,2014
+116613,The Sweeney,2012
+11826,Sexy Beast,2000
+29920,Easy Money,2010
+1088,Whale Rider,2003
+26379,Paa,2009
+34069,Cargo,2009
+10947,High School Musical,2006
+47452,Love and Death on Long Island,1997
+3040,Night Watch,2004
+11386,The Crying Game,1992
+10246,Porky's,1981
+29426,Survival of the Dead,2010
+10331,Night of the Living Dead,1968
+153,Lost in Translation,2003
+703,Annie Hall,1977
+27191,The Greatest Show on Earth,1952
+1365,Monster's Ball,2001
+287424,Maggie,2015
+451,Leaving Las Vegas,1995
+165864,Hansel and Gretel Get Baked,2013
+987,The Front Page,1974
+241251,The Boy Next Door,2015
+40494,Trapeze,1956
+39781,The Kids Are All Right,2010
+8337,They Live,1988
+5925,The Great Escape,1963
+8357,What the #$*! Do We (K)now!?,2004
+146203,The Last Exorcism Part II,2013
+85350,Boyhood,2014
+512,Scoop,2006
+13408,The Wash,2001
+47816,3 Strikes,2000
+10744,The Cooler,2003
+11536,The Misfits,1961
+9782,The Night Listener,2006
+18713,The Jerky Boys,1995
+6537,The Orphanage,2007
+184345,A Haunted House 2,2014
+1809,The Rules of Attraction,2002
+2370,Topaz,1969
+9809,Let's Go to Prison,2006
+5,Four Rooms,1995
+11013,Secretary,2002
+19153,The Real Cancun,2003
+10132,Talk Radio,1988
+16448,Waiting for Guffman,1996
+15122,Love Stinks,1999
+8141,You Kill Me,2007
+1546,Thumbsucker,2005
+48572,Red State,2011
+14517,Mirrormask,2005
+89708,Samsara,2011
+27551,The Barbarians,1987
+64678,The Art of Getting By,2011
+309503,Zipper,2015
+14293,Poolhall Junkies,2002
+15059,The Loss of Sexual Innocence,1999
+103328,Holy Motors,2012
+157847,Joe,2014
+25719,Shooting Fish,1997
+48309,Prison,1988
+27723,Psycho Beach Party,2000
+20468,The Big Tease,1999
+242575,"Guten Tag, Ramón",2013
+44945,Trust,2010
+29122,An Everlasting Piece,2000
+125123,Among Giants,1998
+111190,Adore,2013
+133575,The Velocity of Gary,1999
+54580,Mondays in the Sun,2002
+52015,Stake Land,2010
+34941,The Last Time I Committed Suicide,1997
+227975,Futuro Beach,2014
+60422,Another Happy Day,2011
+81390,A Lonely Place to Die,2011
+10981,Nothing,2003
+225235,The Geographer Drank His Globe Away,2013
+14902,1776,1972
+121676,Inescapable,2012
+22301,Hell's Angels,1930
+20065,Purple Violets,2007
+257087,The Veil,2016
+46420,The Loved Ones,2009
+114635,The Helpers,2012
+158150,How to Fall in Love,2012
+251979,The Perfect Wave,2014
+874,A Man for All Seasons,1966
+10774,Network,1976
+770,Gone with the Wind,1939
+266102,Desert Dancer,2014
+29715,Major Dundee,1965
+25209,Annie Get Your Gun,1950
+37495,Four Lions,2010
+29262,The House of Sand,2005
+34769,Defendor,2009
+35032,The Pirate,1948
+5178,The Good Heart,2009
+8618,The History Boys,2006
+3116,Midnight Cowboy,1969
+9427,The Full Monty,1997
+813,Airplane!,1980
+352978,Chain of Command,2015
+10634,Friday,1995
+9516,Menace II Society,1993
+16288,Creepshow 2,1987
+23330,The Ballad of Cable Hogue,1970
+18900,In Cold Blood,1967
+27029,The Nun's Story,1959
+26268,Harper,1966
+573,Frenzy,1972
+310131,The Witch,2016
+40505,I Got the Hook Up,1998
+11363,She's the One,1996
+3033,Gods and Monsters,1998
+25376,The Secret in Their Eyes,2009
+22007,Train,2008
+765,Evil Dead II,1987
+10615,Pootie Tang,2001
+205321,Sharknado,2013
+89540,The Other Conquest,1999
+46146,Troll Hunter,2010
+38007,Ira & Abby,2006
+14256,Winter Passing,2006
+540,D.E.B.S.,2004
+370464,The Masked Saint,2016
+20055,The Betrayed,2008
+224569,Taxman,1999
+395766,The Secret,2016
+39303,2:13,2009
+142061,"Batman: The Dark Knight Returns, Part 2",2013
+370662,Time to Choose,2015
+252360,In the Name of the King III,2013
+256740,Wicked Blood,2014
+299145,Stranded,2015
+241766,Lords of London,2014
+12535,High Anxiety,1977
+1667,March of the Penguins,2005
+50839,Margin Call,2011
+86549,August,2011
+13973,Choke,2008
+244786,Whiplash,2014
+598,City of God,2002
+11129,Human Traffic,1999
+75861,To Write Love on Her Arms,2015
+13551,The Dead Girl,2006
+103663,The Hunt,2012
+850,A Christmas Story,1983
+12586,Bella,2006
+11564,Class of 1984,1982
+301748,The Opposite Sex,2014
+108346,Dreaming of Joseph Lees,1999
+8841,The Class,2008
+805,Rosemary's Baby,1968
+11697,The Man Who Shot Liberty Valance,1962
+22051,Adam,2009
+436,Maria Full of Grace,2004
+55347,Beginners,2010
+10070,Feast,2005
+8469,Animal House,1978
+658,Goldfinger,1964
+125490,Antiviral,2012
+1585,It's a Wonderful Life,1946
+627,Trainspotting,1996
+23618,The Original Kings of Comedy,2000
+41436,Paranormal Activity 2,2010
+10162,Waking Ned,1998
+1430,Bowling for Columbine,2002
+259943,Coming Home,2014
+10014,A Nightmare on Elm Street Part 2: Freddy's Revenge,1985
+11257,A Room with a View,1985
+158015,The Purge,2013
+82507,Sinister,2012
+20337,Martin Lawrence Live: Runteldat,2002
+261,Cat on a Hot Tin Roof,1958
+1685,Beneath the Planet of the Apes,1970
+20737,Air Bud,1997
+10991,Pokémon: Spell of the Unknown,2000
+10225,Friday the 13th Part VI: Jason Lives,1986
+826,The Bridge on the River Kwai,1957
+34086,Spaced Invaders,1990
+5854,Family Plot,1976
+284,The Apartment,1960
+10285,Jason Goes to Hell: The Final Friday,1993
+5780,Torn Curtain,1966
+292,Dave Chappelle's Block Party,2005
+223485,Slow West,2015
+29463,Krush Groove,1985
+18065,Next Day Air,2009
+22013,Elmer Gantry,1960
+821,Judgment at Nuremberg,1961
+53862,Trippin',1999
+3089,Red River,1948
+30139,Phat Girlz,2006
+132344,Before Midnight,2013
+15582,Teen Wolf Too,1987
+15158,Phantasm II,1988
+44634,Woman Thou Art Loosed,2004
+30309,Real Women Have Curves,2002
+7509,Water,2005
+10557,East Is East,1999
+23531,Whipped,2000
+28005,Kama Sutra - A Tale of Love,1996
+40247,Please Give,2010
+252,Willy Wonka & the Chocolate Factory,1971
+24126,Warlock: The Armageddon,1993
+13982,8 Heads in a Duffel Bag,1997
+16642,Days of Heaven,1978
+17734,Thirteen Conversations About One Thing,2001
+18892,Jawbreaker,1999
+549,Basquiat,1996
+121986,Frances Ha,2013
+868,Tsotsi,2005
+10683,Happiness,1998
+17995,DysFunktional Family,2003
+246403,Tusk,2014
+670,Oldboy,2003
+35691,Letters to God,2010
+49010,Hobo with a Shotgun,2011
+317930,Compadres,2016
+11229,Freeway,1996
+22488,Love's Abiding Joy,2006
+24469,Fish Tank,2009
+82533,Damsels in Distress,2012
+50942,Creature,1998
+84174,Bachelorette,2012
+34099,Brave New Girl,2004
+79940,Tim and Eric's Billion Dollar Movie,2012
+342,Summer Storm,2004
+281230,Fort McCoy,2014
+38033,Chain Letter,2010
+100975,Just Looking,1999
+38541,The Divide,2011
+39563,The Eclipse,2009
+234212,Demonic,2015
+27404,My Big Fat Independent Movie,2005
+170480,The Deported,2010
+71866,Tanner Hall,2009
+192210,Open Road,2013
+180296,They Came Together,2014
+157058,30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,2013
+70006,Never Back Down 2: The Beatdown,2011
+26039,Point Blank,1967
+79587,Four Single Fathers,2009
+176077,Enter the Dangerous Mind,2013
+260947,Something Wicked,2014
+342502,AWOL-72,2015
+191229,Iguana,1988
+43213,Chicago Overcoat,2009
+44594,Barry Munday,2010
+666,Central Station,1998
+248,Pocketful of Miracles,1961
+325173,Close Range,2015
+55831,Boynton Beach Club,2005
+351043,Amnesiac,2015
+43942,Freakonomics,2010
+10226,High Tension,2003
+66942,Griff the Invisible,2011
+356483,Unnatural,2015
+10476,Hustle & Flow,2005
+239,Some Like It Hot,1959
+10281,Friday the 13th Part VII: The New Blood,1988
+630,The Wizard of Oz,1939
+3034,Young Frankenstein,1974
+13025,Diary of the Dead,2007
+21461,Lage Raho Munna Bhai,2006
+55306,Ulee's Gold,1997
+17264,The Black Stallion,1979
+346081,Sardaarji,2015
+16016,Journey to Saturn,2008
+15875,Donovan's Reef,1963
+5900,The Dress,1996
+43306,A Guy Named Joe,1944
+11072,Blazing Saddles,1974
+9730,Friday the 13th: The Final Chapter,1984
+209274,Ida,2013
+26371,Maurice,1987
+14137,Beer League,2006
+291,Riding Giants,2004
+14139,Timecrimes,2007
+33106,Silver Medalist,2009
+8875,Timber Falls,2007
+872,Singin' in the Rain,1952
+72914,"Fat, Sick & Nearly Dead",2010
+139038,A Haunted House,2013
+126509,2016: Obama's America,2012
+9591,That Thing You Do!,1996
+10676,Halloween III: Season of the Witch,1982
+1687,Escape from the Planet of the Apes,1971
+24748,Hud,1963
+181330,Kevin Hart: Let Me Explain,2013
+468,My Own Private Idaho,1991
+401,Garden State,2004
+76,Before Sunrise,1995
+50538,Evil Words,2003
+25636,Jesus' Son,1999
+19316,Saving Face,2004
+21074,Brick Lane,2007
+84329,Robot & Frank,2012
+20,My Life Without Me,2003
+157386,The Spectacular Now,2013
+13007,Religulous,2008
+13518,Fuel,2008
+116584,Valley of the Heart's Delight,2006
+46849,Eye of the Dolphin,2007
+40428,8: The Mormon Proposition,2010
+17334,The Other End of the Line,2008
+1698,Anatomy,2000
+20764,Sleep Dealer,2008
+45132,Super,2010
+76706,Christmas Mail,2010
+254472,Stung,2015
+332285,Antibirth,2016
+49471,Get on the Bus,1996
+13569,Thr3e,2006
+7512,Idiocracy,2006
+356216,The Rise of the Krays,2015
+11798,This Is England,2006
+146631,U.F.O.,2012
+43546,Bathing Beauty,1944
+61038,Go for It!,2011
+78373,"Dancer, Texas Pop. 81",1998
+17820,Show Boat,1951
+74457,Redemption Road,2011
+283384,The Calling,2014
+19933,The Brave Little Toaster,1987
+756,Fantasia,1940
+433715,8 Days,2014
+9728,Friday the 13th Part III,1982
+9731,Friday the 13th: A New Beginning,1985
+9916,The Last Sin Eater,2007
+309425,Do You Believe?,2015
+14156,Impact Point,2008
+43610,The Valley of Decision,1945
+360339,Eden,2015
+31163,Chicken Tikka Masala,2005
+297621,There's Always Woodstock,2014
+16205,Jack Brooks: Monster Slayer,2007
+887,The Best Years of Our Lives,1946
+9517,Bully,2001
+6007,Elling,2001
+364083,Mi America,2015
+8329,[REC],2007
+69640,Lies in Plain Sight,2010
+371085,Sharkskin,2015
+347548,Containment,2015
+322443,The Timber,2015
+657,From Russia with Love,1963
+28165,The Toxic Avenger Part II,1989
+11561,Sleeper,1973
+270303,It Follows,2015
+11624,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,1972
+595,To Kill a Mockingbird,1962
+8810,Mad Max 2: The Road Warrior,1981
+12207,The Legend of Drunken Master,1994
+226,Boys Don't Cry,1999
+92182,Silent House,2011
+582,The Lives of Others,2006
+72213,Courageous,2011
+990,The Hustler,1961
+55604,Boom Town,1940
+9662,The Triplets of Belleville,2003
+20862,Smoke Signals,1998
+2771,American Splendor,2003
+80,Before Sunset,2004
+55,Amores perros,2000
+11023,Thirteen,2003
+33667,Gentleman's Agreement,1947
+39013,Winter's Bone,2010
+11194,Touching the Void,2003
+43839,Alexander's Ragtime Band,1938
+1382,Me and You and Everyone We Know,2005
+44639,Inside Job,2010
+301351,We Are Your Friends,2015
+4816,Ghost Dog: The Way of the Samurai,1999
+7873,Harsh Times,2005
+331190,Captive,2015
+15186,Full Frontal,2002
+17994,Witchboard,1986
+1378,Shortbus,2006
+8885,Waltz with Bashir,2008
+48382,"The Book of Mormon Movie, Volume 1: The Journey",2003
+12901,No End in Sight,2007
+250124,The Diary of a Teenage Girl,2015
+14284,In the Shadow of the Moon,2007
+57120,Meek's Cutoff,2010
+12228,Inside Deep Throat,2005
+22617,Dinner Rush,2000
+55561,Clockwatchers,1997
+42889,The Virginity Hit,2010
+10656,Subway,1985
+24363,House of D,2005
+13121,Teeth,2007
+24746,Six-String Samurai,1998
+325140,Hum To Mohabbat Karega,2000
+12109,It's All Gone Pete Tong,2004
+27023,Saint John of Las Vegas,2009
+22913,24 7: Twenty Four Seven,1997
+273899,Stonewall,2015
+20653,Roadside Romeo,2008
+67373,This Thing of Ours,2005
+171759,The Lost Medallion: The Adventures of Billy Stone,2013
+206296,The Last Five Years,2014
+35219,The Missing Person,2009
+28260,Return of the Living Dead 3,1993
+7515,London,2005
+13075,Sherrybaby,2006
+335866,Circle,2015
+13510,Eden Lake,2008
+215881,Plush,2013
+18238,Lesbian Vampire Killers,2009
+22600,Gangster's Paradise: Jerusalema,2008
+12612,Freeze Frame,2004
+50698,Grave Encounters,2011
+115210,Stitches,2012
+34335,Nine Dead,2010
+459488,"To Be Frank, Sinatra at 100",2015
+11302,Bananas,1971
+119458,Supercapitalist,2012
+20406,Rockaway,2007
+3766,The Lady from Shanghai,1947
+18616,No Man's Land: The Rise of Reeker,2008
+18808,Highway,2002
+95755,Small Apartments,2012
+198062,Coffee Town,2013
+188652,The Ghastly Love of Johnny X,2013
+174311,All Is Bright,2013
+12602,The Torture Chamber of Dr. Sadism,1967
+153795,Straight A's,2013
+17768,A Funny Thing Happened on the Way to the Forum,1966
+13516,Slacker Uprising,2007
+98549,The Legend of Hell's Gate: An American Conspiracy,2011
+312793,The Walking Deceased,2015
+309919,The Curse of Downers Grove,2015
+299553,Shark Lake,2015
+21309,River's Edge,1986
+32235,Northfork,2003
+329540,The Marine 4: Moving Target,2015
+26388,Buried,2010
+49020,Submarine,2011
+159037,The Square,2013
+12838,One to Another,2006
+157293,ABCD (Any Body Can Dance),2013
+14048,Man on Wire,2008
+356987,Abandoned,2015
+295886,Brotherly Love,2015
+38358,The Last Exorcism,2010
+33511,Nowhere Boy,2009
+702,A Streetcar Named Desire,1951
+935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
+542,The Crime of Padre Amaro,2002
+84175,Beasts of the Southern Wild,2012
+1705,Battle for the Planet of the Apes,1973
+62677,Songcatcher,2001
+50875,Higher Ground,2011
+260778,Vaalu,2015
+58492,The Greatest Movie Ever Sold,2011
+44562,Ed and His Dead Mother,1993
+37232,Travellers and Magicians,2003
+4929,Hang 'em High,1968
+36334,Deadline - U.S.A.,1952
+9783,Sublime,2007
+386826,A Beginner's Guide to Snuff,2016
+205126,Independence Daysaster,2013
+98557,Dysfunctional Friends,2012
+104,Run Lola Run,1998
+10894,May,2002
+246449,Against the Wild,2013
+32579,Under the Same Moon,2008
+1688,Conquest of the Planet of the Apes,1972
+1999,In the Bedroom,2001
+43947,I Spit on Your Grave,2010
+24066,"Happy, Texas",1999
+9709,My Summer of Love,2004
+191714,The Lunchbox,2013
+25312,Yes,2005
+34106,You Can't Take It With You,1938
+11426,From Here to Eternity,1953
+13909,She Wore a Yellow Ribbon,1949
+206284,Grace Unplugged,2013
+27455,Foolish,1999
+66468,N-Secure,2010
+7973,Caramel,2007
+283686,Out of the Dark,2014
+15976,The Bubble,2006
+592,The Conversation,1974
+74084,Dil Jo Bhi Kahey...,2006
+1651,Mississippi Mermaid,1969
+25428,I Love Your Work,2003
+298584,Cabin Fever,2016
+10758,Waitress,2007
+11690,Bloodsport,1988
+3083,Mr. Smith Goes to Washington,1939
+9344,Kids,1995
+10707,The Squid and the Whale,2005
+15647,Kissing Jessica Stein,2001
+308529,Kickboxer: Vengeance,2016
+4174,Spellbound,1945
+20156,Exotica,1994
+9464,Buffalo '66,1998
+49018,Insidious,2010
+13820,Repo Man,1984
+18079,Nine Queens,2000
+127918,The Gatekeepers,2012
+17113,The Ballad of Jack and Rose,2005
+129139,The To Do List,2013
+507,Killing Zoe,1993
+4012,The Believer,2001
+14054,Snow Angels,2008
+323271,Unsullied,2015
+10972,Session 9,2001
+13066,I Want Someone to Eat Cheese With,2006
+66025,Mooz-lum,2011
+11908,Hatchet,2006
+3082,Modern Times,1936
+39541,Stolen Summer,2002
+1961,My Name Is Bruce,2007
+51820,The Salon,2005
+291362,Road Hard,2015
+30082,Forty Shades of Blue,2005
+72913,Amigo,2010
+23963,Pontypool,2009
+29406,Trucker,2008
+361505,Me You and Five Bucks,2015
+104755,The Lords of Salem,2012
+253306,Housebound,2014
+29595,Wal-Mart: The High Cost of Low Price,2005
+46729,Fetching Cody,2005
+294600,Last I Heard,2013
+137347,Closer to the Moon,2013
+290370,Mutant World,2014
+426469,Growing Up Smith,2017
+356841,Checkmate,2015
+301325,#Horror,2015
+347755,Wind Walkers,2016
+408,Snow White and the Seven Dwarfs,1937
+44413,The Holy Girl,2004
+39209,Shalako,1968
+48463,Incident at Loch Ness,2004
+394047,The Dog Lover,2016
+312791,GirlHouse,2014
+266034,The Blue Room,2014
+280381,House at the End of the Drive,2014
+2661,Batman,1966
+100,"Lock, Stock and Two Smoking Barrels",1998
+218500,The Ballad of Gregorio Cortez,1983
+309,The Celebration,1998
+27845,Trees Lounge,1996
+25784,Journey from the Fall,2006
+52790,The Basket,2000
+100275,Eddie: The Sleepwalking Cannibal,2012
+295914,Queen of the Mountains,2014
+42033,Def-Con 4,1985
+19187,The Hebrew Hammer,2003
+46415,Neal 'n' Nikki,2005
+38570,The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,2010
+27588,Forget Me Not,2009
+223,Rebecca,1940
+9725,Friday the 13th Part 2,1981
+28580,The Lost Weekend,1945
+23730,C.H.U.D.,1984
+84197,Filly Brown,2013
+46256,The Lion of Judah,2011
+19997,Niagara,1953
+43266,How Green Was My Valley,1941
+278316,Da Sweet Blood of Jesus,2014
+1412,"Sex, Lies, and Videotape",1989
+176,Saw,2004
+39939,Super Troopers,2001
+357834,The Algerian,2015
+215924,The Amazing Catfish,2013
+480,Monsoon Wedding,2001
+14295,You Can Count on Me,2000
+11219,The Trouble with Harry,1955
+20770,But I'm a Cheerleader,1999
+176124,Home Run,2013
+500,Reservoir Dogs,1992
+60400,The Blue Bird,1940
+429,"The Good, the Bad and the Ugly",1966
+310569,The Second Mother,2015
+98369,Blue Like Jazz,2012
+114065,Down & Out With The Dolls,2003
+89750,"Pink Ribbons, Inc.",2011
+49951,Certifiably Jonathan,2007
+86331,Desire,2011
+355629,The Blade of Don Juan,2013
+16433,Grand Theft Parsons,2003
+15544,Extreme Movie,2008
+43884,The Charge of the Light Brigade,1936
+107315,Below Zero,2011
+137955,Crowsnest,2012
+13064,Airborne,1993
+59917,Cotton Comes to Harlem,1970
+157422,The Wicked Within,2015
+310933,Bleeding Hearts,2013
+7553,Waiting...,2005
+12877,Dead Man's Shoes,2004
+39895,From a Whisper to a Scream,1987
+102840,Sex With Strangers,2002
+55616,Dracula: Pages from a Virgin's Diary,2002
+29697,Faith Like Potatoes,2006
+50037,Beyond the Black Rainbow,2010
+94329,The Raid,2011
+53502,The Dead Undead,2010
+202604,The Vatican Exorcisms,2013
+289,Casablanca,1942
+27374,Lake Mungo,2008
+26815,Rocket Singh: Salesman of the Year,2009
+811,Silent Running,1972
+1366,Rocky,1976
+244776,The Sleepwalker,2014
+5769,Tom Jones,1963
+277685,Unfriended,2015
+103,Taxi Driver,1976
+11298,The Howling,1981
+646,Dr. No,1962
+93856,Chernobyl Diaries,2012
+9003,Hellraiser,1987
+347126,God's Not Dead 2,2016
+10092,Cry_Wolf,2005
+10643,Godzilla 2000,1999
+46705,Blue Valentine,2010
+546,Transamerica,2005
+76487,The Devil Inside,2012
+5722,Beyond the Valley of the Dolls,1970
+39833,Love Me Tender,1956
+1781,An Inconvenient Truth,2006
+18712,Sands of Iwo Jima,1949
+7944,Shine a Light,2008
+171424,The Green Inferno,2014
+361475,Departure,2016
+113947,The Sessions,2012
+18570,"Food, Inc.",2008
+83860,October Baby,2011
+41469,Next Stop Wonderland,1998
+244772,The Skeleton Twins,2014
+50837,Martha Marcy May Marlene,2011
+248774,Obvious Child,2014
+10183,Frozen River,2008
+159014,20 Feet from Stardom,2013
+32456,Two Girls and a Guy,1997
+49963,Walking and Talking,1996
+13508,Who Killed the Electric Car?,2006
+22597,The Broken Hearts Club: A Romantic Comedy,2000
+9707,Bubba Ho-tep,2002
+37532,Slam,1998
+26791,Brigham City,2001
+56666,Fiza,2000
+8675,Orgazmo,1997
+13132,All the Real Girls,2003
+47686,Dream with the Fishes,1997
+46989,Blue Car,2002
+192132,Palo Alto,2014
+24424,Ajami,2009
+13198,Wristcutters: A Love Story,2006
+244267,I Origins,2014
+21413,The Battle of Shaker Heights,2003
+123678,The Act of Killing,2012
+13362,Taxi to the Dark Side,2007
+39183,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006
+62402,Guiana 1838,2004
+206412,Lisa Picard Is Famous,2000
+201132,Antarctica: A Year on Ice,2013
+251471,A LEGO Brickumentary,2015
+112456,Hardflip,2012
+20296,Chocolate: Deep Dark Secrets,2005
+25983,The House of the Devil,2009
+66195,The Perfect Host,2010
+16155,Safe Men,1998
+46727,Speedway Junky,1999
+55180,The Last Big Thing,1998
+29015,The Specials,2000
+91122,16 to Life,2009
+18206,Alone With Her,2006
+320146,Creative Control,2016
+13856,Special,2006
+219716,Sparkler,1999
+43630,The Helix... Loaded,2005
+56491,In Her Line of Fire,2006
+99826,The Jimmy Show,2002
+186935,Heli,2013
+357441,Karachi se Lahore,2015
+19344,Loving Annabelle,2006
+242083,Hits,2014
+18869,Jimmy and Judy,2006
+26673,Frat Party,2009
+41830,The Party's Over,1965
+37694,Proud,2004
+63287,The Poker House,2008
+335874,Childless,2015
+34592,ZMD: Zombies of Mass Destruction,2009
+92635,Snow White: A Deadly Summer,2012
+258755,Hidden Away,2014
+96534,My Last Day Without You,2011
+21283,Steppin: The Movie,2009
+272724,Doc Holliday's Revenge,2014
+84178,Black Rock,2012
+101179,Truth or Dare,2012
+52462,The Pet,2006
+269057,Bang Bang Baby,2014
+287524,Fear Clinic,2014
+206213,Zombie Hunter,2013
+248402,A Fine Step,2014
+29146,Charly,1968
+207769,Banshee Chapter,2013
+271185,Ask Me Anything,2014
+29731,And Then Came Love,2007
+292539,Food Chains,2014
+654,On the Waterfront,1954
+91070,L!fe Happens,2011
+2009,"4 Months, 3 Weeks and 2 Days",2007
+323270,The Horror Network Vol. 1,2015
+2652,Hard Candy,2005
+9813,The Quiet,2005
+60421,Circumstance,2011
+157354,Fruitvale Station,2013
+127867,The Brass Teapot,2012
+3170,Bambi,1942
+14014,The Hammer,2007
+15708,Latter Days,2003
+146882,Elza,2011
+215918,1982,2013
+84200,"For a Good Time, Call...",2012
+84184,Celeste & Jesse Forever,2012
+45767,Time Changer,2002
+14823,London to Brighton,2006
+367551,American Hero,2015
+343409,Windsor Drive,2015
+60243,A Separation,2011
+57294,Crying with Laughter,2009
+11446,Welcome to the Dollhouse,1995
+47889,Ruby in Paradise,1993
+25461,Raising Victor Vargas,2002
+905,Pandora's Box,1929
+279759,Harrison Montgomery,2008
+78705,Live-In Maid,2004
+25212,Deterrence,2000
+26899,The Mudge Boy,2003
+146269,The Young Unknowns,2000
+292483,Not Cool,2014
+14451,Dead Snow,2009
+10105,Saints and Soldiers,2003
+211557,Vessel,2012
+838,American Graffiti,1973
+40862,Iraq for Sale: The War Profiteers,2006
+13158,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007
+84332,Safety Not Guaranteed,2012
+74510,Kevin Hart: Laugh at My Pain,2011
+74725,Kill List,2011
+58428,The Innkeepers,2011
+8416,The Conformist,1970
+36584,Interview with the Assassin,2002
+13429,Donkey Punch,2008
+9022,All the Boys Love Mandy Lane,2008
+22530,Bled,2008
+288,High Noon,1952
+14275,Hoop Dreams,1994
+2287,Rize,2005
+18734,L.I.E.,2001
+206197,The Sisterhood of Night,2015
+26837,B-Girl,2009
+7859,Half Nelson,2006
+302579,Naturally Native,1999
+51955,Hav Plenty,1997
+376004,Adulterers,2016
+158752,Escape from Tomorrow,2013
+40658,Starsuckers,2009
+296943,The Hadza:  Last of the First,2014
+118612,After,2012
+138976,Treachery,2013
+323967,Walter,2015
+3080,Top Hat,1935
+2667,The Blair Witch Project,1999
+9459,Woodstock,1970
+11598,The Kentucky Fried Movie,1977
+26916,Mercy Streets,2000
+181940,Carousel of Revenge,2007
+125263,Broken Vessels,1998
+263503,Water & Power,2014
+324322,They Will Have to Kill Us First,2015
+331493,Light from the Darkroom,2014
+375950,The Country Doctor,2016
+278348,The Maid's Room,2014
+704,A Hard Day's Night,1964
+70875,The Harvest (La Cosecha),2011
+75986,Love Letters,1983
+385636,Juliet and Alfa Romeo,2015
+14438,Fireproof,2008
+211086,Faith Connections,2013
+23069,Benji,1974
+83,Open Water,2004
+89857,High Road,2012
+30315,Kingdom of the Spiders,1977
+14358,Mad Hot Ballroom,2005
+2056,The Station Agent,2003
+41144,To Save A Life,2009
+35199,Wordplay,2006
+14271,Beyond the Mat,1999
+16653,The Singles Ward,2002
+14757,Osama,2003
+84401,Sholem Aleichem: Laughing In The Darkness,2012
+23655,Groove,2000
+36825,The R.M.,2003
+33430,Twin Falls Idaho,1999
+12281,Mean Creek,2004
+125052,Hurricane Streets,1997
+96238,Never Again,2002
+30246,Civil Brand,2003
+7301,Lonesome Jim,2005
+172533,Drinking Buddies,2013
+180383,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,2012
+346,Seven Samurai,1954
+84318,The Other Dream Team,2012
+45145,Johnny Suede,1991
+13983,Finishing The Game,2007
+45649,Rubber,2010
+19844,Kiss the Bride,2007
+21801,The Slaughter Rule,2002
+43933,Monsters,2010
+73511,The Californians,2005
+43653,The Living Wake,2007
+139715,Detention of the Dead,2012
+45380,Crazy Stone,2006
+30867,Scott Walker: 30 Century Man,2006
+81220,Everything Put Together,2001
+253626,Good Kill,2015
+294550,The Outrageous Sophie Tucker,2014
+90369,Now Is Good,2012
+117942,Girls Gone Dead,2012
+380097,America Is Still the Place,
+322194,Subconscious,2015
+98568,Enter Nowhere,2011
+119657,El Rey de Najayo,2012
+380733,Fight to the Finish,2016
+285743,Alleluia! The Devil's Carnival,2016
+362765,The Sound and the Shadow,2014
+379532,Rodeo Girl,2016
+253261,Born to Fly: Elizabeth Streb vs. Gravity,2014
+297100,The Little Ponderosa Zoo,2014
+15239,The Toxic Avenger,1984
+94072,Straight Out of Brooklyn,1991
+4107,Bloody Sunday,2002
+325579,Diamond Ruff,2015
+15624,Conversations with Other Women,2006
+17287,Poultrygeist: Night of the Chicken Dead,2006
+198370,Mutual Friends,2014
+3062,42nd Street,1933
+328307,Rise of the Entrepreneur: The Search for a Better Way,2014
+15389,Metropolitan,1990
+464,As It Is in Heaven,2004
+308467,Roadside,2013
+8193,Napoleon Dynamite,2004
+188166,Blue Ruin,2014
+23827,Paranormal Activity,2007
+1282,Dogtown and Z-Boys,2001
+762,Monty Python and the Holy Grail,1975
+64499,Quinceañera,2006
+281189,Gory Gory Hallelujah,2003
+1435,Tarnation,2003
+47546,I Want Your Money,2010
+189711,Love in the Time of Monsters,2014
+19204,The Beyond,1981
+9029,What Happens in Vegas,2008
+18045,The Dark Hours,2005
+11240,My Beautiful Laundrette,1985
+43743,Fabled,2002
+157909,Show Me,2004
+10238,Cries and Whispers,1972
+3059,Intolerance,1916
+15800,Trekkies,1997
+65203,The Broadway Melody,1929
+764,The Evil Dead,1981
+103620,Maniac,2012
+319069,Censored Voices,2015
+14278,Murderball,2005
+25678,American Ninja 2: The Confrontation,1987
+79161,51 Birch Street,2006
+371690,Rotor DR1,2015
+389,12 Angry Men,1957
+52032,My Dog Tulip,2009
+3078,It Happened One Night,1934
+38810,Dogtooth,2009
+21525,Tupac: Resurrection,2003
+55123,Tumbleweeds,1999
+11980,The Prophecy,1995
+11956,When the Cat's Away,1996
+1550,Pieces of April,2003
+162396,The Big Swap,1998
+26518,Old Joy,2006
+8942,Wendy and Lucy,2008
+68412,3 Backyards,2010
+2786,Pierrot le Fou,1965
+87943,Sisters in Law,2005
+73981,Ayurveda: Art of Being,2001
+91721,Nothing But a Man,1964
+118452,"First Love, Last Rites",1998
+47534,Fighting Tommy Riley,2005
+40914,Royal Kill,2009
+365052,The Looking Glass,2015
+13282,Death Race 2000,1975
+250184,Locker 13,2014
+426067,Midnight Cabaret,1990
+324352,Anderson's Cross,2010
+318040,Bizarre,2015
+27420,Graduation Day,1981
+80468,Some Guy Who Kills People,2011
+84188,Compliance,2012
+2255,Chasing Amy,1997
+50035,Lovely & Amazing,2001
+300327,Death Calls,2010
+14290,Better Luck Tomorrow,2002
+29371,The Incredibly True Adventure of Two Girls In Love,1995
+44490,Chuck & Buck,2000
+32222,American Desi,2001
+378237,Amidst the Devil's Wings,2014
+431,Cube,1997
+76996,Love and Other Catastrophes,1996
+51942,I Married a Strange Person!,1998
+1424,November,2004
+60420,Like Crazy,2011
+325123,Teeth and Blood,2015
+142132,Sugar Town,1999
+20520,The Motel,2005
+109729,The Canyons,2013
+78307,On the Outs,2004
+12247,Shotgun Stories,2007
+29917,Exam,2009
+70687,The Sticky Fingers of Time,1997
+60463,Sunday School Musical,2008
+46252,Rust,2010
+24869,Ink,2009
+77934,The Christmas Bunny,2010
+34697,Butterfly,1982
+320435,UnDivided,2013
+150211,The Frozen,2012
+306667,Horse Camp,2015
+274758,Give Me Shelter,2014
+3060,The Big Parade,1925
+40963,Little Big Top,2006
+173224,Along the Roadside,2013
+18533,Bronson,2008
+376010,Western Religion,2015
+139948,Burn,2012
+77332,Urbania,2000
+70478,The Stewardesses,1969
+35073,"The Beast from 20,000 Fathoms",1953
+9659,Mad Max,1979
+10218,Swingers,1996
+391,A Fistful of Dollars,1964
+43595,She Done Him Wrong,1933
+194588,Short Cut to Nirvana: Kumbh Mela,2004
+54897,The Grace Card,2011
+83588,Middle of Nowhere,2012
+53256,Three,2010
+40920,The Business of Fancydancing,2002
+287815,Call + Response,2008
+54702,Malevolence,2004
+176074,Reality Show,2015
+69270,Super Hybrid,2010
+5759,Baghead,2008
+402515,American Beast,2014
+126141,The Case of the Grinning Cat,2004
+48035,Ordet,1955
+14758,Good Dick,2008
+13363,The Man from Earth,2007
+37985,The Trials Of Darryl Hunt,2007
+25786,Samantha: An American Girl Holiday,2004
+36549,Yesterday Was a Lie,2008
+361398,Theresa Is a Mother,2015
+289180,H.,2014
+288927,Archaeology of a Woman,2014
+21334,Children of Heaven,1997
+79120,Weekend,2011
+27995,She's Gotta Have It,1986
+253290,Butterfly Girl,2014
+344466,The World Is Mine,2015
+55420,Another Earth,2011
+5822,Sweet Sweetback's Baadasssss Song,1971
+408429,Perfect Cowboy,2014
+39141,Tadpole,2002
+5723,Once,2007
+28666,The Woman Chaser,1999
+30979,The Horse Boy,2009
+50497,When the Lights Went Out,2012
+354624,Heroes of Dirt,2015
+13187,A Charlie Brown Christmas,1965
+335244,Antarctic Edge: 70° South,2015
+178862,Aroused,2013
+331745,Top Spin,2014
+1779,Roger & Me,1989
+282128,An American in Hollywood,2014
+86812,Sound of My Voice,2011
+38786,The Blood of My Brother: A Story of Death in Iraq,2005
+84355,Your Sister's Sister,2011
+18632,A Dog's Breakfast,2007
+40652,The Married Woman,1964
+339408,The Birth of a Nation,2016
+266857,The Work and The Story,2003
+18925,Facing the Giants,2006
+299245,The Gallows,2015
+985,Eraserhead,1977
+34101,Hollywood Shuffle,1987
+9821,The Mighty,1998
+65448,Penitentiary,1979
+18841,The Lost Skeleton of Cadavra,2001
+272726,Dude Where's My Dog?,2014
+175291,Cheap Thrills,2013
+80215,Indie Game: The Movie,2012
+13538,Straightheads,2007
+51130,Open Secret,1948
+270554,Echo Dr.,2013
+72086,The Night Visitor,1971
+268917,The Past Is a Grotesque Animal,2014
+64973,"Peace, Propaganda & the Promised Land",2005
+473,Pi,1998
+90414,"I Love You, Don't Touch Me!",1997
+111794,20 Dates,1998
+360188,Queen Crab,2015
+9372,Super Size Me,2004
+85860,The FP,2011
+244534,Happy Christmas,2014
+33468,The Brain That Wouldn't Die,1962
+294086,Tiger Orange,2014
+139998,Supporting Characters,2012
+74777,Absentia,2011
+16388,The Brothers McMullen,1995
+159770,The Dirties,2013
+42109,Gabriela,1983
+47607,Tiny Furniture,2010
+193603,Hayride,2012
+84659,The Naked Ape,2006
+322745,Counting,2015
+20981,The Call of Cthulhu,2005
+174362,Bending Steel,2013
+242095,The Signal,2014
+250902,The Image Revolution,2013
+158895,This Is Martin Bonner,2013
+222250,A True Story,2013
+18292,George Washington,2000
+125537,Smiling Fish & Goat On Fire,1999
+326576,Dawn of the Crescent Moon,2014
+228550,Raymond Did It,2011
+13963,The Last Waltz,1978
+290391,"Run, Hide, Die",2015
+44770,The Exploding Girl,2009
+69382,The Legend of God's Gun,2007
+40769,Mutual Appreciation,2005
+220490,Her Cry: La Llorona Investigation,2013
+42151,Down Terrace,2009
+2292,Clerks,1994
+42497,Pink Narcissus,1971
+33693,Funny Ha Ha,2002
+14585,In the Company of Men,1997
+185465,Manito,2002
+38780,Rampage,2009
+14022,Slacker,1990
+366967,Dutch Kills,2015
+255266,Dry Spell,2013
+17345,Flywheel,2003
+226458,Backmask,2015
+24055,The Puffy Chair,2005
+287625,Stories of Our Lives,2014
+44990,Breaking Upwards,2009
+86304,All Superheroes Must Die,2011
+692,Pink Flamingos,1972
+39851,Clean,2004
+13898,The Circle,2000
+157185,Tin Can Man,2007
+36095,Cure,1997
+182291,On The Downlow,2004
+286939,Sanctuary: Quite a Conundrum,2012
+124606,Bang,1995
+14337,Primer,2004
+67238,Cavite,2005
+9367,El Mariachi,1992
+72766,Newlyweds,2011
+231617,"Signed, Sealed, Delivered",2013
+126186,Shanghai Calling,2012
+25975,My Date with Drew,2005
+1714811,Der Hagel or yum and how I ate it all up last year,2026
+1713003,Người Mẹ Xấu,2026
+1711927,Berliner Philharmoniker: Silvesterkonzert 2026,2026
+1707276,"THE WALTEN FILES - Live Action Series ""PILOT""",2026
+1702398,Limerence,2026
+1697811,The Wyverns,2026
+1692623,Now Playing,2026
+1689833,Cop This,2026
+1687358,Roots,2026
+1686134,A Dor e o Silêncio do Infinito,2026
+1678795,Infinity Disclosed,2026
+1673392,The Selling Stage,2026
+1673262,Untitled Coming of Age Film,2026
+1666165,"For If Night Leaves Something Undone, the Day Undertakes to Complete It",2026
+1664241,Lajna - konečně film!,2026
+1659488,Les Larmes du Patriarcat,2026
+1656298,Roseto,2026
+1652994,Wings,2026
+1652423,Shredded Cheese,2026
+1650060,Battle Pass,2026
+1649764,The Devil's Due,2026
+1633043,TFQWOG: The Movie,2026
+1614488,La Bestia en el Bosque,2026
+1613446,The Tennis Menace Two,2026
+1613022,The Inviting,2026
+1612283,Deathsman,2026
+1603157,Fuck Mr Flanagan,2026
+1598464,Down the Road Apiece,2026
+1598432,The Face,2026
+1596448,Wraith,2026
+1593547,8:38,2026
+1579129,The First Gokturk: Prologue,2026
+1574526,"Shush, Now",2026
+1539785,Daiyra e Raakh,2026
+1533346,Everyone's Here,2026
+1477299,Marie-Rose and the Mysterious Journey,2026
+1450473,Hippo Love,2026
+1443069,3xHelô,2026
+1419019,Dawn of Soengsang,2026
+1411140,High Season,2026
+1373789,Not All Men,2026
+1323717,Confessions of a Brazilian Call Girl 2,2026
+1236491,Malta mall,2026
+1120865,The House That Zombies Built,2026
+1588900,L’Homme qui s’envola,2026
+1588798,Logan,2026
+1286030,Apophis 2029,2026
+1531947,Until the Day Ends,2026
+1604487,The Audition,2026
+1660570,Maybe We Were Fire,2026
+1644719,Blackwood,2026
+1571521,ViQueens,2026
+1555901,Fireworks Over Yonder,2026
+1716448,The Pools,2026
+1714798,Our House,2026
+1711282,Wyrdo,2026
+1692277,The Daily Blues,2026
+1657317,BYE BYE LOVE 探偵はBARにいる,2026
+1652778,Operation Tral,2026
+1647071,Some Other Story,2026
+1642786,Classy Clown,2026
+1635312,Red Flag Bhalobasha Beshi,2026
+1621673,SUKIYAKI 上を向いて歩こう,2026
+1618829,Just Another John,2026
+1607851,Tonic 2,2026
+1592329,Tis the Season,2026
+1574910,The Chosen One,2026
+1561065,Rafadan Tayfa 7,2026
+1530151,Hösten med Göran,2026
+1493004,Bentornati al Sud,2026
+1437882,A Place in Hell,2026
+1421903,Werwulf,2026
+1389373,Rowdy Janardhana,2026
+1372443,Mr. Irrelevant: The John Tuggle Story,2026
+977976,Mayamrigaya,2026
+927334,Someone Dies Tonight,2026
+1667828,BASTA: Start of the Game,2026
+1661859,Три богатыря и Гуси-лебеди,2026
+1639456,Scary Forever,2026
+1628731,The Christmas Rescue: A Big Movie,2026
+1602431,The Trip,2026
+1591264,Who Killed Artur Falcão?,2026
+1492730,Minha Irmã e Eu 2,2026
+1411089,Shakti Shalini,2026
+1354930,Family Squad,2026
+1319512,Riam Fighting Angel 2,2026
+1305546,Los Vaqueros,2026
+1260263,The Beachnickers 3,2026
+1216052,Oceânico,2026
+1145110,King,2026
+659615,Nick and the Jade Tree,2026
+1708311,Dragons : L'Envol de L'Espoir,2026
+1552265,Avis de tempête,2026
+1482879,Best Of Joy: Chapter 2 - History,2026
+1458035,Kumaari,2026
+1300926,The Angry Birds Movie 3,2026
+1697255,The Dream: Love & War,2026
+1646213,AMER D'I,2026
+1629285,Classified,2026
+1533403,Deadly Silence,2026
+1361538,Sophia,2026
+1323611,Detrás de la máscara,2026
+1695866,The Porch Pisser and the Princess,2026
+1640315,Venesterio,2026
+1625843,One Dying Star,2026
+1716705,DJ Tré - Globális turné,2026
+1694305,Faceless: Retribution,2026
+1677491,Sigma Males,2026
+1666544,Without a Trace,2026
+1653495,Ex Situ,2026
+1621528,Taste of Ambrosia,2026
+1583323,The Tallyman,2026
+1530062,Order of the Dragon,2026
+1416153,Prodigal Son,2026
+1277016,The Queen of Heaven,2026
+1676282,Winter in Prostokvashino,2026
+1655898,Три кота. Вокруг света,2026
+1632174,For Better And For Worse,2026
+1200804,Alice Júnior Summer Break,2026
+1652448,Memoona and Sheralam,2026
+1170608,Dune: Part Three,2026
+1003596,Avengers: Doomsday,2026
+1413403,Playing War,2026
+1715934,Once Upon a Time In Gotham,2026
+1713769,The Smith Family Movie,2026
+1712600,Créatures de Papier,2026
+1709695,Túnel das Memórias,2026
+1698185,I Wish This Was Real,2026
+1551969,A Penny Weighs More Than a Soul,2026
+1501953,Marrow,2026
+923493,Samo Lives,2026
+1408207,Zero A.D.,2026
+1250854,Duped (The Jezbel Experience),2026
+767750,Rose Hobart 2,2026
+1695688,Gunpowder,2026
+1655305,Watkins Law,2026
+1644597,Yolki 13,2026
+1339423,Cartas para Deus,2026
+1260649,Jumanji: Open World,2026
+1691779,Doc Cineclube da Boca,2026
+1688728,La leçon de violon,2026
+1608175,Big Polio,2026
+1421967,Violette,2026
+951687,Narayan Pustika 2 - Endless,2026
+1480539,Fire in the Pond,2026
+797716,The Magnificent Raiders of Dimension War One,2026
+1711365,Behind You,2026
+1707945,Bare,2026
+1707785,Andre Rieu's 2026 Christmas Concert Let It Snow,2026
+1703624,The Metropolitan Opera 2026/27: Samson et Dalila,2026
+1649678,I Fought the Law,2026
+1418397,Anchorless,2026
+1713395,Tanguera,2026
+1712264,Now What?,2026
+1569625,Reimagining Sankranthiki Vasthunam,2026
+1568014,Disney-Ideologie,2026
+1566920,The Apothecary Diaries Movie,2026
+1502173,Jönssonligan & Wall Enberg,2026
+1498050,Burundanga,2026
+1389146,Ranger,2026
+1301248,In the Family 2,2026
+1712517,Christmas Adventure,2026
+1686744,Exchange,2026
+1678247,Очень сказочные дела,2026
+1623543,Diva,2026
+1617101,O Messias de Canaã,2026
+1556316,Chandni Bar,2026
+1533842,Umka,2026
+1499546,It Will Happen Tonight,2026
+1477719,Photograph 51,2026
+1423093,Tafers Code,2026
+1403869,Cabras da Peste 2: Miami Vixe,2026
+1706293,Controlled: Can I Trust My Partner?,2026
+1635800,Ghollak,2026
+1568223,Claude,2026
+1462332,Nirwana Blüte,2026
+1137888,The Man with the Bag,2026
+1084728,Asterix: The Kingdom of Nubia,2026
+1078446,Violent Night 2,2026
+1702771,Since We’ve No Place To Go,2026
+1693704,Study Hall,2026
+1687909,"fly, little plane!",2026
+1678867,Los Hombres No Lloran,2026
+1661297,Prize,2026
+1608553,Huemul,2026
+1598500,Sun in Lidia,2026
+1592881,Yellow Lights,2026
+1472582,Emilia Nada,2026
+1444559,Motorgasm: a cinematic act of terrorism,2026
+1233111,Carnaval Zumbi,2026
+1699787,The Wonderful Wizard Of Ha's,2026
+1652990,SP-2125,2026
+1625689,The Defectors,2026
+1498522,Behind Closed Doors,2026
+1702761,Royal Ballet & Opera 2026/27: The Nutcracker,2026
+1606439,Instrucciones para reparar un sombrero,2026
+1716604,A Proud Family Wizmas,2026
+1715722,Il Cileno,2026
+1674501,Kyle and Eric's Quest for the Golden Bong,2026
+1673706,Nosebleed,2026
