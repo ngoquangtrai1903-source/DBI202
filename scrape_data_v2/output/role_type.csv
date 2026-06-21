@@ -1,0 +1,665 @@
+﻿role_id,cast_role
+1,24 Frame Playback
+2,2D Artist
+3,2D Supervisor
+4,3D Animator
+5,3D Artist
+6,3D Coordinator
+7,3D Director
+8,3D Editor
+9,3D Generalist
+10,3D Modeller
+11,3D Supervisor
+12,ADR & Dubbing
+13,ADR Coordinator
+14,ADR Editor
+15,ADR Mixer
+16,ADR Recordist
+17,ADR Supervisor
+18,ADR Voice Casting
+19,Accountant
+20,Action Director
+21,Actor's Assistant
+22,Adaptation
+23,Additional Camera
+24,Additional Casting
+25,Additional Construction
+26,Additional Dialogue
+27,Additional Director of Photography
+28,Additional Editing
+29,Additional Editor
+30,Additional Editorial Assistant
+31,Additional First Assistant Camera
+32,Additional Gaffer
+33,Additional Grip
+34,Additional Hairstylist
+35,Additional Lighting Technician
+36,Additional Music
+37,Additional Photography
+38,Additional Production Assistant
+39,Additional Production Sound Mixer
+40,Additional Script Supervisor
+41,Additional Second Assistant Camera
+42,Additional Second Assistant Director
+43,Additional Set Dresser
+44,Additional Sound Re-Recording Mixer
+45,Additional Soundtrack
+46,Additional Still Photographer
+47,Additional Storyboarding
+48,Additional Third Assistant Director
+49,Additional Writing
+50,Administration
+51,Aerial Camera
+52,Aerial Camera (suggest in addition to Helicopter Camera)
+53,Aerial Camera Technician
+54,Aerial Coordinator
+55,Aerial Director of Photography
+56,Ager/Dyer
+57,Animal Coordinator
+58,Animal Wrangler
+59,Animation
+60,Animation Coordinator
+61,Animation Department Coordinator
+62,Animation Director
+63,Animation Fix Coordinator
+64,Animation Manager
+65,Animation Production Assistant
+66,Animation Supervisor
+67,Animation Technical Director
+68,Animatronic and Prosthetic Effects
+69,Animatronics Designer
+70,Animatronics Supervisor
+71,Apprentice Sound Editor
+72,Archival Footage Research
+73,Armorer
+74,Armory Coordinator
+75,Art Department Assistant
+76,Art Department Coordinator
+77,Art Department Manager
+78,Art Department Production Assistant
+79,Art Designer
+80,Art Direction
+81,Assistant Accountant
+82,Assistant Art Director
+83,Assistant Camera
+84,Assistant Chief Lighting Technician
+85,Assistant Costume Designer
+86,Assistant Decorator
+87,Assistant Director
+88,Assistant Director Trainee
+89,Assistant Director of Photography
+90,Assistant Editor
+91,Assistant Electrician
+92,Assistant Gaffer
+93,Assistant Grip
+94,Assistant Hairstylist
+95,Assistant Location Manager
+96,Assistant Makeup Artist
+97,Assistant Music Supervisor
+98,Assistant Production Coordinator
+99,Assistant Production Design
+100,Assistant Production Manager
+101,Assistant Property Master
+102,Assistant Script
+103,Assistant Set Decoration
+104,Assistant Set Designer
+105,Assistant Set Dresser
+106,Assistant Sound Editor
+107,Associate Choreographer
+108,Associate Editor
+109,Associate Producer
+110,Author
+111,BTS Footage
+112,BTS Photographer
+113,BTS Videographer
+114,Background Designer
+115,Best Boy Electric
+116,Best Boy Electrician
+117,Best Boy Grip
+118,Best Boy Lighting Technician
+119,Book
+120,Boom Operator
+121,CG Animator
+122,CG Artist
+123,CG Painter
+124,CG Supervisor
+125,CGI Director
+126,CGI Supervisor
+127,Cableman
+128,Camera Car
+129,Camera Department Manager
+130,Camera Intern
+131,Camera Loader
+132,Camera Operator
+133,Camera Supervisor
+134,Camera Technician
+135,Camera Trainee
+136,Carpenter
+137,Cast Driver
+138,Casting
+139,Casting Assistant
+140,Casting Associate
+141,Casting Consultant
+142,Casting Coordinator
+143,Casting Director
+144,Casting Producer
+145,Catering
+146,Catering Head Chef
+147,Chaperone
+148,Character Designer
+149,Character Modelling Supervisor
+150,Character Technical Supervisor
+151,Characters
+152,Charge Scenic Artist
+153,Chef
+154,Chief Lighting Technician
+155,Choreographer
+156,Cinematography
+157,Clapper Loader
+158,Clearances Coordinator
+159,Co-Art Director
+160,Co-Costume Designer
+161,Co-Director
+162,Co-Editor
+163,Co-Executive Producer
+164,Co-Producer
+165,Co-Writer
+166,Color Assistant
+167,Color Designer
+168,Color Grading
+169,Color Timer
+170,Colorist
+171,Comic Book
+172,Compositing Artist
+173,Compositing Lead
+174,Compositing Supervisor
+175,Compositor
+176,Compositors
+177,Concept Artist
+178,Conceptual Design
+179,Conceptual Illustrator
+180,Conductor
+181,Construction Buyer
+182,Construction Coordinator
+183,Construction Foreman
+184,Construction Grip
+185,Construction Manager
+186,Consulting Editor
+187,Consulting Producer
+188,Contact Lens Painter
+189,Contact Lens Technician
+190,Continuity
+191,Controller
+192,Costume Assistant
+193,Costume Coordinator
+194,Costume Design
+195,Costume Designer
+196,Costume Illustrator
+197,Costume Standby
+198,Costume Supervisor
+199,Costumer
+200,Craft Service
+201,Creative Consultant
+202,Creative Director
+203,Creative Producer
+204,Creator
+205,Creature Design
+206,Creature Technical Director
+207,Crowd Assistant Director
+208,Dailies Manager
+209,Dailies Operator
+210,Data Management Technician
+211,Data Wrangler
+212,Decorator
+213,Department Administrator
+214,Development Manager
+215,Development Producer
+216,Dialect Coach
+217,Dialogue
+218,Dialogue Editor
+219,Digital Colorist
+220,Digital Compositor
+221,Digital Compositors
+222,Digital Effects Producer
+223,Digital Effects Supervisor
+224,Digital Imaging Technician
+225,Digital Intermediate
+226,Digital Intermediate Colorist
+227,Digital Intermediate Editor
+228,Digital Intermediate Producer
+229,Digital Producer
+230,Digital Storyboarding
+231,Digital Supervisor
+232,Directing Lighting Artist
+233,Director
+234,Director of Communications
+235,Director of Photography
+236,Director of Previsualization
+237,Documentation & Support
+238,Dolby Consultant
+239,Dolly Grip
+240,Draughtsman
+241,Dresser
+242,Driver
+243,Drone Operator
+244,Drone Pilot
+245,Editor
+246,Editorial Consultant
+247,Editorial Coordinator
+248,Editorial Manager
+249,Editorial Production Assistant
+250,Editorial Services
+251,Editorial Staff
+252,Effects Supervisor
+253,Electrician
+254,Epk Camera Operator
+255,Executive Assistant
+256,Executive Consultant
+257,Executive In Charge Of Post Production
+258,Executive In Charge Of Production
+259,Executive Music Producer
+260,Executive Producer
+261,Executive Producer's Assistant
+262,Executive Visual Effects Producer
+263,Executive in Charge of Finance
+264,Extras Casting
+265,Extras Casting Assistant
+266,Extras Casting Coordinator
+267,Fight Choreographer
+268,Finance
+269,Finishing Producer
+270,First Assistant Accountant
+271,First Assistant Art Direction
+272,First Assistant Camera
+273,First Assistant Director
+274,First Assistant Editor
+275,First Assistant Sound Editor
+276,First Company Grip
+277,Fix Animator
+278,Floor Runner
+279,Focus Puller
+280,Foley
+281,Foley Artist
+282,Foley Editor
+283,Foley Mixer
+284,Foley Recordist
+285,Foley Supervisor
+286,Gaffer
+287,General Manager
+288,Graphic Designer
+289,Graphic Novel
+290,Graphic Novel Illustrator
+291,Greensman
+292,Grip
+293,Gun Wrangler
+294,Hair Department Head
+295,Hair Designer
+296,Hair Setup
+297,Hair Supervisor
+298,Hairstylist
+299,Head Carpenter
+300,Head of Animation
+301,Head of Layout
+302,Head of Production
+303,Head of Research
+304,Head of Story
+305,Health and Safety
+306,Helicopter Camera
+307,I/O Manager
+308,I/O Supervisor
+309,Idea
+310,Imaging Science
+311,In Memory Of
+312,Information Systems Manager
+313,Interior Designer
+314,Intern
+315,Key Animation
+316,Key Carpenter
+317,Key Construction Grip
+318,Key Costumer
+319,Key Grip
+320,Key Hair Stylist
+321,Key Makeup Artist
+322,Key Production Assistant
+323,Key Set Costumer
+324,Key Set Production Assistant
+325,Layout
+326,Layout Supervisor
+327,Lead Animator
+328,Lead Character Designer
+329,Lead Editor
+330,Lead Painter
+331,Lead Set Dresser
+332,Leadman
+333,Legal Services
+334,Libra Head Technician
+335,Lighting Artist
+336,Lighting Camera
+337,Lighting Coordinator
+338,Lighting Design
+339,Lighting Director
+340,Lighting Manager
+341,Lighting Production Assistant
+342,Lighting Programmer
+343,Lighting Supervisor
+344,Lighting Technician
+345,Line Producer
+346,Loader
+347,Local Casting
+348,Location Assistant
+349,Location Casting
+350,Location Coordinator
+351,Location Manager
+352,Location Production Assistant
+353,Location Scout
+354,Location Sound Mixer
+355,Lyricist
+356,Machinist
+357,Main Title Designer
+358,Makeup & Hair
+359,Makeup & Hair Assistant
+360,Makeup Artist
+361,Makeup Department Head
+362,Makeup Designer
+363,Makeup Effects
+364,Makeup Effects Designer
+365,Makeup Supervisor
+366,Manager of Operations
+367,Marine Coordinator
+368,Martial Arts Choreographer
+369,Master Lighting Artist
+370,Matchmove Supervisor
+371,Matte Painter
+372,Mechanical & Creature Designer
+373,Mechanical Designer
+374,Medical Consultant
+375,Military Consultant
+376,Mix Technician
+377,Mixing Engineer
+378,Modeling
+379,Modelling Supervisor
+380,Motion Capture Artist
+381,Music
+382,Music Arranger
+383,Music Consultant
+384,Music Coordinator
+385,Music Director
+386,Music Editor
+387,Music Producer
+388,Music Programmer
+389,Music Score Producer
+390,Music Supervisor
+391,Musical
+392,Musical Casting
+393,Musician
+394,Negative Cutter
+395,Novel
+396,On Set Dresser
+397,Online Editor
+398,Opening/Ending Animation
+399,Orchestrator
+400,Original Concept
+401,Original Film Writer
+402,Original Music Composer
+403,Original Series Creator
+404,Original Story
+405,Other
+406,Paint Coordinator
+407,Painter
+408,Photo Retouching
+409,Photoscience Manager
+410,Picture Car Coordinator
+411,Pilot
+412,Pipeline Technical Director
+413,Playback Singer
+414,Poem
+415,Post Producer
+416,Post Production Accountant
+417,Post Production Assistant
+418,Post Production Consulting
+419,Post Production Coordinator
+420,Post Production Producer
+421,Post Production Supervisor
+422,Post-Production Manager
+423,Pre-Visualization Supervisor
+424,Presenter
+425,Producer
+426,Producer's Assistant
+427,Production Accountant
+428,Production Artist
+429,Production Assistant
+430,Production Consultant
+431,Production Controller
+432,Production Coordinator
+433,Production Design
+434,Production Designer
+435,Production Director
+436,Production Executive
+437,Production Illustrator
+438,Production Intern
+439,Production Manager
+440,Production Office Assistant
+441,Production Office Coordinator
+442,Production Runner
+443,Production Secretary
+444,Production Sound Mixer
+445,Production Supervisor
+446,Projection
+447,Prop Designer
+448,Prop Maker
+449,Property Buyer
+450,Property Master
+451,Propmaker
+452,Props
+453,Prosthetic Designer
+454,Prosthetic Makeup Artist
+455,Prosthetic Supervisor
+456,Prosthetics
+457,Prosthetics Sculptor
+458,Public Relations
+459,Publicist
+460,Pyrotechnic Supervisor
+461,Pyrotechnician
+462,Quality Control Supervisor
+463,Radio Play
+464,Recording Supervision
+465,Research Assistant
+466,Researcher
+467,Rigging Gaffer
+468,Rigging Grip
+469,Rigging Supervisor
+470,Roto Supervisor
+471,Rotoscoping Artist
+472,Russian Arm Operator
+473,Scenario Writer
+474,Scenic Artist
+475,Schedule Coordinator
+476,Score Engineer
+477,Scoring Mixer
+478,Screenplay
+479,Screenstory
+480,Script
+481,Script Consultant
+482,Script Coordinator
+483,Script Editor
+484,Script Researcher
+485,Script Supervisor
+486,Sculptor
+487,Seamstress
+488,Second Assistant Camera
+489,Second Assistant Director
+490,Second Assistant Sound
+491,Second Film Editor
+492,Second Second Assistant Director
+493,Second Unit
+494,Second Unit Cinematographer
+495,Second Unit Director
+496,Second Unit Director of Photography
+497,Second Unit First Assistant Director
+498,Security
+499,Security Coordinator
+500,Senior Animator
+501,Senior Colorist
+502,Senior Visual Effects Supervisor
+503,Sequence Leads
+504,Sequence Supervisor
+505,Series Composition
+506,Set Buyer
+507,Set Costumer
+508,Set Decorating Coordinator
+509,Set Decoration
+510,Set Decoration Buyer
+511,Set Designer
+512,Set Dresser
+513,Set Dressing Artist
+514,Set Dressing Buyer
+515,Set Dressing Manager
+516,Set Dressing Production Assistant
+517,Set Dressing Supervisor
+518,Set Medic
+519,Set Production Assistant
+520,Set Production Intern
+521,Set Supervisor
+522,Sets & Props Artist
+523,Settings
+524,Shading
+525,Shoe Design
+526,Short Story
+527,Simulation & Effects Artist
+528,Simulation & Effects Production Assistant
+529,Software Engineer
+530,Software Team Lead
+531,Songs
+532,Sound
+533,Sound Assistant
+534,Sound Design Assistant
+535,Sound Designer
+536,Sound Director
+537,Sound Editor
+538,Sound Effects
+539,Sound Effects Designer
+540,Sound Effects Editor
+541,Sound Engineer
+542,Sound Mix Technician
+543,Sound Mixer
+544,Sound Montage Associate
+545,Sound Post Production Coordinator
+546,Sound Post Supervisor
+547,Sound Re-Recording Assistant
+548,Sound Re-Recording Mixer
+549,Sound Recordist
+550,Sound Supervisor
+551,Sound Technical Supervisor
+552,Sound mixer
+553,Special Effects
+554,Special Effects Assistant
+555,Special Effects Coordinator
+556,Special Effects Key Makeup Artist
+557,Special Effects Makeup Artist
+558,Special Effects Manager
+559,Special Effects Supervisor
+560,Special Effects Technician
+561,Special Props
+562,Special Sound Effects
+563,Stand In
+564,Standby Art Director
+565,Standby Painter
+566,Steadicam Operator
+567,Steadycam
+568,Stereoscopic Coordinator
+569,Stereoscopic Supervisor
+570,Stereoscopic Technical Director
+571,Still Photographer
+572,Story
+573,Story Artist
+574,Story Consultant
+575,Story Coordinator
+576,Story Manager
+577,Story Supervisor
+578,Storyboard
+579,Storyboard Artist
+580,Storyboard Assistant
+581,Storyboard Designer
+582,Studio Teachers
+583,Stunt Coordinator
+584,Stunt Double
+585,Stunt Driver
+586,Stunts
+587,Stunts Coordinator
+588,Supervising ADR Editor
+589,Supervising Animation Director
+590,Supervising Animator
+591,Supervising Art Director
+592,Supervising Dialogue Editor
+593,Supervising Editor
+594,Supervising Film Editor
+595,Supervising Music Editor
+596,Supervising Producer
+597,Supervising Sound Editor
+598,Supervising Sound Effects Editor
+599,Supervising Technical Director
+600,Systems Administrators & Support
+601,Tailor
+602,Tattoo Designer
+603,Tattooist
+604,Technical Advisor
+605,Technical Supervisor
+606,Techno Crane Operator
+607,Telecine Colorist
+608,Teleplay
+609,Temp Music Editor
+610,Temp Sound Editor
+611,Thanks
+612,Theatre Play
+613,Theme Song Performance
+614,Third Assistant Camera
+615,Third Assistant Director
+616,Title Designer
+617,Title Graphics
+618,Translator
+619,Transportation Captain
+620,Transportation Co-Captain
+621,Transportation Coordinator
+622,Travel Coordinator
+623,Truck Costumer
+624,Underwater Camera
+625,Underwater Director of Photography
+626,Underwater Gaffer
+627,Unit Manager
+628,Unit Production Manager
+629,Unit Publicist
+630,Utility Sound
+631,Utility Stunts
+632,VFX Artist
+633,VFX Director of Photography
+634,VFX Editor
+635,VFX Lighting Artist
+636,VFX Production Coordinator
+637,VFX Supervisor
+638,Video Assist Operator
+639,Video Game
+640,Visual Development
+641,Visual Effects
+642,Visual Effects Art Director
+643,Visual Effects Compositor
+644,Visual Effects Coordinator
+645,Visual Effects Design Consultant
+646,Visual Effects Designer
+647,Visual Effects Editor
+648,Visual Effects Producer
+649,Visual Effects Production Assistant
+650,Visual Effects Production Manager
+651,Visual Effects Supervisor
+652,Visual Effects Technical Director
+653,Vocal Coach
+654,Vocals
+655,Wardrobe Assistant
+656,Wardrobe Supervisor
+657,Weapons Master
+658,Web Designer
+659,Wig Designer
+660,Wigmaker
+661,Writer
+662,Writers' Assistant
+663,Writers' Production
+664,actor
