@@ -225,11 +225,11 @@ final_mk = pd.concat([old_mk, new_mk]).drop_duplicates().reset_index(drop=True)
 # 8. EXPORT
 # =========================
 
-all_keywords.to_csv("keyword_final.csv", index=False)
-final_mk.to_csv("movie_keyword_final.csv", index=False)
+all_keywords.to_csv("keyword.csv", index=False)
+final_mk.to_csv("movie_keyword.csv", index=False)
 
 print("🎉 DONE!")
-print("keyword_final.csv & movie_keyword_final.csv created")
+print("keyword.csv & movie_keyword.csv created")
 
 # #-------------------------------------------------------------
 # import pandas as pd
